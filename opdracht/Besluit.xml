@@ -36,15 +36,31 @@
          <BeoogdeRegelgeving>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/join/id/proces/gm0010/2021/Instelling</doel>
+                  <doel>/join/id/proces/gm0010/2021/IntrekkenVervangenBruidsschatDelfzijl</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/gm0010/2021/Delfzijl_test001/nld@2021-03-09;2</instrumentVersie>
-               <eId/>
+               <eId>art_II</eId>
             </BeoogdeRegeling>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0010/2021/IntrekkenVervangenBruidsschatDelfzijl</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0010/2021/Delfzijlkamerverhuur/nld@2021-03-09;1</instrumentVersie>
+               <eId>!intrekking_vervanging#cmp_III__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
+         <Intrekkingen>
+            <Intrekking>
+               <doelen>
+                  <doel>/join/id/proces/gm0010/2021/IntrekkenVervangenBruidsschatDelfzijl</doel>
+               </doelen>
+               <instrument>/akn/nl/act/gm0010/2020/omgevingsplan</instrument>
+               <eId>art_I</eId>
+            </Intrekking>
+         </Intrekkingen>
          <Tijdstempels>
             <Tijdstempel>
-               <doel>/join/id/proces/gm0010/2021/Instelling</doel>
+               <doel>/join/id/proces/gm0010/2021/IntrekkenVervangenBruidsschatDelfzijl</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
                <datum>2021-03-09</datum>
                <eId>art_II</eId>
@@ -65,7 +81,7 @@
                   <Nummer>I</Nummer>
                   <Opschrift>[optioneel opschrift]</Opschrift>
                </Kop>
-               <Wat>[omschrijving wat er besloten wordt, met een verwijzing naar de WijzigBijlage]</Wat>
+               <Wat>Er wordt besloten dat we artikelen gaan verplaatsen. Daarnaast hebben we een facetbestemmingsplan overgenomen in het omgevingsplan.</Wat>
             </WijzigArtikel>
             <Artikel eId="art_II" wId="gm0010_2__art_II">
                <Kop>
@@ -74,7 +90,7 @@
                   <Opschrift>[optioneel opschrift]</Opschrift>
                </Kop>
                <Inhoud>
-                  <Al>[artikel dat de inwerkingtreding vaststelt]</Al>
+                  <Al>Dit besluit treedt</Al>
                </Inhoud>
             </Artikel>
          </Lichaam>
@@ -87,7 +103,7 @@
                <Nummer>I</Nummer>
                <Opschrift>[optioneel opschrift]</Opschrift>
             </Kop>
-            <RegelingCompact componentnaam="initieel_reg"
+            <RegelingCompact componentnaam="intrekking_vervanging"
                              wordt="/akn/nl/act/gm0010/2021/Delfzijl_test001/nld@2021-03-09;2">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Omgevingsplan gemeente Delfzijl</Al>
@@ -19876,6 +19892,27 @@
                      </Divisie>
                   </Divisie>
                </Bijlage>
+               <Bijlage eId="cmp_III" wId="gm0010_2__cmp_III">
+                  <Kop>
+                     <Label>Bijlage</Label>
+                     <Nummer>III</Nummer>
+                     <Opschrift>Overzicht Informatieobjecten</Opschrift>
+                  </Kop>
+                  <Divisietekst eId="cmp_III__content_o_1" wId="gm0010_2__cmp_III__content_o_1">
+                     <Inhoud>
+                        <Begrippenlijst eId="cmp_III__content_o_1__list_o_1" wId="gm0010_2__cmp_III__content_o_1__list_o_1">
+                           <Begrip eId="cmp_III__content_o_1__list_o_1__item_o_1" wId="gm0010_2__cmp_III__content_o_1__list_o_1__item_o_1">
+                              <Term>Delfzijl kamerverhuur</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_III__content_o_1__list_o_1__item_o_1__ref_o_1" wId="gm0010_2__cmp_III__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/gm0010/2021/Delfzijlkamerverhuur/nld@2021-03-09;1">/join/id/regdata/gm0010/2021/Delfzijlkamerverhuur/nld@2021-03-09;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                        </Begrippenlijst>
+                     </Inhoud>
+                  </Divisietekst>
+               </Bijlage>
             </RegelingCompact>
          </WijzigBijlage>
       </BesluitCompact>
@@ -19903,6 +19940,19 @@
          <rechtsgebieden>
             <rechtsgebied>geen</rechtsgebied>
          </rechtsgebieden>
+         <opvolging>
+            <opvolgerVan>/akn/nl/act/gm0010/2020/omgevingsplan</opvolgerVan>
+         </opvolging>
       </RegelingMetadata>
+   </RegelingVersieInformatie>
+   <RegelingVersieInformatie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/gm0010/2020/omgevingsplan</FRBRWork>
+         <FRBRExpression>/akn/nl/act/gm0010/2020/omgevingsplan/nld@1-0</FRBRExpression> 
+         <soortWork>/join/id/stop/work_019</soortWork>
+      </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>1-0</versienummer>
+      </RegelingVersieMetadata>
    </RegelingVersieInformatie>
 </AanleveringBesluit>
