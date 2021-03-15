@@ -7,13 +7,13 @@
       <WorkIDRegeling>/akn/nl/act/gm0010/2021/Delfzijl_test001</WorkIDRegeling>
       <DoelID>/join/id/proces/gm0010/2021/IntrekkenVervangenBruidsschatDelfzijl</DoelID>
       <Bestand>
-         <naam>owLocaties-Gemeentestad.xml</naam>
+         <naam>owLocaties.xml</naam>
          <objecttype>Gebiedengroep</objecttype>
          <objecttype>Gebied</objecttype>
 		 <objecttype>Ambtsgebied</objecttype>
       </Bestand>
       <Bestand>
-         <naam>owRegeltekst-Gemeentestad.xml</naam>
+         <naam>owRegeltekst.xml</naam>
          <objecttype>Regeltekst</objecttype>
          <objecttype>RegelVoorIedereen</objecttype>
       </Bestand>

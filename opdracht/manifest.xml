@@ -25,11 +25,11 @@
         <contentType>application/xml</contentType>
     </bestand>
         <bestand>
-        <bestandsnaam>owLocaties-Gemeentestad.xml</bestandsnaam>
+        <bestandsnaam>owLocaties.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
         <bestand>
-        <bestandsnaam>owRegeltekst-Gemeentestad.xml</bestandsnaam>
+        <bestandsnaam>owRegeltekst.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
 </manifest>
