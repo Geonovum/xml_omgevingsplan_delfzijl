@@ -13,14 +13,17 @@
          <eindverantwoordelijke>/tooi/id/gemeente/gm0010</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm0010</maker>
          <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
-         <officieleTitel>Omgevingsplan gemeente Delfzijl</officieleTitel>
+         <officieleTitel>wijziging omgevingsplan Delfzijl n.a.v. opnemen bestemmingsplan kamerverhuur</officieleTitel>
          <onderwerpen>
-            <onderwerp>geen</onderwerp>
+            <onderwerp>/tooi/def/concept/c_124eaf3a</onderwerp>
          </onderwerpen>
          <rechtsgebieden>
-            <rechtsgebied>geen</rechtsgebied>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+         <informatieobjectRefs>
+            <informatieobjectRef>/join/id/regdata/gm0010/2021/Delfzijlkamerverhuur/nld@2021-03-09;1</informatieobjectRef>
+         </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <bekendOp>2021-03-02</bekendOp>
@@ -39,7 +42,7 @@
                   <doel>/join/id/proces/gm0010/2021/IntrekkenVervangenBruidsschatDelfzijl</doel> <!--handmatig vervangen-->
                </doelen>
                <instrumentVersie>/akn/nl/act/gm0010/2021/Delfzijl_test001/nld@2021-03-15;2</instrumentVersie>
-               <eId/>
+               <eId>art_I</eId>            
             </BeoogdeRegeling>
             <BeoogdInformatieobject> <!--handmatig toevoegen-->
                <doelen>
@@ -69,7 +72,7 @@
       </ConsolidatieInformatie>
       <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
          <RegelingOpschrift eId="longTitle" wId="longTitle">
-            <Al>[regelingopschrift van het besluit]</Al>
+            <Al>wijziging omgevingsplan Delfzijl n.a.v. opnemen bestemmingsplan kamerverhuur</Al>
          </RegelingOpschrift>
          <Aanhef eId="formula_1" wId="formula_1">
             <Al>[optionele aanhef]</Al>
@@ -103,7 +106,7 @@
                <Nummer>I</Nummer>
                <Opschrift>[optioneel opschrift]</Opschrift>
             </Kop>
-            <RegelingCompact componentnaam="initieel_reg"
+            <RegelingCompact componentnaam="intrekking_vervanging"
                              wordt="/akn/nl/act/gm0010/2021/Delfzijl_test001/nld@2021-03-15;2">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Omgevingsplan gemeente Delfzijl</Al>
@@ -14047,8 +14050,7 @@
                                     
                                     <Al>Onder brandgevaarlijke stoffen wordt in dit verband verstaan: vaste stoffen, vloeistoffen en gassen die brandbaar of brandbevorderend zijn of bij brand gevaar opleveren. Voor zover die stoffen aanwezig zijn in of op een bouwwerk is die aanwezigheid voortaan landelijk geregeld met de specifieke zorgplicht voor het brandveilig gebruik van bouwwerken (artikel 6.4 van het Besluit brandveilig gebruik bouwwerken). Het stellen van regels over bedrijfsmatige opslag van stoffen die zowel brand- als milieugevaarlijk zijn, geschiedt in het Besluit activiteiten leefomgeving en in omgevingsvergunningen voor milieubelastende activiteiten. Dit artikel beperkt zich tot huishoudelijke opslag, dat wil zeggen kleinere hoeveelheden die – rekening houdend met de gevaarsaspecten van die stoffen – voor de goede bedrijfsvoering als werkvoorraad mogen worden beschouwd. Dit is in dit artikel uitgewerkt in een verbod op het aanwezig hebben van brandgevaarlijke stoffen in combinatie met expliciete uitzonderingen op dat verbod. In de bij dit artikel opgenomen tabel 3.2.1 is per soort stof en verpakkingsgroep aangegeven welke hoeveelheid van een brandgevaarlijke stof is toegestaan.</Al>
                                     
-                                    <Al>In de eerste kolom van de tabel zijn die stoffen geordend in overeenstemming met de deelverzameling ‘stoffen die zowel milieu- als brandgevaarlijk zijn’ van de ADR (Europese overeenkomst van 30 september 1957 betreffende het internationaal vervoer van gevaarlijke stoffen over de weg; <ExtRef ref="file:///C:\Users\RicharddeGraaf\Desktop\Geonovum\4%20-%20Voorbeeldbestanden\Lokaal\imop2word\word\trb-1959-171"
-                                               soort="URL">Trb. 1959, 171</ExtRef>). Conform de ADR-terminologie wordt daarbij de netto massa in kilo’s gehanteerd als eenheid voor het vaststellen van hoeveelheden vaste stoffen, vloeibaar gemaakte gassen en onder druk opgeloste gassen en wordt de nominale inhoud in liters als eenheid gehanteerd wanneer het vloeistoffen en samengeperste gassen betreft.</Al>
+                                    <Al>In de eerste kolom van de tabel zijn die stoffen geordend in overeenstemming met de deelverzameling ‘stoffen die zowel milieu- als brandgevaarlijk zijn’ van de ADR (Europese overeenkomst van 30 september 1957 betreffende het internationaal vervoer van gevaarlijke stoffen over de weg; <ExtRef ref="trb-1959-171" soort="document">Trb. 1959, 171</ExtRef>). Conform de ADR-terminologie wordt daarbij de netto massa in kilo’s gehanteerd als eenheid voor het vaststellen van hoeveelheden vaste stoffen, vloeibaar gemaakte gassen en onder druk opgeloste gassen en wordt de nominale inhoud in liters als eenheid gehanteerd wanneer het vloeistoffen en samengeperste gassen betreft.</Al>
                                     
                                     <Al>In het eerste lid is het verbod op het aanwezig hebben van een brandgevaarlijke stof opgenomen. Of iets een brandgevaarlijke stof is, is te lezen in tabel 3.20. Uit deze tabel blijkt dat ook medicinale zuurstof een gas is dat onder het voorschrift van dit artikel valt.</Al>
                                     
@@ -14158,8 +14160,7 @@
                               <Divisietekst eId="cmp_o_2__div_3__div_3.2__div_3.2.6__div_3.23__content_o_1"
                                             wId="gm0010_2__cmp_o_2__div_3__div_3.2__div_3.2.6__div_3.23__content_o_1">
                                  <Inhoud>
-                                    <Al>Dit artikel is een voortzetting van artikel 41a van de Monumentenwet 1988, zoals die wet luidde voor de inwerkingtreding van de Erfgoedwet, dat een vrijstelling van de archeologische onderzoeksplicht bevatte. Dit artikel voorkomt dat er in dit omgevingsplan een lacune zou ontstaan door het wegvallen van artikel 41a. Het gaat hierbij om bodemverstoringen op huis-tuin-en-keukenniveau. Er worden geen grootschalige projecten mee vrijgesteld. Zie ook de toelichting bij artikel 5.130 van het Besluit kwaliteit leefomgeving (<ExtRef ref="file:///C:\Users\RicharddeGraaf\Desktop\Geonovum\4%20-%20Voorbeeldbestanden\Lokaal\imop2word\word\stb-2018-292"
-                                               soort="URL">Staatsblad 2018, nr. 292</ExtRef>, p. 384 e.v.).</Al>
+                                    <Al>Dit artikel is een voortzetting van artikel 41a van de Monumentenwet 1988, zoals die wet luidde voor de inwerkingtreding van de Erfgoedwet, dat een vrijstelling van de archeologische onderzoeksplicht bevatte. Dit artikel voorkomt dat er in dit omgevingsplan een lacune zou ontstaan door het wegvallen van artikel 41a. Het gaat hierbij om bodemverstoringen op huis-tuin-en-keukenniveau. Er worden geen grootschalige projecten mee vrijgesteld. Zie ook de toelichting bij artikel 5.130 van het Besluit kwaliteit leefomgeving (<ExtRef ref="stb-2018-292" soort="document">Staatsblad 2018, nr. 292</ExtRef>, p. 384 e.v.).</Al>
                                     
                                     <Al>Het eerste lid bepaalt dat als er in het tijdelijke deel van dit omgevingsplan, bedoeld in Artikel 3.1, onder a, van de Omgevingswet regels zijn gesteld over het verrichten van archeologisch onderzoek in het kader van een aanvraag om een omgevingsvergunning voor een bouwactiviteit of het uitvoeren van een werk, geen bouwwerk zijnde, of een werkzaamheid (ook wel: aanlegactiviteit) deze regels niet gelden als de activiteit betrekking heeft op een oppervlakte van minder dan 100 m<sup>2</sup>. Deze activiteiten zijn vrijgesteld van het vereiste om bij de aanvraag om een omgevingsvergunning een archeologisch rapport aan te leveren en van eventuele vergunningvoorschriften in het belang van de archeologische monumentenzorg.</Al>
                                     
@@ -14345,8 +14346,7 @@
                                           
                                           <Al>Toepassing van deze beoordelingsregels kan ertoe leiden dat, ondanks dat aan de beoordelingsregels uit Artikel 3.30 wordt voldaan, de vergunning toch geweigerd moet worden als voor de locatie waarop de aanvraag betrekking heeft kort gezegd nog een onder oud recht genomen voorbereidingsbesluit van kracht is of een besluit krachtens de Wet luchtvaart dat geldt als een zodanig voorbereidingsbesluit, of een aanwijzing tot beschermd stads- of dorpsgezicht waarvoor nog geen tot bescherming daarvan strekkend omgevingsplan geldt. De plicht om de vergunning te weigeren doet zich in dat geval voor als de activiteit niet in overeenstemming is met het in voorbereiding zijnde omgevingsplan of met het in voorbereiding zijnde omgevingsplan dat voorziet in de bescherming van het stads- of dorpsgezicht.</Al>
                                           
-                                          <Al>Voor een meer uitgebreide toelichting op de gevolgen van het vervallen van de aanhoudingsplicht op grond van de Wet algemene bepalingen omgevingsrecht wordt verwezen naar de toelichting bij de tweede nota van wijziging van het wetsvoorstel Invoeringswet Omgevingswet (<i>Kamerstukken II</i> 2018/19, <ExtRef ref="file:///C:\Users\RicharddeGraaf\Desktop\Geonovum\4%20-%20Voorbeeldbestanden\Lokaal\imop2word\word\kst-34986-9"
-                                                     soort="URL">34 986, nr. 9</ExtRef>, p. 35-42).</Al>
+                                          <Al>Voor een meer uitgebreide toelichting op de gevolgen van het vervallen van de aanhoudingsplicht op grond van de Wet algemene bepalingen omgevingsrecht wordt verwezen naar de toelichting bij de tweede nota van wijziging van het wetsvoorstel Invoeringswet Omgevingswet (<i>Kamerstukken II</i> 2018/19, <ExtRef ref="kst-34986-9" soort="document">34 986, nr. 9</ExtRef>, p. 35-42).</Al>
                                        </Inhoud>
                                     </Divisietekst>
                                  </Divisie>
@@ -14607,8 +14607,7 @@
                                     
                                     <Al>De specifieke zorgplichten die in dit artikel zijn opgenomen, blijven gelden naast de algemene regels van deze afdeling in dit omgevingsplan, eventuele maatwerkvoorschriften en de vergunningplichten die in deze afdeling zijn opgenomen.</Al>
                                     
-                                    <Al>Tegen een overtreding van de specifieke zorgplicht kan handhavend worden opgetreden. Handhavend optreden ligt voor de hand bij evidente overtredingen van de specifieke zorgplicht. Daarvan is sprake in situaties waarin het handelen of nalaten van degene die de activiteit verricht onmiskenbaar in strijd is met de specifieke zorgplicht. Er kunnen ook situaties aan de orde zijn waarin niet direct duidelijk is of van onmiskenbare strijd sprake is. Het bevoegd gezag zal dan een keuze moeten maken tussen een handhavingstraject of het eerst verduidelijken wat de specifieke zorgplicht inhoudt. Die verduidelijking kan in de vorm van het stellen van een maatwerkvoorschrift (zie het navolgende artikel) maar dat hoeft niet. Ook wanneer het bevoegd gezag degene die de activiteit verricht mondeling of schriftelijk informeert over wat er in een concreet geval onder de specifieke zorgplicht moet worden verstaan, is het voor diegene na ontvangst van die informatie duidelijk wat er verwacht wordt. Als daar geen gevolg aan wordt gegeven, is er sprake van onmiskenbare strijd met de specifieke zorgplicht. Een uitgebreidere uiteenzetting van de mogelijkheden om handhavend op te treden tegen overtredingen van de specifieke zorgplicht is opgenomen in de nota van toelichting bij het Besluit activiteiten leefomgeving (<ExtRef ref="file:///C:\Users\RicharddeGraaf\Desktop\Geonovum\4%20-%20Voorbeeldbestanden\Lokaal\imop2word\word\stb-2018-293"
-                                               soort="URL">Stb. 2018, 293</ExtRef>, p. 526-527).</Al>
+                                    <Al>Tegen een overtreding van de specifieke zorgplicht kan handhavend worden opgetreden. Handhavend optreden ligt voor de hand bij evidente overtredingen van de specifieke zorgplicht. Daarvan is sprake in situaties waarin het handelen of nalaten van degene die de activiteit verricht onmiskenbaar in strijd is met de specifieke zorgplicht. Er kunnen ook situaties aan de orde zijn waarin niet direct duidelijk is of van onmiskenbare strijd sprake is. Het bevoegd gezag zal dan een keuze moeten maken tussen een handhavingstraject of het eerst verduidelijken wat de specifieke zorgplicht inhoudt. Die verduidelijking kan in de vorm van het stellen van een maatwerkvoorschrift (zie het navolgende artikel) maar dat hoeft niet. Ook wanneer het bevoegd gezag degene die de activiteit verricht mondeling of schriftelijk informeert over wat er in een concreet geval onder de specifieke zorgplicht moet worden verstaan, is het voor diegene na ontvangst van die informatie duidelijk wat er verwacht wordt. Als daar geen gevolg aan wordt gegeven, is er sprake van onmiskenbare strijd met de specifieke zorgplicht. Een uitgebreidere uiteenzetting van de mogelijkheden om handhavend op te treden tegen overtredingen van de specifieke zorgplicht is opgenomen in de nota van toelichting bij het Besluit activiteiten leefomgeving (<ExtRef ref="stb-2018-293" soort="document">Stb. 2018, 293</ExtRef>, p. 526-527).</Al>
                                     <Lijst eId="cmp_o_2__div_3__div_3.3__div_3.3.1__div_3.42__content_o_1__list_o_1"
                                            wId="gm0010_2__cmp_o_2__div_3__div_3.3__div_3.3.1__div_3.42__content_o_1__list_o_1"
                                            type="expliciet">
@@ -19431,9 +19430,7 @@
                                     <Lijst eId="cmp_o_2__div_3__div_3.5__div_3.5.1__div_3.272__content_o_1__list_o_2"
                                            wId="gm0010_2__cmp_o_2__div_3__div_3.5__div_3.5.1__div_3.272__content_o_1__list_o_2"
                                            type="expliciet">
-                                       <Lijstaanhef>Bij de beoordeling van de vergunningaanvraag zal het belang van de (archeologische) monumentenzorg bij het behoud van het monument of archeologisch monument in redelijkheid moeten worden afgewogen tegen de belangen van de aanvrager (eigenaar/gebruiker) en die van derde belanghebbenden. Bij die belangenafweging staat het voorkomen van nadelige gevolgen van de aangevraagde activiteiten voor het monument of archeologisch monument en de monumentale waarden ervan voorop. Ook zal er bij de beoordeling van een aanvraag voor een omgevingsvergunning rekening moeten worden gehouden met de volgende beginselen uit het verdrag van Granada (de op 3 oktober 1985 te Granada tot stand gekomen Overeenkomst inzake het behoud van het architectonische erfgoed van Europa; <ExtRef ref="file:///C:\Users\RicharddeGraaf\Desktop\Geonovum\4%20-%20Voorbeeldbestanden\Lokaal\imop2word\word\trb-1985-163"
-                                                  soort="URL">Trb. 1985, 163</ExtRef>) en het verdrag van Valletta (het op 16 januari 1992 te Valletta tot stand gekomen herziene Europees Verdrag inzake de bescherming van het archeologisch erfgoed; <ExtRef ref="file:///C:\Users\RicharddeGraaf\Desktop\Geonovum\4%20-%20Voorbeeldbestanden\Lokaal\imop2word\word\trb-1992-32"
-                                                  soort="URL">Trb. 1992, 32</ExtRef>):</Lijstaanhef>
+                                       <Lijstaanhef>Bij de beoordeling van de vergunningaanvraag zal het belang van de (archeologische) monumentenzorg bij het behoud van het monument of archeologisch monument in redelijkheid moeten worden afgewogen tegen de belangen van de aanvrager (eigenaar/gebruiker) en die van derde belanghebbenden. Bij die belangenafweging staat het voorkomen van nadelige gevolgen van de aangevraagde activiteiten voor het monument of archeologisch monument en de monumentale waarden ervan voorop. Ook zal er bij de beoordeling van een aanvraag voor een omgevingsvergunning rekening moeten worden gehouden met de volgende beginselen uit het verdrag van Granada (de op 3 oktober 1985 te Granada tot stand gekomen Overeenkomst inzake het behoud van het architectonische erfgoed van Europa; <ExtRef ref="trb-1985-163" soort="document">Trb. 1985, 163</ExtRef>) en het verdrag van Valletta (het op 16 januari 1992 te Valletta tot stand gekomen herziene Europees Verdrag inzake de bescherming van het archeologisch erfgoed; <ExtRef ref="trb-1992-32" soort="document">Trb. 1992, 32</ExtRef>):</Lijstaanhef>
                                        <Li eId="cmp_o_2__div_3__div_3.5__div_3.5.1__div_3.272__content_o_1__list_o_2__item_a"
                                            wId="gm0010_2__cmp_o_2__div_3__div_3.5__div_3.5.1__div_3.272__content_o_1__list_o_2__item_a">
                                           <LiNummer>a.</LiNummer>
@@ -20031,13 +20028,13 @@
          <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
          <officieleTitel>Omgevingsplan gemeente Delfzijl</officieleTitel>
          <overheidsdomeinen>
-            <overheidsdomein>geen</overheidsdomein>
+            <overheidsdomein>/tooi/def/concept/c_3708ac5e</overheidsdomein>
          </overheidsdomeinen>
          <onderwerpen>
-            <onderwerp>geen</onderwerp>
+            <onderwerp>/tooi/def/concept/c_124eaf3a</onderwerp>
          </onderwerpen>
          <rechtsgebieden>
-            <rechtsgebied>geen</rechtsgebied>
+            <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
          </rechtsgebieden>
          <opvolging>
             <opvolgerVan>/akn/nl/act/gm0010/2020/omgevingsplan</opvolgerVan> <!--handmatig toevoegen-->
