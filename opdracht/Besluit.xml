@@ -84,7 +84,7 @@
                   <Nummer>I</Nummer>
                   <Opschrift>[optioneel opschrift]</Opschrift>
                </Kop>
-               <Wat>[omschrijving wat er besloten wordt, met een verwijzing naar de WijzigBijlage]</Wat>
+               <Wat>We hebben alle artikelen van de bruidsschat geplaatst in het omgevingsplan middels intrekken en vervangen zoals aangegeven in <IntRef ref="cmp_I">Bijlage I</IntRef>.</Wat>
             </WijzigArtikel>
             <Artikel eId="art_II" wId="gm0010_2__art_II">
                <Kop>
