@@ -35,4 +35,12 @@
       <bestandsnaam>gm0010Locaties_Geonovum.xml</bestandsnaam>
       <contentType>application/xml</contentType>
    </bestand>
+   <bestand>
+      <bestandsnaam>Delfzijl.gml</bestandsnaam>
+      <contentType>application/gml+xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>GIO-Delfzijl.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
 </manifest>
