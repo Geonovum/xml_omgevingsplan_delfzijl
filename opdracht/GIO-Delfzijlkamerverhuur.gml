@@ -16,11 +16,11 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/gm0010/2021/Delfzijl</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/gm0010/2021/Delfzijl/nld@2021-02-01;3520</geo:FRBRExpression>
+         <geo:FRBRWork>/join/id/regdata/gm0010/2021/Delfzijlkamerverhuur</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/gm0010/2021/Delfzijlkamerverhuur/nld@2021-03-09;1</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
-               <geo:naam>Delfzijl</geo:naam>
+               <geo:naam>Delfzijl kamerverhuur</geo:naam>
                <geo:geometrie>
                   <basisgeo:Geometrie gml:id="id-d1fc3632-1f57-4081-9bf9-c3d3e2047598">
                      <basisgeo:id>d1fc3632-1f57-4081-9bf9-c3d3e2047598</basisgeo:id>
