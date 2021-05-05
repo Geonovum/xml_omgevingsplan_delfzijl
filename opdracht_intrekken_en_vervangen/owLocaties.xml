@@ -19,7 +19,6 @@
          <sl:objectTypen>
             <sl:objectType>Gebied</sl:objectType>
             <sl:objectType>Gebiedengroep</sl:objectType>
-            <sl:objectType>Ambtsgebied</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
       <sl:stand>
@@ -43,15 +42,25 @@
             </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
+<!--      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0010.gebiedengroep.Delfzijl</l:identificatie>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0010.gebied.Delfzijl"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <l:Ambtsgebied>
-               <l:identificatie>GM1979</l:identificatie>
-               <l:noemer>Gemeente Delfzijl, eigenlijk Eemsdelta</l:noemer>
-               <l:domein>NL.BI.BestuurlijkGebied</l:domein>
-               <l:geldigOp>2021-01-01</l:geldigOp>
-            </l:Ambtsgebied>
-         </ow-dc:owObject> 
-      </sl:stand>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0010.gebied.Delfzijl</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="966cdc83-0438-4212-823b-0dadead575da"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>-->
    </sl:standBestand>
 </ow-dc:owBestand>

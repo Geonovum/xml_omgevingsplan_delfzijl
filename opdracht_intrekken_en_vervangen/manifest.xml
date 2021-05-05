@@ -20,6 +20,14 @@
         <bestandsnaam>GIO-Delfzijlkamerverhuur.gml</bestandsnaam>
         <contentType>application/gml+xml</contentType>
     </bestand>
+    <bestand>
+        <bestandsnaam>GIO-Delfzijl.xml</bestandsnaam>
+        <contentType>application/xml</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>Delfzijl.gml</bestandsnaam>
+        <contentType>application/gml+xml</contentType>
+    </bestand>
         <bestand>
         <bestandsnaam>manifest-ow.xml</bestandsnaam>
         <contentType>application/xml</contentType>
