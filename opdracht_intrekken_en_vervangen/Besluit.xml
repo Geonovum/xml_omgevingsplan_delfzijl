@@ -396,7 +396,7 @@
                            <Inhoud>
                               <Al>Het is niet toegestaan om een woning te gebruiken of te laten
                                  gebruiken ten behoeve van meer dan één huishouden, daaronder
-                                 begrepen kamerverhuur. </Al>
+                                 begrepen <IntIoRef eId="chp_3__subchp_3.3__art_3.5a__ref_o_1" wId="gm0010_2__chp_3__subchp_3.3__art_3.5a__ref_o_1" ref="gm0010_2__cmp_III__content_o_1__list_o_1__item_o_2__ref_o_1">kamerverhuur</IntIoRef>.</Al>
 
                            </Inhoud>
                         </Artikel>
@@ -18919,7 +18919,7 @@
                               <Opschrift>(citeertitel)</Opschrift>
                            </Kop>
                            <Inhoud>
-                              <Al>Dit omgevingsplan wordt aangehaald als: Omgevingsplan gemeente Delfzijl.</Al>
+                              <Al>Dit omgevingsplan wordt aangehaald als: Omgevingsplan gemeente <IntIoRef eId="chp_10__subchp_10.2__art_10.1__ref_o_1" wId="gm0010_2__chp_10__subchp_10.2__art_10.1__ref_o_1" ref="gm0010_2__cmp_III__content_o_1__list_o_1__item_o_1__ref_o_1">Delfzijl</IntIoRef>.</Al>
                            </Inhoud>
                         </Artikel>
                      </Afdeling>
