@@ -228,6 +228,7 @@
                            <Nummer>2.1</Nummer>
                            <Opschrift>Programma’s met programmatische aanpak</Opschrift>
                         </Kop>
+                        <Gereserveerd/>
                      </Afdeling>
                   </Hoofdstuk>
                   <Hoofdstuk eId="chp_3" wId="gm0010_2__chp_3">
@@ -6226,6 +6227,7 @@
                                  <Nummer>3.3.7.4</Nummer>
                                  <Opschrift>Saneren van de bodem in het gebied De Kempen</Opschrift>
                               </Kop>
+                              <Gereserveerd/>
                            </Subparagraaf>
                         </Paragraaf>
                         <Paragraaf eId="chp_3__subchp_3.4__subsec_3.4.8"
@@ -7276,63 +7278,81 @@
                                           wId="gm0010_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.149__para_2__table_o_1"
                                           eigen:class="standaard" frame="all" colsep="1" rowsep="1">
                                           <title>Tabel 3.3.27 Emissiegrenswaarden</title>
-                                          <tgroup cols="4" align="left">
-                                             <colspec colname="col1" colwidth="3969*"/>
-                                             <colspec colname="col2" colwidth="1984*"/>
-                                             <colspec colname="col3" colwidth="1984*"/>
-                                             <colspec colname="col4" colwidth="360*"/>
-                                             <thead valign="top">
-                                                <row>
-                                                  <entry namest="col1" nameend="col1" align="left">
-                                                  <Al>Stof</Al>
-                                                  </entry>
-                                                  <entry namest="col2" nameend="col3" align="left">
-                                                  <Al>Emissiegrenswaarden in mg/l</Al>
-                                                  </entry>
+                                             <tgroup cols="4" align="left">
+                                             <colspec colnum="1" colwidth="50*" colname="col1"/>
+                                             <colspec colnum="2" colwidth="12.5*" colname="col2"/>
+                                             <colspec colnum="3" colwidth="12.5*" colname="col3"/>
+                                             <colspec colnum="4" colwidth="25*" colname="col4"/>
+                                             <thead valign="bottom">
+                                                <row rowsep="1">
+                                                   <entry valign="top" align="left" colname="col1" rotate="0"
+                                                      colsep="0" rowsep="1">
+                                                      <Al>
+                                                         <b>Stof</b>
+                                                      </Al>
+                                                   </entry>
+                                                   <entry namest="col2" nameend="col4" valign="top" align="center"
+                                                      rotate="0" colname="col2" colsep="0" rowsep="1">
+                                                      <Al>
+                                                         <b>Emissiegrenswaarden in mg/l</b>
+                                                      </Al>
+                                                   </entry>
                                                 </row>
-                                                <row>
-                                                  <entry namest="col1" nameend="col1" align="left"> </entry>
-                                                  <entry namest="col2" nameend="col2" align="left">
-                                                  <Al>Representatief etmaalmonster</Al>
-                                                  </entry>
-                                                  <entry namest="col4" nameend="col4" align="left">
-                                                  <Al>Steekmonster</Al>
-                                                  </entry>
+                                                <row rowsep="1">
+                                                   <entry valign="top" align="left" colname="col1" rotate="0"
+                                                      colsep="0" rowsep="1"/>
+                                                   <entry namest="col2" nameend="col3" valign="top" align="left"
+                                                      colname="col2" rotate="0" colsep="0" rowsep="1">
+                                                      <Al>Representatief etmaalmonster</Al>
+                                                   </entry>
+                                                   <entry valign="top" align="left" colname="col4" rotate="0"
+                                                      colsep="0" rowsep="1">
+                                                      <Al>Steekmonster</Al>
+                                                   </entry>
                                                 </row>
                                              </thead>
                                              <tbody valign="top">
-                                                <row>
-                                                  <entry namest="col1" nameend="col1" align="left">
-                                                  <Al>Biochemisch zuurstofverbruik</Al>
-                                                  </entry>
-                                                  <entry namest="col2" nameend="col2" align="left">
-                                                  <Al>30 mg/l</Al>
-                                                  </entry>
-                                                  <entry namest="col4" nameend="col4" align="left">
-                                                  <Al>60 mg/l</Al>
-                                                  </entry>
+                                                <row rowsep="1">
+                                                   <entry valign="top" align="left" colname="col1" rotate="0"
+                                                      colsep="0">
+                                                      <Al>Biochemisch zuurstofverbruik</Al>
+                                                   </entry>
+                                                   <entry namest="col2" nameend="col3" valign="top" align="left"
+                                                      colname="col2" rotate="0" colsep="0">
+                                                      <Al>30 mg/l</Al>
+                                                   </entry>
+                                                   <entry valign="top" align="left" colname="col4" rotate="0"
+                                                      colsep="0">
+                                                      <Al>60 mg/l</Al>
+                                                   </entry>
                                                 </row>
-                                                <row>
-                                                  <entry namest="col1" nameend="col1" align="left">
-                                                  <Al>Chemisch zuurstofverbruik</Al>
-                                                  </entry>
-                                                  <entry namest="col2" nameend="col2" align="left">
-                                                  <Al>150 mg/l</Al>
-                                                  </entry>
-                                                  <entry namest="col4" nameend="col4" align="left">
-                                                  <Al>300 mg/l</Al>
-                                                  </entry>
+                                                <row rowsep="1">
+                                                   <entry valign="top" align="left" colname="col1" rotate="0"
+                                                      colsep="0">
+                                                      <Al>Chemisch zuurstofverbruik</Al>
+                                                   </entry>
+                                                   <entry namest="col2" nameend="col3" valign="top" align="left"
+                                                      colname="col2" rotate="0" colsep="0">
+                                                      <Al>150 mg/l</Al>
+                                                   </entry>
+                                                   <entry valign="top" align="left" colname="col4" rotate="0"
+                                                      colsep="0">
+                                                      <Al>300 mg/l</Al>
+                                                   </entry>
                                                 </row>
-                                                <row>
-                                                  <entry namest="col1" nameend="col1" align="left">
-                                                  <Al>Onopgeloste stoffen</Al>
-                                                  </entry>
-                                                  <entry namest="col2" nameend="col2" align="left">
-                                                  <Al>30 mg/l</Al>
-                                                  </entry>
-                                                  <entry namest="col4" nameend="col4" align="left">
-                                                  <Al>60 mg/l</Al>
-                                                  </entry>
+                                                <row rowsep="1">
+                                                   <entry valign="top" align="left" colname="col1" rotate="0"
+                                                      colsep="0">
+                                                      <Al>Onopgeloste stoffen</Al>
+                                                   </entry>
+                                                   <entry namest="col2" nameend="col3" valign="top" align="left"
+                                                      colname="col2" rotate="0" colsep="0">
+                                                      <Al>30 mg/l</Al>
+                                                   </entry>
+                                                   <entry valign="top" align="left" colname="col4" rotate="0"
+                                                      colsep="0">
+                                                      <Al>60 mg/l</Al>
+                                                   </entry>
                                                 </row>
                                              </tbody>
                                           </tgroup>
@@ -18763,6 +18783,7 @@
                            <Nummer>4.1</Nummer>
                            <Opschrift>Onderhoud- en instandhoudingsverplichtingen </Opschrift>
                         </Kop>
+                        <Gereserveerd/>
                      </Afdeling>
                      <Afdeling eId="chp_4__subchp_4.2" wId="gm0010_2__chp_4__subchp_4.2">
                         <Kop>
@@ -18770,6 +18791,7 @@
                            <Nummer>4.2</Nummer>
                            <Opschrift>Gedoogplichten </Opschrift>
                         </Kop>
+                        <Gereserveerd/>
                      </Afdeling>
                   </Hoofdstuk>
                   <Hoofdstuk eId="chp_5" wId="gm0010_2__chp_5">
@@ -18784,6 +18806,7 @@
                            <Nummer>5.1</Nummer>
                            <Opschrift>Kostenverhaal </Opschrift>
                         </Kop>
+                        <Gereserveerd/>
                      </Afdeling>
                      <Afdeling eId="chp_5__subchp_5.2" wId="gm0010_2__chp_5__subchp_5.2">
                         <Kop>
@@ -18791,6 +18814,7 @@
                            <Nummer>5.2</Nummer>
                            <Opschrift>Nadeelcompensatie </Opschrift>
                         </Kop>
+                        <Gereserveerd/>
                      </Afdeling>
                   </Hoofdstuk>
                   <Hoofdstuk eId="chp_6" wId="gm0010_2__chp_6">
@@ -18805,6 +18829,7 @@
                            <Nummer>6.1</Nummer>
                            <Opschrift>Voorbereiding van besluiten </Opschrift>
                         </Kop>
+                        <Gereserveerd/>
                      </Afdeling>
                      <Afdeling eId="chp_6__subchp_6.2" wId="gm0010_2__chp_6__subchp_6.2">
                         <Kop>
@@ -18812,6 +18837,7 @@
                            <Nummer>6.2</Nummer>
                            <Opschrift>Gemeentelijke projecten van publiek belang </Opschrift>
                         </Kop>
+                        <Gereserveerd/>
                      </Afdeling>
                      <Afdeling eId="chp_6__subchp_6.3" wId="gm0010_2__chp_6__subchp_6.3">
                         <Kop>
@@ -18819,6 +18845,7 @@
                            <Nummer>6.3</Nummer>
                            <Opschrift>Advies </Opschrift>
                         </Kop>
+                        <Gereserveerd/>
                      </Afdeling>
                      <Afdeling eId="chp_6__subchp_6.4" wId="gm0010_2__chp_6__subchp_6.4">
                         <Kop>
@@ -18826,6 +18853,7 @@
                            <Nummer>6.4</Nummer>
                            <Opschrift>Maatschappelijk draagvlak </Opschrift>
                         </Kop>
+                        <Gereserveerd/>
                      </Afdeling>
                      <Afdeling eId="chp_6__subchp_6.5" wId="gm0010_2__chp_6__subchp_6.5">
                         <Kop>
@@ -18833,6 +18861,7 @@
                            <Nummer>6.5</Nummer>
                            <Opschrift>Andere bestuursorganen </Opschrift>
                         </Kop>
+                        <Gereserveerd/>
                      </Afdeling>
                   </Hoofdstuk>
                   <Hoofdstuk eId="chp_7" wId="gm0010_2__chp_7">
@@ -18847,6 +18876,7 @@
                            <Nummer>7.1</Nummer>
                            <Opschrift>Strafbepalingen </Opschrift>
                         </Kop>
+                        <Gereserveerd/>
                      </Afdeling>
                      <Afdeling eId="chp_7__subchp_7.2" wId="gm0010_2__chp_7__subchp_7.2">
                         <Kop>
@@ -18855,6 +18885,7 @@
                            <Opschrift>Kwaliteitsbevordering en afstemming uitvoering en handhaving
                            </Opschrift>
                         </Kop>
+                        <Gereserveerd/>
                      </Afdeling>
                   </Hoofdstuk>
                   <Hoofdstuk eId="chp_8" wId="gm0010_2__chp_8">
@@ -18869,6 +18900,7 @@
                            <Nummer>8.1</Nummer>
                            <Opschrift>Monitoring</Opschrift>
                         </Kop>
+                        <Gereserveerd/>
                      </Afdeling>
                   </Hoofdstuk>
                   <Hoofdstuk eId="chp_9" wId="gm0010_2__chp_9">
@@ -18883,6 +18915,7 @@
                            <Nummer>9.1</Nummer>
                            <Opschrift>Overgangsrecht </Opschrift>
                         </Kop>
+                        <Gereserveerd/>
                      </Afdeling>
                      <Afdeling eId="chp_9__subchp_9.2" wId="gm0010_2__chp_9__subchp_9.2">
                         <Kop>
@@ -18890,6 +18923,7 @@
                            <Nummer>9.2</Nummer>
                            <Opschrift>Bruidsschat </Opschrift>
                         </Kop>
+                        <Gereserveerd/>
                      </Afdeling>
                   </Hoofdstuk>
                   <Hoofdstuk eId="chp_10" wId="gm0010_2__chp_10">
@@ -18904,6 +18938,7 @@
                            <Nummer>10.1</Nummer>
                            <Opschrift>Uitvoerbaarheid en evaluatie </Opschrift>
                         </Kop>
+                        <Gereserveerd/>
                      </Afdeling>
                      <Afdeling eId="chp_10__subchp_10.2" wId="gm0010_2__chp_10__subchp_10.2">
                         <Kop>
@@ -29053,6 +29088,7 @@
                                  <Nummer>3.3.7.4</Nummer>
                                  <Opschrift>Saneren van de bodem in het gebied De Kempen</Opschrift>
                               </Kop>
+                              <Gereserveerd/>
                            </Divisie>
                         </Divisie>
                         <Divisie eId="cmp_o_2__div_3__div_3.3__div_3.3.8"
