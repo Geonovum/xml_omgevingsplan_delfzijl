@@ -11,7 +11,7 @@
       <sl:dataset>Delfzijl</sl:dataset>
       <sl:inhoud>
          <sl:gebied>Delfzijl</sl:gebied>
-         <sl:leveringsId>MaaktNietUit</sl:leveringsId>
+         <sl:leveringsId>gm0010_2021-03-23</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Regelingsgebied</sl:objectType>
          </sl:objectTypen>
@@ -19,7 +19,7 @@
       <sl:stand>
          <ow-dc:owObject><!--Met het Regelingsgebied geef je het gebied aan waar de regeling van toepassing is (in dit geval Omgevingsplan Zaltbommel)-->
             <rg:Regelingsgebied>
-               <rg:identificatie>nl.imow-gm0010.regelingsgebied.2020000001</rg:identificatie>
+               <rg:identificatie>nl.imow-gm0010.regelingsgebied.2021000001</rg:identificatie>
                <rg:locatieaanduiding>
                   <l:GebiedengroepRef xlink:href="nl.imow-gm0010.gebiedengroep.Delfzijl"/>
                </rg:locatieaanduiding>
