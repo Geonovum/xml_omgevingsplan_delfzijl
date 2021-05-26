@@ -1,0 +1,17 @@
+PDF-bestanden
+	pubdata
+	regdata
+	infodata
+lijnen en punten
+	lijn
+	punt
+	lijnengroep
+	puntengroep
+Verwijzingen
+	IntRef
+	ExtRef (dynamisch)
+	ExtRef (statisch)
+JurRegel
+	Indicatief
+	Exact
+Kaart
