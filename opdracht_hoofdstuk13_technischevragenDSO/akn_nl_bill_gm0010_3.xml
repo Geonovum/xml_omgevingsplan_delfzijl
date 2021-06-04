@@ -339,27 +339,36 @@
                         </Hoofdstuk>
                     </VoegToe>
                     <Vervang wat="gm0010_1-0__cmp_II">
-                        <Bijlage wId="gm0010_1-0__cmp_II" eId="cmp_II">
+                        <Bijlage eId="cmp_III" wId="gm0010_2__cmp_III">
+                            <!--handmatig toevoegen-->
                             <Kop>
                                 <Label>Bijlage</Label>
-                                <Nummer>II</Nummer>
+                                <Nummer>III</Nummer>
                                 <Opschrift>Overzicht Informatieobjecten</Opschrift>
                             </Kop>
-                            <Divisietekst eId="cmp_II__content_o_1" wId="gm0010_1-0__cmp_II__content_o_1">
+                            <Divisietekst eId="cmp_III__content_o_1" wId="gm0010_2__cmp_III__content_o_1">
                                 <Inhoud>
-                                    <Begrippenlijst eId="cmp_II__content_o_1__list_o_1" wId="gm0010_1-0__cmp_II__content_o_1__list_o_1">
-                                        <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_1" wId="gm0010_1-0__cmp_II__content_o_1__list_o_1__item_o_1">
+                                    <Begrippenlijst eId="cmp_III__content_o_1__list_o_1" wId="gm0010_2__cmp_III__content_o_1__list_o_1">
+                                        <Begrip eId="cmp_III__content_o_1__list_o_1__item_o_1" wId="gm0010_2__cmp_III__content_o_1__list_o_1__item_o_1">
                                             <Term>Delfzijl</Term>
                                             <Definitie>
                                                 <Al>
-                                                    <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1" wId="gm0010_1-0__cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/gm0010/2021/Delfzijl/nld@2021-03-09;1">/join/id/regdata/gm0010/2021/Delfzijl/nld@2021-03-09;1</ExtIoRef>
+                                                    <ExtIoRef eId="cmp_III__content_o_1__list_o_1__item_o_1__ref_o_1" wId="gm0010_2__cmp_III__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/gm0010/2021/Delfzijl/nld@2021-04-10;1">/join/id/regdata/gm0010/2021/Delfzijl/nld@2021-04-10;1</ExtIoRef>
+                                                </Al>
+                                            </Definitie>
+                                        </Begrip>
+                                        <Begrip eId="cmp_III__content_o_1__list_o_1__item_o_2" wId="gm0010_2__cmp_III__content_o_1__list_o_1__item_o_2">
+                                            <Term>Delfzijl kamerverhuur</Term>
+                                            <Definitie>
+                                                <Al>
+                                                    <ExtIoRef eId="cmp_III__content_o_1__list_o_1__item_o_2__ref_o_1" wId="gm0010_2__cmp_III__content_o_1__list_o_1__item_o_2__ref_o_1" ref="/join/id/regdata/gm0010/2021/Delfzijlkamerverhuur/nld@2021-04-10;1">/join/id/regdata/gm0010/2021/Delfzijlkamerverhuur/nld@2021-04-10;1</ExtIoRef>
                                                 </Al>
                                             </Definitie>
                                         </Begrip>
                                     </Begrippenlijst>
                                 </Inhoud>
                             </Divisietekst>
-                        </Bijlage>                    
+                        </Bijlage>              
                     </Vervang>
                 </RegelingMutatie>
             </WijzigBijlage>
