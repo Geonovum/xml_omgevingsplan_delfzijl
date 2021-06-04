@@ -62,7 +62,7 @@
         </ConsolidatieInformatie>
         <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
             <RegelingOpschrift eId="longTitle" wId="longTitle">
-                <Al>Vaststelling van Omgevingsplan Delfzijl (Geonovum-versie)</Al>
+                <Al>Vaststelling van Hoofdstuk 13 Omgevingsplan Delfzijl (Geonovum-versie)</Al>
             </RegelingOpschrift>
             <Aanhef eId="formula_1" wId="formula_1">
                 <Al>De raad van de gemeente Delfzijl</Al>
@@ -247,7 +247,7 @@
                                     </Kop>
                                     <Inhoud>
                                         <Al>In de volgende lijst staan een hoop verwijzingssoorten:</Al>
-                                        <Lijst type="expliciet" wId="gm0010_3__chp_13__subsec_13.3__art_13.11__list_o_1" eId="chp_13__subsec_13.3__art_13.11">
+                                        <Lijst type="expliciet" wId="gm0010_3__chp_13__subsec_13.3__art_13.11__list_o_1" eId="chp_13__subsec_13.3__art_13.11__list_o_1">
                                             <Li wId="gm0010_3__chp_13__subsec_13.3__art_13.11__list_o_1__item_1" eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_1">
                                                 <LiNummer>1.</LiNummer>
                                                 <Al>Verwijzing naar een <IntRef ref="chp_13__subsec_13.1__art_13.x.1">Artikel</IntRef>. (Artikel 13.x.1)</Al>
@@ -293,11 +293,11 @@
                                                 <LiNummer>11.</LiNummer>
                                                 <Al>Verwijzing naar een <ExtRef soort="AKN" ref="/akn/nl/act/gm0297/2019/reg456#chp_2__subchp_2.3__art_2.10">artikel</ExtRef> uit een andere regeling. (ExtRef-akn)</Al>
                                             </Li>
-                                            <Li wId="gm0010_3__chp_13__subsec_13.3__art_13.11__list_o_1__item_11" eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_11">
+                                            <Li wId="gm0010_3__chp_13__subsec_13.3__art_13.11__list_o_1__item_12" eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_12">
                                                 <LiNummer>12.</LiNummer>
                                                 <Al>Verwijzing naar een <ExtRef soort="JCI" ref="jci1.3:c:BWBR0005537&amp;hoofdstuk=1&amp;titeldeel=1.1&amp;artikel=1:1&amp;z=2020-01-01&amp;g=2020-01-01">artikel uit een andere regeling</ExtRef> (juriconnect-identifier richting artikel 1.1 uit algemene wet bestuursrecht)</Al>
                                             </Li>
-                                            <Li wId="gm0010_3__chp_13__subsec_13.3__art_13.11__list_o_1__item_11" eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_11">
+                                            <Li wId="gm0010_3__chp_13__subsec_13.3__art_13.11__list_o_1__item_13" eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_13">
                                                 <LiNummer>13.</LiNummer>
                                                 <Al>Verwijzing naar een <ExtRef soort="document" ref="kst-33962-3">document</ExtRef> (ExtRef-soort: document, documentID van STOP-documentatiesite gehaald.)</Al>
                                             </Li>
