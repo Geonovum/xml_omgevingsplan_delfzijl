@@ -4,6 +4,90 @@
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-transport.xsd">
    <bestand>
+      <bestandsnaam>akn_nl_bill_gm0010_3.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Bouwvlak_Delfzijl_Landelijk_Gebied.gml</bestandsnaam>
+      <contentType>application/gml+xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Bouwvlak_Delfzijl_Landelijk_Gebied.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Bouwvlak_Delfzijl_Landelijk_Gebied_Rooilijn.gml</bestandsnaam>
+      <contentType>application/gml+xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Bouwvlak_Delfzijl_Landelijk_Gebied_Rooilijn.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Delfzijl_Centrum.gml</bestandsnaam>
+      <contentType>application/gml+xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Delfzijl_Centrum.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Delfzijl_Centrum_Bouwvlak.gml</bestandsnaam>
+      <contentType>application/gml+xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Delfzijl_Centrum_Bouwvlak.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Delfzijl_Centrum_Bouwvlak_Rooilijn.gml</bestandsnaam>
+      <contentType>application/gml+xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Delfzijl_Centrum_Bouwvlak_Rooilijn.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Delfzijl_GeluidProductiePlafonds.gml</bestandsnaam>
+      <contentType>application/gml+xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Delfzijl_GeluidProductiePlafonds.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Delfzijl_Hoofdinfrastructuur.gml</bestandsnaam>
+      <contentType>application/gml+xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Delfzijl_Hoofdinfrastructuur.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Delfzijl_Industrieterrein.gml</bestandsnaam>
+      <contentType>application/gml+xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Delfzijl_Industrieterrein.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Delfzijl_Landelijk_Gebied.gml</bestandsnaam>
+      <contentType>application/gml+xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Delfzijl_Landelijk_Gebied.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Delfzijl_Punt.gml</bestandsnaam>
+      <contentType>application/gml+xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Delfzijl_Punt.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
       <bestandsnaam>manifest.xml</bestandsnaam>
       <contentType>application/xml</contentType>
    </bestand>
@@ -12,11 +96,23 @@
       <contentType>application/xml</contentType>
    </bestand>
    <bestand>
-      <bestandsnaam>akn_nl_bill_gm0010_3.xml</bestandsnaam>
+      <bestandsnaam>opdracht.xml</bestandsnaam>
       <contentType>application/xml</contentType>
    </bestand>
    <bestand>
-      <bestandsnaam>opdracht.xml</bestandsnaam>
+      <bestandsnaam>owGebiedsaanwijzing_Delfzijl.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>owLocaties_Delfzijl.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>owOmgevingsnorm_Delfzijl.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>owRegeltekst_Delfzijl.xml</bestandsnaam>
       <contentType>application/xml</contentType>
    </bestand>
 </manifest>

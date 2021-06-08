@@ -10,10 +10,24 @@
          <naam>owLocaties_Delfzijl.xml</naam>
          <objecttype>Gebied</objecttype>
          <objecttype>Gebiedengroep</objecttype>
+         <objecttype>Lijn</objecttype>
+         <objecttype>Lijnengroep</objecttype>
+         <objecttype>Punt</objecttype>
+         <objecttype>Puntengroep</objecttype>
       </Bestand>
       <Bestand>
          <naam>owOmgevingsnorm_Delfzijl.xml</naam>
          <objecttype>Omgevingsnorm</objecttype>
+      </Bestand>
+      <Bestand>
+         <naam>owGebiedsaanwijzing_Delfzijl.xml</naam>
+         <objecttype>Gebiedsaanwijzing</objecttype>
+      </Bestand>
+      <Bestand>
+         <naam>owRegeltekst_Delfzijl.xml</naam>
+         <objecttype>Regeltekst</objecttype>
+         <objecttype>RegelVoorIedereen</objecttype>
+         <objecttype>Instructieregel</objecttype>
       </Bestand>
    </Aanlevering>
 </Aanleveringen>

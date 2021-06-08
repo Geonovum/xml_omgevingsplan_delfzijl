@@ -319,10 +319,10 @@
       <sl:stand>
          <ow-dc:owObject>
             <r:Instructieregel>
-               <r:identificatie>nl.imow-gm0297.juridischeregel.art13punt7</r:identificatie>
+               <r:identificatie>nl.imow-gm0297.juridischeregel.art13punt8</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13punt7"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13punt8"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Hoofdinfrastructuur"/>

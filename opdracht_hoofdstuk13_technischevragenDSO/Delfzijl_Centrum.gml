@@ -9,7 +9,7 @@
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
       <geo:FRBRWork>/join/id/regdata/gm0010/2021/Delfzijl_Centrum</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/gm0010/2021/Delfzijl_Centrum/nld@1</geo:FRBRExpression>
+      <geo:FRBRExpression>/join/id/regdata/gm0010/2021/Delfzijl_Centrum/nld@2021-06-01;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>Delfzijl Centrum</geo:naam>

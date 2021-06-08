@@ -9,7 +9,7 @@
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
       <geo:FRBRWork>/join/id/regdata/gm0010/2021/bouwvlak_Delfzijl_Centrum_Rooilijn</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/gm0010/2021/bouwvlak_Delfzijl_Centrum_Rooilijn/nld@1</geo:FRBRExpression>
+      <geo:FRBRExpression>/join/id/regdata/gm0010/2021/bouwvlak_Delfzijl_Centrum_Rooilijn/nld@2021-06-01;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>Delfzijl Centrum Bouwvlak Rooilijn</geo:naam>

@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/gm0010/2021/Delfzijl_GeluidProductiePlafonds</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0010/2021/Delfzijl_GeluidProductiePlafonds/nld@1</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/gm0010/2021/Delfzijl_GeluidProductiePlafonds/nld@2021-06-01;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Delfzijl_GeluidProductiePlafonds.gml</bestandsnaam>
-                  <hash>ec941113a40a1dd194c74330ff01d90b14ac301b99776493496e2386dcbcc9aeccedc53b5bf68c707c4d093240d78628255986a40ba29ef1184f902607db338b</hash>
+                  <hash>d351e371140fc8bef60cfebfff52f8e1d31866eaf5e7449771ae0758eda10609580f8ea2d76a26ee6bf2f6edfbf35ca30e5cdfc268d0a5a8e4259be64cf8579a</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

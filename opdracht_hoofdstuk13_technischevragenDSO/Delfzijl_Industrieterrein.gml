@@ -9,7 +9,7 @@
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
       <geo:FRBRWork>/join/id/regdata/gm0010/2021/Delfzijl_Industrieterrein</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/gm0010/2021/Delfzijl_Industrieterrein/nld@1</geo:FRBRExpression>
+      <geo:FRBRExpression>/join/id/regdata/gm0010/2021/Delfzijl_Industrieterrein/nld@2021-06-01;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>Delfzijl Industrieterrein</geo:naam>

@@ -9,7 +9,7 @@
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
       <geo:FRBRWork>/join/id/regdata/gm0010/2021/Delfzijl_GeluidProductiePlafonds</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/gm0010/2021/Delfzijl_GeluidProductiePlafonds/nld@1</geo:FRBRExpression>
+      <geo:FRBRExpression>/join/id/regdata/gm0010/2021/Delfzijl_GeluidProductiePlafonds/nld@2021-06-01;1</geo:FRBRExpression>
       <geo:eenheidlabel>decibel</geo:eenheidlabel>
       <geo:eenheidID>http://standaarden.omgevingswet.overheid.nl/eenheid/id/concept/Decibel</geo:eenheidID>
       <geo:normlabel>Geluidproductieplafond</geo:normlabel>

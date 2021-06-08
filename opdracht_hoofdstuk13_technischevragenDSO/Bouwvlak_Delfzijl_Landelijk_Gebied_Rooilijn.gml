@@ -9,7 +9,9 @@
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
       <geo:FRBRWork>/join/id/regdata/gm0010/2021/Delfzijl_Landelijk_Gebied_Rooilijn</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/gm0010/2021/Delfzijl_Landelijk_Gebied_Rooilijn/nld@1</geo:FRBRExpression>
+      <geo:FRBRExpression>/join/id/regdata/gm0010/2021/Delfzijl_Landelijk_Gebied_Rooilijn/nld@2021-06-01;1</geo:FRBRExpression>
+      <geo:normlabel>Rooilijn</geo:normlabel>
+      <geo:normID>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/NogToeTeVoegen</geo:normID>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>rooilijn</geo:naam>
