@@ -22,8 +22,16 @@
             </rechtsgebieden>
             <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
             <informatieobjectRefs>
-                <informatieobjectRef>/join/id/regdata/gm0010/2021/Delfzijl/nld@2021-03-09;1</informatieobjectRef>
-                <!--GIO t.b.v. regelinggebied -->
+                <informatieobjectRef>/join/id/regdata/gm0010/2021/Bouwvlak_Delfzijl_Landelijk_Gebied/nld@1</informatieobjectRef>
+                <informatieobjectRef>/join/id/regdata/gm0010/2021/Delfzijl_Landelijk_Gebied_Rooilijn/nld@1</informatieobjectRef>
+                <informatieobjectRef>/join/id/regdata/gm0010/2021/bouwvlak_Delfzijl_Centrum/nld@1</informatieobjectRef>
+                <informatieobjectRef>/join/id/regdata/gm0010/2021/Delfzijl_Centrum/nld@1</informatieobjectRef>
+                <informatieobjectRef>/join/id/regdata/gm0010/2021/bouwvlak_Delfzijl_Centrum_Rooilijn/nld@1</informatieobjectRef>
+                <informatieobjectRef>/join/id/regdata/gm0010/2021/Delfzijl_GeluidProductiePlafonds/nld@1</informatieobjectRef>
+                <informatieobjectRef>/join/id/regdata/gm0010/2021/Delfzijl_Hoofdinfrastructuur/nld@1</informatieobjectRef>
+                <informatieobjectRef>/join/id/regdata/gm0010/2021/Delfzijl_Industrieterrein/nld@1</informatieobjectRef>
+                <informatieobjectRef>/join/id/regdata/gm0010/2021/Delfzijl_Landelijk_Gebied/nld@1</informatieobjectRef>
+                <informatieobjectRef>/join/id/regdata/gm0010/2021/Delfzijl_Punt/nld@1</informatieobjectRef>
             </informatieobjectRefs>
         </BesluitMetadata>
         <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -49,7 +57,76 @@
                     <instrumentVersie>/akn/nl/act/gm0010/2021/omgevingsplandelfzijl_2/nld@2</instrumentVersie>
                     <eId>art_I</eId>
                 </BeoogdeRegeling>
-                 <!-- regelinggebied -->
+                <BeoogdInformatieobject>
+                    <doelen>
+                        <doel>/join/id/proces/gm0010/2021/hoofdstuk13voorhetdso</doel>
+                    </doelen>
+                    <instrumentVersie>/join/id/regdata/gm0010/2021/Bouwvlak_Delfzijl_Landelijk_Gebied/nld@1</instrumentVersie>
+                    <eId>!h13versie#cmp_III__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+                </BeoogdInformatieobject>
+                <BeoogdInformatieobject>
+                    <doelen>
+                        <doel>/join/id/proces/gm0010/2021/hoofdstuk13voorhetdso</doel>
+                    </doelen>
+                    <instrumentVersie>/join/id/regdata/gm0010/2021/Delfzijl_Landelijk_Gebied_Rooilijn/nld@1</instrumentVersie>
+                    <eId>!h13versie#cmp_III__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
+                </BeoogdInformatieobject>  
+                <BeoogdInformatieobject>
+                    <doelen>
+                        <doel>/join/id/proces/gm0010/2021/hoofdstuk13voorhetdso</doel>
+                    </doelen>
+                    <instrumentVersie>/join/id/regdata/gm0010/2021/Delfzijl_Centrum/nld@1</instrumentVersie>
+                    <eId>cmp_III__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
+                </BeoogdInformatieobject>  
+                <BeoogdInformatieobject>
+                    <doelen>
+                        <doel>/join/id/proces/gm0010/2021/hoofdstuk13voorhetdso</doel>
+                    </doelen>
+                    <instrumentVersie>/join/id/regdata/gm0010/2021/bouwvlak_Delfzijl_Centrum/nld@1</instrumentVersie>
+                    <eId>!h13versie#cmp_III__content_o_1__list_o_1__item_o_5__ref_o_1</eId>
+                </BeoogdInformatieobject>  
+                <BeoogdInformatieobject>
+                    <doelen>
+                        <doel>/join/id/proces/gm0010/2021/hoofdstuk13voorhetdso</doel>
+                    </doelen>
+                    <instrumentVersie>/join/id/regdata/gm0010/2021/bouwvlak_Delfzijl_Centrum_Rooilijn/nld@1</instrumentVersie>
+                    <eId>!h13versie#cmp_III__content_o_1__list_o_1__item_o_6__ref_o_1</eId>
+                </BeoogdInformatieobject>  
+                <BeoogdInformatieobject>
+                    <doelen>
+                        <doel>/join/id/proces/gm0010/2021/hoofdstuk13voorhetdso</doel>
+                    </doelen>
+                    <instrumentVersie>/join/id/regdata/gm0010/2021/Delfzijl_GeluidProductiePlafonds/nld@1</instrumentVersie>
+                    <eId>!h13versie#cmp_III__content_o_1__list_o_1__item_o_7__ref_o_1</eId>
+                </BeoogdInformatieobject>  
+                <BeoogdInformatieobject>
+                    <doelen>
+                        <doel>/join/id/proces/gm0010/2021/hoofdstuk13voorhetdso</doel>
+                    </doelen>
+                    <instrumentVersie>/join/id/regdata/gm0010/2021/Delfzijl_Hoofdinfrastructuur/nld@1</instrumentVersie>
+                    <eId>!h13versie#cmp_III__content_o_1__list_o_1__item_o_8__ref_o_1</eId>
+                </BeoogdInformatieobject>  
+                <BeoogdInformatieobject>
+                    <doelen>
+                        <doel>/join/id/proces/gm0010/2021/hoofdstuk13voorhetdso</doel>
+                    </doelen>
+                    <instrumentVersie>/join/id/regdata/gm0010/2021/Delfzijl_Industrieterrein/nld@1</instrumentVersie>
+                    <eId>!h13versie#cmp_III__content_o_1__list_o_1__item_o_9__ref_o_1</eId>
+                </BeoogdInformatieobject>  
+                <BeoogdInformatieobject>
+                    <doelen>
+                        <doel>/join/id/proces/gm0010/2021/hoofdstuk13voorhetdso</doel>
+                    </doelen>
+                    <instrumentVersie>/join/id/regdata/gm0010/2021/Delfzijl_Landelijk_Gebied/nld@1</instrumentVersie>
+                    <eId>!h13versie#cmp_III__content_o_1__list_o_1__item_o_11__ref_o_1</eId>
+                </BeoogdInformatieobject>  
+                <BeoogdInformatieobject>
+                    <doelen>
+                        <doel>/join/id/proces/gm0010/2021/hoofdstuk13voorhetdso</doel>
+                    </doelen>
+                    <instrumentVersie>/join/id/regdata/gm0010/2021/Delfzijl_Punt/nld@1</instrumentVersie>
+                    <eId>!h13versie#cmp_III__content_o_1__list_o_1__item_o_12__ref_o_1</eId>
+                </BeoogdInformatieobject>                  
             </BeoogdeRegelgeving>
             <Tijdstempels>
                 <Tijdstempel>
@@ -131,7 +208,7 @@
                                         <Nummer>13.X.1</Nummer>
                                         <Opschrift>Functietoedeling</Opschrift>
                                     </Kop>
-                                    <Inhoud><Al>Aan de locatie 'Centrumgebied' is de functie 'Centrumgebied' toegedeeld.</Al></Inhoud>
+                                    <Inhoud><Al>Aan de locatie <IntIoRef eId="chp_13__subsec_13.1__art_13.x.1__ref_o_1" wId="gm0010_3__chp_13__subsec_13.1__art_13.x.1__ref_o_1" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_4__ref_o_1">'Centrumgebied'</IntIoRef> is de functie 'Centrumgebied' toegedeeld.</Al></Inhoud>
                                 </Artikel>
                                 <Artikel wId="gm0010_3__chp_13__subsec_13.1__art_13.x.2" eId="chp_13__subsec_13.1__art_13.x.2">
                                     <Kop>
@@ -139,7 +216,7 @@
                                         <Nummer>13.X.2</Nummer>
                                         <Opschrift>Positionering gebouwen</Opschrift>
                                     </Kop>
-                                    <Inhoud><Al>Binnen het Centrumgebied zijn bovengrondse gebouwen, tenzij elders anders is bepaald, uitsluitend toegestaan ter plaatse van de locatie ‘bouwvlak’. </Al></Inhoud>
+                                    <Inhoud><Al>Binnen het Centrumgebied zijn bovengrondse gebouwen, tenzij elders anders is bepaald, uitsluitend toegestaan ter plaatse van de locatie <IntIoRef eId="chp_13__subsec_13.1__art_13.x.2__ref_o_1" wId="gm0010_3__chp_13__subsec_13.1__art_13.x.2__ref_o_1" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_5__ref_o_1">'bouwvlak centrumgebied'</IntIoRef>. </Al></Inhoud>
                                 </Artikel>
                                 <Artikel wId="gm0010_3__chp_13__subsec_13.1__art_13.x.3" eId="chp_13__subsec_13.1__art_13.x.3">
                                     <Kop>
@@ -147,7 +224,7 @@
                                         <Nummer>13.X.3</Nummer>
                                         <Opschrift>Voorgeschreven rooilijn (m.b.v. lijn)</Opschrift>
                                     </Kop>
-                                    <Inhoud><Al>Ter plaatse van de locatie 'bouwvlak met voorgeschreven rooilijn' geldt voor bovengrondse gebouwen dat de gevel op de plaats van de aanduiding 'rooilijn' moet worden gebouwd. </Al></Inhoud>
+                                    <Inhoud><Al>Ter plaatse van de locatie <IntIoRef eId="chp_13__subsec_13.1__art_13.x.3__ref_o_1" wId="gm0010_3__chp_13__subsec_13.1__art_13.x.3__ref_o_1" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_6__ref_o_1">'bouwvlak met voorgeschreven rooilijn'</IntIoRef> geldt voor bovengrondse gebouwen dat de gevel op de plaats van de aanduiding 'rooilijn' moet worden gebouwd. </Al></Inhoud>
                                 </Artikel>
                                 <Artikel wId="gm0010_3__chp_13__subsec_13.1__art_13.y.1" eId="chp_13__subsec_13.1__art_13.y.1">
                                     <Kop>
@@ -155,7 +232,7 @@
                                         <Nummer>13.Y.1</Nummer>
                                         <Opschrift>Functietoedeling</Opschrift>
                                     </Kop>
-                                    <Inhoud><Al>Aan de locatie 'Landelijk gebied' is de functie 'Landelijk gebied' toegedeeld.</Al></Inhoud>
+                                    <Inhoud><Al>Aan de locatie <IntIoRef eId="chp_13__subsec_13.1__art_13.y.1__ref_o_1" wId="gm0010_3__chp_13__subsec_13.1__art_13.y.1__ref_o_1" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_1__ref_o_1">'Landelijk gebied'</IntIoRef> is de functie 'Landelijk gebied' toegedeeld.</Al></Inhoud>
                                 </Artikel>
                                 <Artikel wId="gm0010_3__chp_13__subsec_13.1__art_13.y.2" eId="chp_13__subsec_13.1__art_13.y.2">
                                     <Kop>
@@ -163,7 +240,7 @@
                                         <Nummer>13.Y.2</Nummer>
                                         <Opschrift>Positionering gebouwen</Opschrift>
                                     </Kop>
-                                    <Inhoud><Al>Bovengrondse gebouwen zijn, tenzij elders anders is bepaald, uitsluitend toegestaan ter plaatse van de locatie ‘bouwvlak’. </Al></Inhoud>
+                                    <Inhoud><Al>Bovengrondse gebouwen zijn, tenzij elders anders is bepaald, uitsluitend toegestaan ter plaatse van de locatie <IntIoRef eId="chp_13__subsec_13.1__art_13.y.2__ref_o_1" wId="gm0010_3__chp_13__subsec_13.1__art_13.y.2__ref_o_1" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_11__ref_o_1">'bouwvlak landelijk gebied'</IntIoRef>. </Al></Inhoud>
                                 </Artikel>
                                 <Artikel wId="gm0010_3__chp_13__subsec_13.1__art_13.y.3" eId="chp_13__subsec_13.1__art_13.y.3">
                                     <Kop>
@@ -171,7 +248,7 @@
                                         <Nummer>13.Y.3</Nummer>
                                         <Opschrift>Voorgeschreven rooilijn (m.b.v. lijnengroep)</Opschrift>
                                     </Kop>
-                                    <Inhoud><Al>Daar waar de aanduiding 'rooilijn' voorkomt, moet de gevel van bovengrondse gebouwen op die lijn worden gebouwd.</Al></Inhoud>
+                                    <Inhoud><Al>Daar waar de aanduiding <IntIoRef eId="chp_13__subsec_13.1__art_13.y.3__ref_o_1" wId="gm0010_3__chp_13__subsec_13.1__art_13.y.3__ref_o_1" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_2__ref_o_1">'rooilijn'</IntIoRef> voorkomt, moet de gevel van bovengrondse gebouwen op die lijn worden gebouwd.</Al></Inhoud>
                                 </Artikel>
                                 <Artikel wId="gm0010_3__chp_13__subsec_13.1__art_13.z.1" eId="chp_13__subsec_13.1__art_13.z.1">
                                     <Kop>
@@ -179,7 +256,7 @@
                                         <Nummer>13.Z.1</Nummer>
                                         <Opschrift>Waar omgevingswaarden geluidproductieplafonds industrieterreinen gelden</Opschrift>
                                     </Kop>
-                                    <Inhoud><Al>De omgevingswaarden voor geluidproductieplafonds rondom industrieterreinen waar activiteiten kunnen worden verricht die in aanzienlijke mate geluid kunnen veroorzaken gelden ter plaatse van de locatie ‘omgevingswaarde geluidproductieplafonds industrieterrein’. </Al></Inhoud>
+                                    <Inhoud><Al>De omgevingswaarden voor geluidproductieplafonds rondom industrieterreinen waar activiteiten kunnen worden verricht die in aanzienlijke mate geluid kunnen veroorzaken gelden ter plaatse van de locatie <IntIoRef eId="chp_13__subsec_13.1__art_13.z.1__ref_o_1" wId="gm0010_3__chp_13__subsec_13.1__art_13.z.1__ref_o_1" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_9__ref_o_1">‘industrieterrein’</IntIoRef>. </Al></Inhoud>
                                 </Artikel>
                                 <Artikel wId="gm0010_3__chp_13__subsec_13.1__art_13.z.2" eId="chp_13__subsec_13.1__art_13.z.2">
                                     <Kop>
@@ -187,7 +264,7 @@
                                         <Nummer>13.Z.2</Nummer>
                                         <Opschrift>Omgevingswaarden voor geluidproductieplafonds industrieterreinen</Opschrift>
                                     </Kop>
-                                    <Inhoud><Al>De omgevingswaarden voor geluidproductieplafonds als bedoeld in artikel Z.1 zijn de waarden die zijn vastgelegd ter plaatse van de locatie ‘geluidproductieplafond’.</Al></Inhoud>
+                                    <Inhoud><Al>De omgevingswaarden voor geluidproductieplafonds als bedoeld in artikel Z.1 zijn de waarden die zijn vastgelegd ter plaatse van de locatie <IntIoRef eId="chp_13__subsec_13.1__art_13.z.1__ref_o_1" wId="gm0010_3__chp_13__subsec_13.1__art_13.z.1__ref_o_1" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_7__ref_o_1">'geluidproductieplafond'</IntIoRef>.</Al></Inhoud>
                                 </Artikel>
                                 <Artikel wId="gm0010_3__chp_13__subsec_13.1__art_13.z.3" eId="chp_13__subsec_13.1__art_13.z.3">
                                     <Kop>
@@ -204,7 +281,7 @@
                                         <Nummer>13.4</Nummer>
                                         <Opschrift>Punt</Opschrift>
                                     </Kop>
-                                    <Inhoud><Al>Dit is een voorbeeld van een punt.</Al></Inhoud>
+                                    <Inhoud><Al>Dit is een voorbeeld van een <IntIoRef wId="gm0010_3__chp_13__subsec_13.1__art_13.4__ref_o_1" eId="chp_13__subsec_13.1__art_13.4__ref_o_1" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_12__ref_o_1">punt</IntIoRef>.</Al></Inhoud>
                                 </Artikel>
                             </Paragraaf>
                             <Paragraaf wId="gm0010_3__chp_13__subsec_13.2" eId="chp_13__subsec_13.2">
@@ -220,7 +297,7 @@
                                         <Opschrift>Exact</Opschrift>
                                     </Kop>
                                     <Inhoud><Al>Dit is een voorbeeld van een exact te interpreteren juridische regel:
-                                        De hoofdinfrastructuur (IntIoRef) bestaat uit de weg-, vaarweg- en spoorwegverbindingen van en naar de stedelijke centra en streekcentra en uit hoofdfietsverbindingen en multimodale knooppunten.</Al></Inhoud>
+                                        De <IntIoRef wId="gm0010_3__chp_13__subsec_13.2__art_13.7__ref_o_1" eId="chp_13__subsec_13.2__art_13.7__ref_o_1" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_8__ref_o_1">hoofdinfrastructuur</IntIoRef> bestaat uit de weg-, vaarweg- en spoorwegverbindingen van en naar de stedelijke centra en streekcentra en uit hoofdfietsverbindingen en multimodale knooppunten.</Al></Inhoud>
                                 </Artikel>
                                 <Artikel wId="gm0010_3__chp_13__subsec_13.2__art_13.8" eId="chp_13__subsec_13.2__art_13.8">
                                     <Kop>
@@ -229,14 +306,13 @@
                                         <Opschrift>Indicatief</Opschrift>
                                     </Kop>
                                     <Inhoud><Al>Dit is een voorbeeld van een indicatief te interpreteren juridische regel:
-                                    Een omgevingsplan voorziet alleen in nieuwe grootschalige ontwikkelingen die bovenlokale verkeersbewegingen met zich meebrengen of effecten hebben op de verkeersafwikkeling op de hoofdinfrastructuur, als rekening is gehouden met het uitgangspunt dat ontwikkelingen die mobiliteit oproepen, geprojecteerd worden nabij aansluitingen op de provinciale wegen.</Al></Inhoud>
-                                    <!--TODO-GIO-->
+                                        Een omgevingsplan voorziet alleen in nieuwe grootschalige ontwikkelingen die bovenlokale verkeersbewegingen met zich meebrengen of effecten hebben op de verkeersafwikkeling op de <IntIoRef wId="gm0010_3__chp_13__subsec_13.2__art_13.7__ref_o_1" eId="chp_13__subsec_13.2__art_13.7__ref_o_1" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_8__ref_o_1">hoofdinfrastructuur</IntIoRef>, als rekening is gehouden met het uitgangspunt dat ontwikkelingen die mobiliteit oproepen, geprojecteerd worden nabij aansluitingen op de provinciale wegen.</Al></Inhoud>
                                 </Artikel>
                             </Paragraaf>
                             <Paragraaf wId="gm0010_3__chp_13__subsec_13.3" eId="chp_13__subsec_13.3">
                                 <Kop>
                                     <Label>Paragraaf</Label>
-                                    <Nummer>13.3</Nummer>
+                                    <Nummer>13.11</Nummer>
                                     <Opschrift>Verwijzingen</Opschrift>
                                 </Kop>
                                 <Artikel wId="gm0010_3__chp_13__subsec_13.3__art_13.11" eId="chp_13__subsec_13.3__art_13.11">
@@ -349,7 +425,23 @@
                             <Divisietekst eId="cmp_III__content_o_1" wId="gm0010_2__cmp_III__content_o_1">
                                 <Inhoud>
                                     <Begrippenlijst eId="cmp_III__content_o_1__list_o_1" wId="gm0010_2__cmp_III__content_o_1__list_o_1">
-                                        <Begrip eId="cmp_III__content_o_1__list_o_1__item_o_1" wId="gm0010_2__cmp_III__content_o_1__list_o_1__item_o_1">
+                                        <Begrip eId="cmp_III__content_o_1__list_o_1__item_o_1" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_1" wijzigactie="voegtoe">
+                                            <Term>Bouwvlak Delfzijl Landelijk Gebied</Term>
+                                            <Definitie>
+                                                <Al>
+                                                    <ExtIoRef eId="cmp_III__content_o_1__list_o_1__item_o_1__ref_o_1" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/gm0010/2021/Bouwvlak_Delfzijl_Landelijk_Gebied/nld@1">/join/id/regdata/gm0010/2021/Bouwvlak_Delfzijl_Landelijk_Gebied/nld@1</ExtIoRef>
+                                                </Al>
+                                            </Definitie>
+                                        </Begrip>
+                                        <Begrip eId="cmp_III__content_o_1__list_o_1__item_o_2" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_2">
+                                            <Term>Bouwvlak Delfzijl Landelijk Gebied Rooilijn</Term>
+                                            <Definitie>
+                                                <Al>
+                                                    <ExtIoRef eId="cmp_III__content_o_1__list_o_1__item_o_2__ref_o_1" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_2__ref_o_1" ref="/join/id/regdata/gm0010/2021/Delfzijl_Landelijk_Gebied_Rooilijn/nld@1">/join/id/regdata/gm0010/2021/Delfzijl_Landelijk_Gebied_Rooilijn/nld@1</ExtIoRef>
+                                                </Al>
+                                            </Definitie>
+                                        </Begrip>
+                                        <Begrip eId="cmp_III__content_o_1__list_o_1__item_o_3" wId="gm0010_2__cmp_III__content_o_1__list_o_1__item_o_1">
                                             <Term>Delfzijl</Term>
                                             <Definitie>
                                                 <Al>
@@ -357,11 +449,75 @@
                                                 </Al>
                                             </Definitie>
                                         </Begrip>
-                                        <Begrip eId="cmp_III__content_o_1__list_o_1__item_o_2" wId="gm0010_2__cmp_III__content_o_1__list_o_1__item_o_2">
+                                        <Begrip eId="cmp_III__content_o_1__list_o_1__item_o_4" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_4" wijzigactie="voegtoe">
+                                            <Term>Delfzijl Centrum</Term>
+                                            <Definitie>
+                                                <Al>
+                                                    <ExtIoRef eId="cmp_III__content_o_1__list_o_1__item_o_4__ref_o_1" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_4__ref_o_1" ref="/join/id/regdata/gm0010/2021/Delfzijl_Centrum/nld@1">/join/id/regdata/gm0010/2021/Delfzijl_Centrum/nld@1</ExtIoRef>
+                                                </Al>
+                                            </Definitie>
+                                        </Begrip>
+                                        <Begrip eId="cmp_III__content_o_1__list_o_1__item_o_5" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_5" wijzigactie="voegtoe">
+                                            <Term>Delfzijl Centrum Bouwvlak</Term>
+                                            <Definitie>
+                                                <Al>
+                                                    <ExtIoRef eId="cmp_III__content_o_1__list_o_1__item_o_5__ref_o_1" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_5__ref_o_1" ref="/join/id/regdata/gm0010/2021/bouwvlak_Delfzijl_Centrum/nld@1">/join/id/regdata/gm0010/2021/bouwvlak_Delfzijl_Centrum/nld@1</ExtIoRef>
+                                                </Al>
+                                            </Definitie>
+                                        </Begrip>
+                                        <Begrip eId="cmp_III__content_o_1__list_o_1__item_o_6" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_6" wijzigactie="voegtoe">
+                                            <Term>Delfzijl Centrum Bouwvlak Rooilijn</Term>
+                                            <Definitie>
+                                                <Al>
+                                                    <ExtIoRef eId="cmp_III__content_o_1__list_o_1__item_o_6__ref_o_1" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_6__ref_o_1" ref="/join/id/regdata/gm0010/2021/bouwvlak_Delfzijl_Centrum_Rooilijn/nld@1">/join/id/regdata/gm0010/2021/bouwvlak_Delfzijl_Centrum_Rooilijn/nld@1</ExtIoRef>
+                                                </Al>
+                                            </Definitie>
+                                        </Begrip>
+                                        <Begrip eId="cmp_III__content_o_1__list_o_1__item_o_7" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_7" wijzigactie="voegtoe">
+                                            <Term>Delfzijl Geluidproductieplafonds</Term>
+                                            <Definitie>
+                                                <Al>
+                                                    <ExtIoRef eId="cmp_III__content_o_1__list_o_1__item_o_7__ref_o_1" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_7__ref_o_1" ref="/join/id/regdata/gm0010/2021/Delfzijl_GeluidProductiePlafonds/nld@1">/join/id/regdata/gm0010/2021/Delfzijl_GeluidProductiePlafonds/nld@1</ExtIoRef>
+                                                </Al>
+                                            </Definitie>
+                                        </Begrip>
+                                        <Begrip eId="cmp_III__content_o_1__list_o_1__item_o_8" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_8" wijzigactie="voegtoe">
+                                            <Term>Delfzijl Hoofdinfrastructuur</Term>
+                                            <Definitie>
+                                                <Al>
+                                                    <ExtIoRef eId="cmp_III__content_o_1__list_o_1__item_o_8__ref_o_1" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_8__ref_o_1" ref="/join/id/regdata/gm0010/2021/Delfzijl_Hoofdinfrastructuur/nld@1">/join/id/regdata/gm0010/2021/Delfzijl_Hoofdinfrastructuur/nld@1</ExtIoRef>
+                                                </Al>
+                                            </Definitie>
+                                        </Begrip>
+                                        <Begrip eId="cmp_III__content_o_1__list_o_1__item_o_9" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_9" wijzigactie="voegtoe">
+                                            <Term>Delfzijl Industrieterrein</Term>
+                                            <Definitie>
+                                                <Al>
+                                                    <ExtIoRef eId="cmp_III__content_o_1__list_o_1__item_o_9__ref_o_1" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_9__ref_o_1" ref="/join/id/regdata/gm0010/2021/Delfzijl_Industrieterrein/nld@1">/join/id/regdata/gm0010/2021/Delfzijl_Industrieterrein/nld@1</ExtIoRef>
+                                                </Al>
+                                            </Definitie>
+                                        </Begrip>
+                                        <Begrip eId="cmp_III__content_o_1__list_o_1__item_o_10" wId="gm0010_2__cmp_III__content_o_1__list_o_1__item_o_2">
                                             <Term>Delfzijl kamerverhuur</Term>
                                             <Definitie>
                                                 <Al>
                                                     <ExtIoRef eId="cmp_III__content_o_1__list_o_1__item_o_2__ref_o_1" wId="gm0010_2__cmp_III__content_o_1__list_o_1__item_o_2__ref_o_1" ref="/join/id/regdata/gm0010/2021/Delfzijlkamerverhuur/nld@2021-04-10;1">/join/id/regdata/gm0010/2021/Delfzijlkamerverhuur/nld@2021-04-10;1</ExtIoRef>
+                                                </Al>
+                                            </Definitie>
+                                        </Begrip>
+                                        <Begrip eId="cmp_III__content_o_1__list_o_1__item_o_11" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_11">
+                                            <Term>Delfzijl landelijk gebied</Term>
+                                            <Definitie>
+                                                <Al>
+                                                    <ExtIoRef eId="cmp_III__content_o_1__list_o_1__item_o_11__ref_o_1" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_11__ref_o_1" ref="/join/id/regdata/gm0010/2021/Delfzijl_Landelijk_Gebied/nld@1">/join/id/regdata/gm0010/2021/Delfzijl_Landelijk_Gebied/nld@1</ExtIoRef>
+                                                </Al>
+                                            </Definitie>
+                                        </Begrip>
+                                        <Begrip eId="cmp_III__content_o_1__list_o_1__item_o_12" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_12">
+                                            <Term>Delfzijl punt</Term>
+                                            <Definitie>
+                                                <Al>
+                                                    <ExtIoRef eId="cmp_III__content_o_1__list_o_1__item_o_12__ref_o_1" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_12__ref_o_1" ref="/join/id/regdata/gm0010/2021/Delfzijl_Punt/nld@1">/join/id/regdata/gm0010/2021/Delfzijl_Punt/nld@1</ExtIoRef>
                                                 </Al>
                                             </Definitie>
                                         </Begrip>
