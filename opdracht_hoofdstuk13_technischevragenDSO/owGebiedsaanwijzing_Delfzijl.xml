@@ -24,9 +24,9 @@
       <ow-dc:owObject>
          <ga:Gebiedsaanwijzing>
             <ga:identificatie>nl.imow-gm0297.gebiedsaanwijzing.Landelijkgebied</ga:identificatie>
-            <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/RuimtelijkGebruik</ga:type>
+            <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
             <ga:naam>Landelijk gebied</ga:naam>
-            <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/LandelijkGebied</ga:groep>
+            <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/LandelijkGebied</ga:groep>
             <ga:locatieaanduiding>
                <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.LandelijkGebied"/>
             </ga:locatieaanduiding>
