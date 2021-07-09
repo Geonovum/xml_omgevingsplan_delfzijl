@@ -97,7 +97,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13x3"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.DelfzijlCentrum"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.BouwvlakVoorgeschrRooilijn"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0010.activiteit.BouwwerkBouwen"/>
@@ -369,7 +369,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13punt14"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Delfzijl"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.DelfzijlVolledig"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -391,7 +391,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13punt15"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Delfzijl"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.DelfzijlVolledig"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>

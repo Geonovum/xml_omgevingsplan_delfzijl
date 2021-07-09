@@ -28,9 +28,9 @@
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebiedengroep>
-               <l:identificatie>nl.imow-gm0010.gebiedengroep.DelfzijlCentrum</l:identificatie>
+               <l:identificatie>nl.imow-gm0010.gebiedengroep.DelfzijlVolledig</l:identificatie>
                <l:groepselement>
-                  <l:GebiedRef xlink:href="nl.imow-gm0010.gebied.DelfzijlCentrum"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0010.gebied.DelfzijlVolledig"/>
                </l:groepselement>
             </l:Gebiedengroep>
          </ow-dc:owObject>
@@ -38,8 +38,8 @@
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebied>
-               <l:identificatie>nl.imow-gm0010.gebied.DelfzijlCentrum</l:identificatie>
-               <l:noemer>Delfzijl Centrum</l:noemer>
+               <l:identificatie>nl.imow-gm0010.gebied.DelfzijlVolledig</l:identificatie>
+               <l:noemer>Delfzijl volledig</l:noemer>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="4F39C08F-A729-4A82-B3C9-3FE7E41D80F3"/>
                </l:geometrie>
@@ -133,9 +133,9 @@
       <sl:stand>
          <ow-dc:owObject>
             <l:Lijnengroep>
-               <l:identificatie>nl.imow-gm0010.gebiedengroep.Hoofdinfrastructuur</l:identificatie>
+               <l:identificatie>nl.imow-gm0010.lijnengroep.Hoofdinfrastructuur</l:identificatie>
                <l:groepselement>
-                  <l:LijnRef xlink:href="nl.imow-gm0010.gebied.Hoofdinfrastructuur"/>
+                  <l:LijnRef xlink:href="nl.imow-gm0010.lijn.Hoofdinfrastructuur"/>
                </l:groepselement>
             </l:Lijnengroep>
          </ow-dc:owObject>
@@ -143,7 +143,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <l:Lijn>
-               <l:identificatie>nl.imow-gm0010.gebied.Hoofdinfrastructuur</l:identificatie>
+               <l:identificatie>nl.imow-gm0010.lijn.Hoofdinfrastructuur</l:identificatie>
                <l:noemer>Hoofdinfrastructuur</l:noemer>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="DDFF05CA-47E1-4F53-A688-E872B2337F54"/>
@@ -180,6 +180,26 @@
                   <l:GeometrieRef xlink:href="6A79909B-F804-44C1-B170-F9EF8CD62F20"/>
                </l:geometrie>
             </l:Lijn>
+         </ow-dc:owObject>
+      </sl:stand> 
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0010.gebiedengroep.BouwvlakVoorgeschrRooilijn</l:identificatie>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0010.gebied.BouwvlakVoorgeschrRooilijn"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0010.gebied.BouwvlakVoorgeschrRooilijn</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="bd6a66ec-f6a1-45f2-a318-ae90d8f1b0d1"/>
+               </l:geometrie>
+            </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>

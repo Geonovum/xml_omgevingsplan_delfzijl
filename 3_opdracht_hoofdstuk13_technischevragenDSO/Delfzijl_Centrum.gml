@@ -8,11 +8,11 @@
   </geo:context>
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork>/join/id/regdata/gm0010/2021/Delfzijl_Centrum</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/gm0010/2021/Delfzijl_Centrum/nld@2021-06-01;1</geo:FRBRExpression>
+      <geo:FRBRWork>/join/id/regdata/gm0010/2021/Delfzijl_Volledig</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/gm0010/2021/Delfzijl_Volledig/nld@2021-06-01;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
-          <geo:naam>Delfzijl Centrum</geo:naam>
+          <geo:naam>Delfzijl Volledig</geo:naam>
           <geo:geometrie>
             <basisgeo:Geometrie>
               <basisgeo:id>f20d81ab-5937-4c0b-a262-8d156972ee3b</basisgeo:id>
