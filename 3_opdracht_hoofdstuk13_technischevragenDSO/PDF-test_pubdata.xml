@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AanleveringInformatieObject schemaversie="1.0.4"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/pubdata/gm0010/2021/PDF-test_pubdata</FRBRWork>
+         <FRBRExpression>/join/id/pubdata/gm0010/2021/PDF-test_pubdata/nld@2021-07-14</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>PDF-test_pubdata.pdf</bestandsnaam>
+                  <hash>5ab812c932d78f6e0d4b4fe90cef4fe4c1b39018688355d77060543e25407f9642671b80d86d17639e0903a4308d38f6a17b532bcd0b7f7cb1f2d9605a65f5e6</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <maker>/tooi/id/gemeente/gm0010</maker>
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0010</eindverantwoordelijke>
+         <officieleTitel>/join/id/pubdata/gm0010/2021/PDF-test_pubdata</officieleTitel>
+         <publicatieinstructie>AlleenBekendTeMaken</publicatieinstructie>
+         <formaatInformatieobject>/join/id/stop/informatieobject/doc_001</formaatInformatieobject>
+         <naamInformatieObject>PDF-test_pubdata</naamInformatieObject>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
+</AanleveringInformatieObject>

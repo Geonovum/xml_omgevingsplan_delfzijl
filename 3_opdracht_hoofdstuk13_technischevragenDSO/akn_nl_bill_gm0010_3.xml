@@ -34,6 +34,9 @@
                 <informatieobjectRef>/join/id/regdata/gm0010/2021/Delfzijl_Punt/nld@2021-06-01;1</informatieobjectRef>
                 <informatieobjectRef>/join/id/regdata/gm0010/2021/Delfzijl_Centrum_BouwvlakMetVoorgeschrevenRooilijn/nld@2021-06-01;1</informatieobjectRef>
                 <informatieobjectRef>/join/id/regdata/gm0010/2021/Delfzijl_Volledig/nld@2021-06-01;1</informatieobjectRef>
+                <informatieobjectRef>/join/id/pubdata/gm0010/2021/PDF-test_infodata/nld@2021-07-14</informatieobjectRef>
+                <informatieobjectRef>/join/id/pubdata/gm0010/2021/PDF-test_pubdata/nld@2021-07-14</informatieobjectRef>
+                <informatieobjectRef>/join/id/regdata/gm0010/2021/PDF-test_regdata/nld@2021-07-14</informatieobjectRef>
             </informatieobjectRefs>
         </BesluitMetadata>
         <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -410,7 +413,7 @@
                                         <Nummer>13.14</Nummer>
                                         <Opschrift>Publicatie-PDF</Opschrift>
                                     </Kop>
-                                    <Inhoud><Al>Deze PDF is alleen relevant voor bij het publiceren. TO-DO</Al></Inhoud>
+                                    <Inhoud><Al>Deze <IntIoRef wId="gm0010_3__chp_13__subsec_13.4__art_13.14__ref_o_1" eId="chp_13__subsec_13.4__art_13.14__ref_o_1" ref="gm0010_3__cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1">PDF</IntIoRef> is alleen relevant voor bij het publiceren.</Al></Inhoud>
                                 </Artikel>
                                 <Artikel wId="gm0010_3__chp_13__subsec_13.4__art_13.15" eId="chp_13__subsec_13.4__art_13.15">
                                     <Kop>
@@ -418,7 +421,15 @@
                                         <Nummer>13.15</Nummer>
                                         <Opschrift>Consolidatie-PDF</Opschrift>
                                     </Kop>
-                                    <Inhoud><Al>Deze PDF is relevant voor de gehele regeling. TO-DO</Al></Inhoud>
+                                    <Inhoud><Al>Deze <IntIoRef wId="gm0010_3__chp_13__subsec_13.4__art_13.15__ref_o_1" eId="chp_13__subsec_13.4__art_13.15__ref_o_1" ref="gm0010_3__cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1">PDF</IntIoRef> is relevant voor de gehele regeling.</Al></Inhoud>
+                                </Artikel>
+                                <Artikel wId="gm0010_3__chp_13__subsec_13.4__art_13.16" eId="chp_13__subsec_13.4__art_13.16">
+                                    <Kop>
+                                        <Label>Artikel</Label>
+                                        <Nummer>13.16</Nummer>
+                                        <Opschrift>Informatieve-PDF</Opschrift>
+                                    </Kop>
+                                    <Inhoud><Al>Deze <IntIoRef wId="gm0010_3__chp_13__subsec_13.4__art_13.16__ref_o_1" eId="chp_13__subsec_13.4__art_13.16__ref_o_1" ref="gm0010_3__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">PDF</IntIoRef> is puur informatief.</Al></Inhoud>
                                 </Artikel>
                             </Paragraaf>
                             <Paragraaf wId="gm0010_3__chp_13__subsec_13.5" eId="chp_13__subsec_13.5">
@@ -559,6 +570,45 @@
                             </Divisietekst>
                         </Bijlage>              
                     </Vervang>
+                    <VoegToe context="gm0010_2__cmp_III" positie="volgtOp">
+                        <Bijlage wId="gm0010_2__cmp_IV" eId="cmp_IV">    
+                            <Kop>
+                                <Label>Bijlage</Label>
+                                <Nummer>IV</Nummer>
+                                <Opschrift>Overzicht PDF-informatieobjecten</Opschrift>
+                            </Kop>
+                            <Divisietekst eId="cmp_IV__content_o_1" wId="gm0010_2__cmp_IV__content_o_1">
+                                <Inhoud>
+                                    <Begrippenlijst eId="cmp_IV__content_o_1__list_o_1" wId="gm0010_3__cmp_IV__content_o_1__list_o_1">
+                                        <Begrip eId="cmp_IV__content_o_1__list_o_1__item_o_1" wId="gm0010_3__cmp_IV__content_o_1__list_o_1__item_o_1">
+                                            <Term>infodata</Term>
+                                            <Definitie>
+                                                <Al>
+                                                    <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1" wId="gm0010_3__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/pubdata/gm0010/2021/PDF-test_infodata/nld@2021-07-14">/join/id/pubdata/gm0010/2021/PDF-test_infodata/nld@2021-07-14</ExtIoRef>
+                                                </Al>
+                                            </Definitie>
+                                        </Begrip>
+                                        <Begrip eId="cmp_IV__content_o_1__list_o_1__item_o_2" wId="gm0010_2__cmp_IV__content_o_1__list_o_1__item_o_2">
+                                            <Term>pubdata</Term>
+                                            <Definitie>
+                                                <Al>
+                                                    <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_2__ref_o_1" wId="gm0010_3__cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1" ref="/join/id/pubdata/gm0010/2021/PDF-test_pubdata/nld@2021-07-14">/join/id/pubdata/gm0010/2021/PDF-test_pubdata/nld@2021-07-14</ExtIoRef>
+                                                </Al>
+                                            </Definitie>
+                                        </Begrip>
+                                        <Begrip eId="cmp_IV__content_o_1__list_o_1__item_o_3" wId="gm0010_2__cmp_IV__content_o_1__list_o_1__item_o_3">
+                                            <Term>regdata</Term>
+                                            <Definitie>
+                                                <Al>
+                                                    <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_3__ref_o_1" wId="gm0010_3__cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1" ref="/join/id/regdata/gm0010/2021/PDF-test_regdata/nld@2021-07-14">/join/id/regdata/gm0010/2021/PDF-test_regdata/nld@2021-07-14</ExtIoRef>
+                                                </Al>
+                                            </Definitie>
+                                        </Begrip>
+                                    </Begrippenlijst>
+                                </Inhoud>
+                            </Divisietekst>
+                        </Bijlage>
+                    </VoegToe>
                 </RegelingMutatie>
             </WijzigBijlage>
         </BesluitCompact>
