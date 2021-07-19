@@ -96,6 +96,14 @@
       <contentType>application/xml</contentType>
    </bestand>
    <bestand>
+      <bestandsnaam>Delfzijl_Volledig.gml</bestandsnaam>
+      <contentType>application/gml+xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Delfzijl_Volledig.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
       <bestandsnaam>manifest.xml</bestandsnaam>
       <contentType>application/xml</contentType>
    </bestand>

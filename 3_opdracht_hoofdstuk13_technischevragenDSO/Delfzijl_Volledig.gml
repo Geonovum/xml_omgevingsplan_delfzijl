@@ -3,19 +3,19 @@
   <geo:context>
     <gio:GeografischeContext>
       <gio:achtergrondVerwijzing>cbs</gio:achtergrondVerwijzing>
-      <gio:achtergrondActualiteit>2021-07-01</gio:achtergrondActualiteit>
+      <gio:achtergrondActualiteit>2021-07-19</gio:achtergrondActualiteit>
     </gio:GeografischeContext>
   </geo:context>
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork>/join/id/regdata/gm0010/2021/Delfzijl_Centrum</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/gm0010/2021/Delfzijl_Centrum/nld@2021-06-01;1</geo:FRBRExpression>
+      <geo:FRBRWork>/join/id/regdata/gm0010/2021/Delfzijl_Volledig</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/gm0010/2021/Delfzijl_Volledig/nld@2021-06-01;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>Delfzijl Volledig</geo:naam>
           <geo:geometrie>
             <basisgeo:Geometrie>
-              <basisgeo:id>f20d81ab-5937-4c0b-a262-8d156972ee3b</basisgeo:id>
+              <basisgeo:id>4F39C08F-A729-4A82-B3C9-3FE7E41D80F3</basisgeo:id>
               <basisgeo:geometrie>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992">
                   <gml:surfaceMember>

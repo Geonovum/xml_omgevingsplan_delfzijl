@@ -7,16 +7,16 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0010/2021/Delfzijl_Centrum</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0010/2021/Delfzijl_Centrum/nld@2021-06-01;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0010/2021/Delfzijl_Volledig</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0010/2021/Delfzijl_Volledig/nld@2021-06-01;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-                  <bestandsnaam>Delfzijl_Centrum.gml</bestandsnaam>
-                  <hash>09403ea23717a7233fc7464400167c10d0529b9918bf3362bbdffeca9b52cf1585adb73452f1b242f86fe6ce698fe4c44e0938675425e31201e8f9b38537f7c3</hash>
+                  <bestandsnaam>Delfzijl_Volledig.gml</bestandsnaam>
+                  <hash>e8289b4b46677be576664636ec06003f6a52e22769fc57e7974aa824324913a3efc524f1a4457e6d84ba65009acd3c737b9e6cac3827de685e069a3c4bf91247</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -25,13 +25,10 @@
       <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <eindverantwoordelijke>/tooi/id/gemeente/gm0010</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm0010</maker>
-         <alternatieveTitels>
-            <alternatieveTitel>Bouwvlak Delfzijl Centrum</alternatieveTitel>
-         </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0010/2021/Delfzijl_Centrum</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0010/2021/Delfzijl_Volledig</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-         <naamInformatieObject>bouwvlak Delfzijl Centrum</naamInformatieObject>
+         <naamInformatieObject>Delfzijl Punt</naamInformatieObject>
       </InformatieObjectMetadata>
    </InformatieObjectVersie>
 </AanleveringInformatieObject>
