@@ -48,6 +48,14 @@
       <contentType>application/xml</contentType>
    </bestand>
    <bestand>
+      <bestandsnaam>Delfzijl_Centrum_BouwvlakMetVoorgeschrevenRooilijn.gml</bestandsnaam>
+      <contentType>application/gml+xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Delfzijl_Centrum_BouwvlakMetVoorgeschrevenRooilijn.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
       <bestandsnaam>Delfzijl_GeluidProductiePlafonds.gml</bestandsnaam>
       <contentType>application/gml+xml</contentType>
    </bestand>
@@ -112,7 +120,35 @@
       <contentType>application/xml</contentType>
    </bestand>
    <bestand>
+      <bestandsnaam>owRegelingsgebied.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
       <bestandsnaam>owRegeltekst_Delfzijl.xml</bestandsnaam>
       <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>PDF-test_infodata.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>PDF-test_infodata.pdf</bestandsnaam>
+      <contentType>application/pdf</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>PDF-test_pubdata.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>PDF-test_pubdata.pdf</bestandsnaam>
+      <contentType>application/pdf</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>PDF-test_regdata.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>PDF-test_regdata.pdf</bestandsnaam>
+      <contentType>application/pdf</contentType>
    </bestand>
 </manifest>
