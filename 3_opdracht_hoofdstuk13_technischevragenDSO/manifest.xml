@@ -136,14 +136,6 @@
       <contentType>application/xml</contentType>
    </bestand>
    <bestand>
-      <bestandsnaam>PDF-test_infodata.xml</bestandsnaam>
-      <contentType>application/xml</contentType>
-   </bestand>
-   <bestand>
-      <bestandsnaam>PDF-test_infodata.pdf</bestandsnaam>
-      <contentType>application/pdf</contentType>
-   </bestand>
-   <bestand>
       <bestandsnaam>PDF-test_pubdata.xml</bestandsnaam>
       <contentType>application/xml</contentType>
    </bestand>
