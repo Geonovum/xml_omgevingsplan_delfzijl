@@ -35,7 +35,6 @@
                 <informatieobjectRef>/join/id/regdata/gm0010/2021/Delfzijl_Centrum_BouwvlakMetVoorgeschrevenRooilijn/nld@2021-06-01;1</informatieobjectRef>
                 <informatieobjectRef>/join/id/regdata/gm0010/2021/Delfzijl_Volledig/nld@2021-06-01;1</informatieobjectRef>
                 <informatieobjectRef>/join/id/pubdata/gm0010/2021/PDF-test_pubdata/nld@2021-07-14</informatieobjectRef>
-                <informatieobjectRef>/join/id/regdata/gm0010/2021/PDF-test_regdata/nld@2021-07-14</informatieobjectRef>
             </informatieobjectRefs>
         </BesluitMetadata>
         <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -151,13 +150,6 @@
                     </doelen>
                     <instrumentVersie>/join/id/regdata/gm0010/2021/PDF-test_regdata/nld@2021-07-14</instrumentVersie>
                     <eId>!h13versie#cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
-                </BeoogdInformatieobject>                
-                <BeoogdInformatieobject>
-                    <doelen>
-                        <doel>/join/id/proces/gm0010/2021/hoofdstuk13voorhetdso</doel>
-                    </doelen>
-                    <instrumentVersie>/join/id/regdata/gm0010/2021/PDF-test_regdata/nld@2021-07-14</instrumentVersie>
-                    <eId>!h13versie#cmp_IV__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
                 </BeoogdInformatieobject>                
             </BeoogdeRegelgeving>
             <Tijdstempels>
@@ -434,7 +426,7 @@
                                         <Nummer>13.15</Nummer>
                                         <Opschrift>Consolidatie-PDF</Opschrift>
                                     </Kop>
-                                    <Inhoud><Al>Deze <IntIoRef wId="gm0010_3__chp_13__subsec_13.4__art_13.15__ref_o_1" eId="chp_13__subsec_13.4__art_13.15__ref_o_1" ref="gm0010_3__cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1">PDF</IntIoRef> is relevant voor de gehele regeling.</Al></Inhoud>
+                                    <Inhoud><Al>Deze PDF is relevant voor de gehele regeling. Dit mag wel in STOP, maar kan nog niet in de LVBB.</Al></Inhoud>
                                 </Artikel>
                                 <Artikel wId="gm0010_3__chp_13__subsec_13.4__art_13.16" eId="chp_13__subsec_13.4__art_13.16">
                                     <Kop>
@@ -442,7 +434,7 @@
                                         <Nummer>13.16</Nummer>
                                         <Opschrift>Informatieve-PDF</Opschrift>
                                     </Kop>
-                                    <Inhoud><Al>Deze PDF is puur informatief. Dit mag wel in STOP, maar niet in de LVBB.</Al></Inhoud>
+                                    <Inhoud><Al>Deze PDF is puur informatief. Dit mag wel in STOP, maar kan nog niet in de LVBB.</Al></Inhoud>
                                 </Artikel>
                             </Paragraaf>
                             <Paragraaf wId="gm0010_3__chp_13__subsec_13.5" eId="chp_13__subsec_13.5">
@@ -609,14 +601,14 @@
                                                 </Al>
                                             </Definitie>
                                         </Begrip>
-                                        <Begrip eId="cmp_IV__content_o_1__list_o_1__item_o_2" wId="gm0010_2__cmp_IV__content_o_1__list_o_1__item_o_2">
+                                        <!--<Begrip eId="cmp_IV__content_o_1__list_o_1__item_o_2" wId="gm0010_2__cmp_IV__content_o_1__list_o_1__item_o_2">
                                             <Term>regdata</Term>
                                             <Definitie>
                                                 <Al>
                                                     <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_2__ref_o_1" wId="gm0010_3__cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1" ref="/join/id/regdata/gm0010/2021/PDF-test_regdata/nld@2021-07-14">/join/id/regdata/gm0010/2021/PDF-test_regdata/nld@2021-07-14</ExtIoRef>
                                                 </Al>
                                             </Definitie>
-                                        </Begrip>
+                                        </Begrip>-->
                                     </Begrippenlijst>
                                 </Inhoud>
                             </Divisietekst>
