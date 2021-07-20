@@ -135,12 +135,4 @@
       <bestandsnaam>owRegeltekst_Delfzijl.xml</bestandsnaam>
       <contentType>application/xml</contentType>
    </bestand>
-   <bestand>
-      <bestandsnaam>PDF-test_pubdata.xml</bestandsnaam>
-      <contentType>application/xml</contentType>
-   </bestand>
-   <bestand>
-      <bestandsnaam>PDF-test_pubdata.pdf</bestandsnaam>
-      <contentType>application/pdf</contentType>
-   </bestand>
 </manifest>
