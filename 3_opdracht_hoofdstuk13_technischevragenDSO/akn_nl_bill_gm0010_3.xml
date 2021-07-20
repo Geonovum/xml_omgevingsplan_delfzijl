@@ -240,7 +240,7 @@
                                         <Nummer>13.X.3</Nummer>
                                         <Opschrift>Voorgeschreven rooilijn (m.b.v. lijn)</Opschrift>
                                     </Kop>
-                                    <Inhoud><Al>Ter plaatse van de locatie <IntIoRef eId="chp_13__subsec_13.1__art_13.x.3__ref_o_1" wId="gm0010_3__chp_13__subsec_13.1__art_13.x.3__ref_o_1" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_x__ref_o_1">'bouwvlak met voorgeschreven rooilijn'</IntIoRef> geldt voor bovengrondse gebouwen dat de gevel op de plaats van de aanduiding <IntIoRef eId="chp_13__subsec_13.1__art_13.x.3__ref_o_2" wId="gm0010_3__chp_13__subsec_13.1__art_13.x.3__ref_o_2" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_6__ref_o_1">'rooilijn'</IntIoRef> moet worden gebouwd. </Al></Inhoud>
+                                    <Inhoud><Al>Ter plaatse van de locatie <IntIoRef eId="chp_13__subsec_13.1__art_13.x.3__ref_o_1" wId="gm0010_3__chp_13__subsec_13.1__art_13.x.3__ref_o_1" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_13__ref_o_1">'bouwvlak met voorgeschreven rooilijn'</IntIoRef> geldt voor bovengrondse gebouwen dat de gevel op de plaats van de aanduiding <IntIoRef eId="chp_13__subsec_13.1__art_13.x.3__ref_o_2" wId="gm0010_3__chp_13__subsec_13.1__art_13.x.3__ref_o_2" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_6__ref_o_1">'rooilijn'</IntIoRef> moet worden gebouwd. </Al></Inhoud>
                                 </Artikel>
                                 <Artikel wId="gm0010_3__chp_13__subsec_13.1__art_13.y.1" eId="chp_13__subsec_13.1__art_13.y.1">
                                     <Kop>
@@ -363,7 +363,7 @@
                                             <Li wId="gm0010_3__chp_13__subsec_13.3__art_13.11__list_o_1__item_6" eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_6">
                                                 <LiNummer>6.</LiNummer>
                                                 <Al>Verwijzing naar een <IntIoRef wId="gm0010_3__chp_13__subsec_13.3__art_13.11__list_o_1__item_6__ref_o_1" eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_6__ref_o_1" ref="gm0010_2__cmp_III__content_o_1__list_o_1__item_o_1__ref_o_1">GIO</IntIoRef> (IntIoRef) (naar Kamerverhuur-GIO).</Al>
-                                                <Al>Met een tweede verwijzing naar de <IntIoRef wId="gm0010_3__chp_13__subsec_13.3__art_13.11__list_o_1__item_6__ref_o_2" eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_6__ref_o_2" ref="gm0010_2__cmp_III__content_o_1__list_o_1__item_o_1__ref_o_14">Delfzijl_Volledig-GIO</IntIoRef></Al>
+                                                <Al>Met een tweede verwijzing naar de <IntIoRef wId="gm0010_3__chp_13__subsec_13.3__art_13.11__list_o_1__item_6__ref_o_2" eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_6__ref_o_2" ref="gm0010_2__cmp_III__content_o_1__list_o_1__item_o_14__ref_o_1">Delfzijl_Volledig-GIO</IntIoRef></Al>
                                             </Li>
                                             <Li wId="gm0010_3__chp_13__subsec_13.3__art_13.11__list_o_1__item_7" eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_7">
                                                 <LiNummer>7.</LiNummer>
