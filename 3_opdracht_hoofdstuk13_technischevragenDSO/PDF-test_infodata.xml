@@ -5,8 +5,8 @@
    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/pubdata/gm0010/2021/PDF-test_infodata</FRBRWork>
-         <FRBRExpression>/join/id/pubdata/gm0010/2021/PDF-test_infodata/nld@2021-07-14</FRBRExpression>
+         <FRBRWork>/join/id/infodata/gm0010/2021/PDF-test_infodata</FRBRWork>
+         <FRBRExpression>/join/id/infodata/gm0010/2021/PDF-test_infodata/nld@2021-07-14</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -22,7 +22,7 @@
       <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <maker>/tooi/id/gemeente/gm0010</maker>
          <eindverantwoordelijke>/tooi/id/gemeente/gm0010</eindverantwoordelijke>
-         <officieleTitel>/join/id/pubdata/gm0010/2021/PDF-test_infodata</officieleTitel>
+         <officieleTitel>/join/id/infodata/gm0010/2021/PDF-test_infodata</officieleTitel>
          <publicatieinstructie>Informatief</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/doc_001</formaatInformatieobject>
          <naamInformatieObject>PDF-test_infodata</naamInformatieObject>
