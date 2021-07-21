@@ -112,6 +112,27 @@
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0010.gebiedengroep.DelfzijlCentrum</l:identificatie>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0010.gebied.DelfzijlCentrum"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0010.gebied.DelfzijlCentrum</l:identificatie>
+               <l:noemer>Delfzijl Centrum</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="f20d81ab-5937-4c0b-a262-8d156972ee3b"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
                <l:identificatie>nl.imow-gm0010.gebiedengroep.BouwvlakDelfzijlCentrum</l:identificatie>
                <l:groepselement>
                   <l:GebiedRef xlink:href="nl.imow-gm0010.gebied.BouwvlakDelfzijlCentrum"/>

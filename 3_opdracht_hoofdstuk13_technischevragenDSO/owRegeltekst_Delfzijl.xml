@@ -303,7 +303,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13punt7"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Hoofdinfrastructuur"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0010.lijnengroep.Hoofdinfrastructuur"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -325,7 +325,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13punt8"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Hoofdinfrastructuur"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0010.lijnengroep.Hoofdinfrastructuur"/>
                </r:locatieaanduiding>
             </r:Instructieregel>
          </ow-dc:owObject>
