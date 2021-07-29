@@ -130,7 +130,7 @@
                                 <Nummer>13.5</Nummer>
                                 <Opschrift>Punt</Opschrift>
                             </Kop>
-                            <Inhoud><Al>Dit is een nieuw voorbeeld van een <IntIoRef wId="gm0010_3__chp_13__subsec_13.1__art_13.4__ref_o_1" eId="chp_13__subsec_13.1__art_13.4__ref_o_1" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_12__ref_o_1">punt</IntIoRef> dat verplaatst wordt in ontwerp.</Al></Inhoud>
+                            <Inhoud><Al>Dit is een nieuw voorbeeld van een <IntIoRef wId="gm0010_3__chp_13__subsec_13.1__art_13.4__ref_o_1" eId="chp_13__subsec_13.1__art_13.4__ref_o_1" ref="gm0010_6__cmp_III__content_o_1__list_o_1__item_o_12__ref_o_1">punt</IntIoRef> dat verplaatst wordt in ontwerp.</Al></Inhoud>
                         </Artikel>
                     </VoegToe>
                     <Vervang wat="gm0010_2__cmp_III">
