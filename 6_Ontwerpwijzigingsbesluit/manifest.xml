@@ -27,4 +27,12 @@
       <bestandsnaam>opdracht.xml</bestandsnaam>
       <contentType>application/xml</contentType>
    </bestand>
+   <bestand>
+      <bestandsnaam>Delfzijl_Punt.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>Delfzijl_Punt.gml</bestandsnaam>
+      <contentType>application/xml+gml</contentType>
+   </bestand>
 </manifest>
