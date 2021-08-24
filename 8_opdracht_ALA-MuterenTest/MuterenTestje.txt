@@ -1,0 +1,13 @@
+We testen hier vier dingen:
+
+1. Wijzigen van een activiteit en locatie bij alle activiteitlocatieaanduidingen met dezelfde ID 
+[dit zou goed moeten gaan] (activiteitlocatieaanduiding.2020000074)
+
+2. Wijzigen van een activiteit bij één van dezelfde activiteitlocatieaanduidingen
+[dit zou fout moeten gaan] (activiteitlocatieaanduiding.2020000075)
+
+3. Wijzigen van een Locatie bij één van dezelfde activiteitlocatieaanduidingen
+[dit zou fout moeten gaan] (activiteitlocatieaanduiding.2020000076)
+
+4. Wijzigen van een Activiteit (fout) en Locaties (goed) bij dezelfde activiteitlocatieaanduiding
+[dit zou fout moeten gaan, ook al is de Locatie-variant goed] (activiteitlocatieaanduiding.2020000081)
