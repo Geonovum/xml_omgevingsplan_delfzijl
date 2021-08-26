@@ -18741,7 +18741,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_3__chp_13__subsec_13.1__art_13.x.1">
+            <r:Regeltekst wId="gm1979_3__chp_13__subsec_13.1__art_13.x.1">
                <r:identificatie>nl.imow-gm0297.regeltekst.art13x1</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -18755,7 +18755,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13x1"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.DelfzijlCentrum"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.DelfzijlCentrum"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0297.gebiedsaanwijzing.FunctieCentrumgebied"/>
@@ -18767,7 +18767,7 @@
       <!-- artikel 13x2 -->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_3__chp_13__subsec_13.1__art_13.x.2">
+            <r:Regeltekst wId="gm1979_3__chp_13__subsec_13.1__art_13.x.2">
                <r:identificatie>nl.imow-gm0297.regeltekst.art13x2</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -18781,15 +18781,15 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13x2"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.DelfzijlCentrum"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.DelfzijlCentrum"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm0010.activiteit.BouwwerkBouwen"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.BouwwerkBouwen"/>
                   <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-gm0010.activiteitlocatieaanduiding.bouwwerkbouwenart13x2</r:identificatie>
+                     <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.bouwwerkbouwenart13x2</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.BouwvlakDelfzijlCentrum"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.BouwvlakDelfzijlCentrum"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -18799,7 +18799,7 @@
    <!--artikel 13x3-->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_3__chp_13__subsec_13.1__art_13.x.3">
+            <r:Regeltekst wId="gm1979_3__chp_13__subsec_13.1__art_13.x.3">
                <r:identificatie>nl.imow-gm0297.regeltekst.art13x3</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -18813,15 +18813,15 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13x3"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.BouwvlakVoorgeschrRooilijn"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.BouwvlakVoorgeschrRooilijn"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm0010.activiteit.BouwwerkBouwen"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.BouwwerkBouwen"/>
                   <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-gm0010.activiteitlocatieaanduiding.bouwwerkbouwenart13x3</r:identificatie>
+                     <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.bouwwerkbouwenart13x3</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0010.lijnengroep.CentrumBouwvlakRooilijn"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.lijnengroep.CentrumBouwvlakRooilijn"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -18831,7 +18831,7 @@
       <!-- artikel 13y1-->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_3__chp_13__subsec_13.1__art_13.y.1">
+            <r:Regeltekst wId="gm1979_3__chp_13__subsec_13.1__art_13.y.1">
                <r:identificatie>nl.imow-gm0297.regeltekst.art13y1</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -18845,7 +18845,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13y1"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.LandelijkGebied"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.LandelijkGebied"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0297.gebiedsaanwijzing.Landelijkgebied"/>
@@ -18857,7 +18857,7 @@
       <!-- artikel 13y2 -->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_3__chp_13__subsec_13.1__art_13.y.2">
+            <r:Regeltekst wId="gm1979_3__chp_13__subsec_13.1__art_13.y.2">
                <r:identificatie>nl.imow-gm0297.regeltekst.art13y2</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -18871,15 +18871,15 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13y2"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.LandelijkGebied"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.LandelijkGebied"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm0010.activiteit.BouwwerkBouwen"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.BouwwerkBouwen"/>
                   <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-gm0010.activiteitlocatieaanduiding.bouwwerkbouwenart13x2</r:identificatie>
+                     <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.bouwwerkbouwenart13x2</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.BouwvlakLandelijkGebied"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.BouwvlakLandelijkGebied"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -18889,7 +18889,7 @@
       <!-- artikel 13y3 -->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_3__chp_13__subsec_13.1__art_13.y.3">
+            <r:Regeltekst wId="gm1979_3__chp_13__subsec_13.1__art_13.y.3">
                <r:identificatie>nl.imow-gm0297.regeltekst.art13y3</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -18903,10 +18903,10 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13y3"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.BouwvlakLandelijkGebied"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.BouwvlakLandelijkGebied"/>
                </r:locatieaanduiding>
                <r:omgevingsnormaanduiding>
-                  <rol:OmgevingsnormRef xlink:href="nl.imow-gm0010.omgevingsnorm.Rooilijn"/>
+                  <rol:OmgevingsnormRef xlink:href="nl.imow-gm1979.omgevingsnorm.Rooilijn"/>
                </r:omgevingsnormaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -18914,7 +18914,7 @@
       <!-- artikel 13z1 -->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_3__chp_13__subsec_13.1__art_13.z.1">
+            <r:Regeltekst wId="gm1979_3__chp_13__subsec_13.1__art_13.z.1">
                <r:identificatie>nl.imow-gm0297.regeltekst.art13z1</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -18928,7 +18928,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13z1"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.DelfzijlIndustrieterrein"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.DelfzijlIndustrieterrein"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -18936,7 +18936,7 @@
       <!-- artikel 13z2 -->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_3__chp_13__subsec_13.1__art_13.z.2">
+            <r:Regeltekst wId="gm1979_3__chp_13__subsec_13.1__art_13.z.2">
                <r:identificatie>nl.imow-gm0297.regeltekst.art13z2</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -18950,10 +18950,10 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13z2"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.DelfzijlIndustrieterrein"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.DelfzijlIndustrieterrein"/>
                </r:locatieaanduiding>
                <r:omgevingsnormaanduiding>
-                  <rol:OmgevingsnormRef xlink:href="nl.imow-gm0010.omgevingsnorm.Geluidsproductieplafond"/>
+                  <rol:OmgevingsnormRef xlink:href="nl.imow-gm1979.omgevingsnorm.Geluidsproductieplafond"/>
                </r:omgevingsnormaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -18961,7 +18961,7 @@
       <!-- artikel 13z3 -->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_3__chp_13__subsec_13.1__art_13.z.3">
+            <r:Regeltekst wId="gm1979_3__chp_13__subsec_13.1__art_13.z.3">
                <r:identificatie>nl.imow-gm0297.regeltekst.art13z3</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -18975,7 +18975,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13z3"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.DelfzijlIndustrieterrein"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.DelfzijlIndustrieterrein"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -18983,7 +18983,7 @@
       <!--artikel 13.4-->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_3__chp_13__subsec_13.1__art_13.4">
+            <r:Regeltekst wId="gm1979_3__chp_13__subsec_13.1__art_13.4">
                <r:identificatie>nl.imow-gm0297.regeltekst.art13punt4</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -18997,7 +18997,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13punt4"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.puntengroep.DelfzijlPunt"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.puntengroep.DelfzijlPunt"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -19005,7 +19005,7 @@
       <!--artikel 13.7-->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_3__chp_13__subsec_13.2__art_13.7">
+            <r:Regeltekst wId="gm1979_3__chp_13__subsec_13.2__art_13.7">
                <r:identificatie>nl.imow-gm0297.regeltekst.art13punt7</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -19019,7 +19019,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13punt7"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.lijnengroep.Hoofdinfrastructuur"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.lijnengroep.Hoofdinfrastructuur"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -19027,7 +19027,7 @@
       <!--artikel 13.8-->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_3__chp_13__subsec_13.2__art_13.8">
+            <r:Regeltekst wId="gm1979_3__chp_13__subsec_13.2__art_13.8">
                <r:identificatie>nl.imow-gm0297.regeltekst.art13punt8</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -19041,7 +19041,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13punt8"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.lijnengroep.Hoofdinfrastructuur"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.lijnengroep.Hoofdinfrastructuur"/>
                </r:locatieaanduiding>
             </r:Instructieregel>
          </ow-dc:owObject>
@@ -19049,7 +19049,7 @@
       <!--artikel 13.11-->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_3__chp_13__subsec_13.3__art_13.11">
+            <r:Regeltekst wId="gm1979_3__chp_13__subsec_13.3__art_13.11">
                <r:identificatie>nl.imow-gm0297.regeltekst.art13punt11</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -19063,7 +19063,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13punt11"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Delfzijl"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -19071,7 +19071,7 @@
       <!--artikel 13.14-->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_3__chp_13__subsec_13.4__art_13.14">
+            <r:Regeltekst wId="gm1979_3__chp_13__subsec_13.4__art_13.14">
                <r:identificatie>nl.imow-gm0297.regeltekst.art13punt14</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -19085,7 +19085,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13punt14"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.DelfzijlVolledig"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -19093,7 +19093,7 @@
       <!--artikel 13.15-->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_3__chp_13__subsec_13.4__art_13.15">
+            <r:Regeltekst wId="gm1979_3__chp_13__subsec_13.4__art_13.15">
                <r:identificatie>nl.imow-gm0297.regeltekst.art13punt15</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -19107,36 +19107,36 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13punt15"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.DelfzijlVolledig"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.47">
-               <r:identificatie>nl.imow-gm0010.regeltekst.art5punt47</r:identificatie>
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.47">
+               <r:identificatie>nl.imow-gm1979.regeltekst.art5punt47</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0010.juridischeregel.art5punt47</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art5punt47</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0010.regeltekst.art5punt47"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art5punt47"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Delfzijl"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm0010.activiteit.ReclamePlaatsen"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsen"/>
                   <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-gm0010.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
+                     <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Delfzijl"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -19145,50 +19145,50 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.48">
-               <r:identificatie>nl.imow-gm0010.regeltekst.art5punt48</r:identificatie>
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.48">
+               <r:identificatie>nl.imow-gm1979.regeltekst.art5punt48</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0010.juridischeregel.art5punt48</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art5punt48</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0010.regeltekst.art5punt48"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art5punt48"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Delfzijl"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.49">
-               <r:identificatie>nl.imow-gm0010.regeltekst.art5punt49</r:identificatie>
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.49">
+               <r:identificatie>nl.imow-gm1979.regeltekst.art5punt49</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0010.juridischeregel.art5punt49</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art5punt49</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0010.regeltekst.art5punt49"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art5punt49"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.DelfzijlCentrum"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.DelfzijlCentrum"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm0010.activiteit.ReclamePlaatsen"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsen"/>
                   <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-gm0010.activiteitlocatieaanduiding.ReclameVerbodCentrum</r:identificatie>
+                     <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.ReclameVerbodCentrum</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.DelfzijlCentrum"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.DelfzijlCentrum"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -19197,29 +19197,29 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.50">
-               <r:identificatie>nl.imow-gm0010.regeltekst.art5punt50</r:identificatie>
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.50">
+               <r:identificatie>nl.imow-gm1979.regeltekst.art5punt50</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0010.juridischeregel.art5punt50</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art5punt50</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0010.regeltekst.art5punt50"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art5punt50"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Delfzijl"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm0010.activiteit.ReclamePlaatsen"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsen"/>
                   <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-gm0010.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
+                     <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Delfzijl"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -19228,29 +19228,29 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.51">
-               <r:identificatie>nl.imow-gm0010.regeltekst.art5punt51</r:identificatie>
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.51">
+               <r:identificatie>nl.imow-gm1979.regeltekst.art5punt51</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0010.juridischeregel.art5punt51</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art5punt51</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0010.regeltekst.art5punt51"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art5punt51"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Delfzijl"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm0010.activiteit.ReclamePlaatsen"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsen"/>
                   <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-gm0010.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
+                     <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Delfzijl"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -19259,29 +19259,29 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.52">
-               <r:identificatie>nl.imow-gm0010.regeltekst.art5punt52</r:identificatie>
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.52">
+               <r:identificatie>nl.imow-gm1979.regeltekst.art5punt52</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0010.juridischeregel.art5punt52</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art5punt52</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0010.regeltekst.art5punt52"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art5punt52"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Delfzijl"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm0010.activiteit.ReclamePlaatsen"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsen"/>
                   <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-gm0010.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
+                     <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Delfzijl"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -19290,29 +19290,29 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.53">
-               <r:identificatie>nl.imow-gm0010.regeltekst.art5punt53</r:identificatie>
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.53">
+               <r:identificatie>nl.imow-gm1979.regeltekst.art5punt53</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0010.juridischeregel.art5punt53</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art5punt53</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0010.regeltekst.art5punt53"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art5punt53"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Delfzijl"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm0010.activiteit.ReclamePlaatsen"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsen"/>
                   <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-gm0010.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
+                     <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Delfzijl"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -19321,29 +19321,29 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.54">
-               <r:identificatie>nl.imow-gm0010.regeltekst.art5punt54</r:identificatie>
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.54">
+               <r:identificatie>nl.imow-gm1979.regeltekst.art5punt54</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0010.juridischeregel.art5punt54</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art5punt54</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0010.regeltekst.art5punt54"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art5punt54"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Delfzijl"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm0010.activiteit.ReclamePlaatsen"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsen"/>
                   <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-gm0010.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
+                     <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Delfzijl"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -19352,29 +19352,29 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.55">
-               <r:identificatie>nl.imow-gm0010.regeltekst.art5punt55</r:identificatie>
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.55">
+               <r:identificatie>nl.imow-gm1979.regeltekst.art5punt55</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0010.juridischeregel.art5punt55</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art5punt55</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0010.regeltekst.art5punt55"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art5punt55"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Delfzijl"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm0010.activiteit.ReclamePlaatsen"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsen"/>
                   <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-gm0010.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
+                     <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Delfzijl"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -19383,29 +19383,29 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0010_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.56">
-               <r:identificatie>nl.imow-gm0010.regeltekst.art5punt56</r:identificatie>
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.56">
+               <r:identificatie>nl.imow-gm1979.regeltekst.art5punt56</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0010.juridischeregel.art5punt56</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art5punt56</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0010.regeltekst.art5punt56"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art5punt56"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Delfzijl"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm0010.activiteit.ReclamePlaatsen"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsen"/>
                   <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-gm0010.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
+                     <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0010.gebiedengroep.Delfzijl"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>

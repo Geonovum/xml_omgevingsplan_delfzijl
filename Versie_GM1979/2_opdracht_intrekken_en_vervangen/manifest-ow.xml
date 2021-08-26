@@ -11,6 +11,10 @@
          <objecttype>Activiteit</objecttype>
       </Bestand>
       <Bestand>
+         <naam>owGebiedsaanwijzing_Delfzijl.xml</naam>
+         <objecttype>Gebiedsaanwijzing</objecttype>
+      </Bestand>
+      <Bestand>
          <naam>owLocaties.xml</naam>
          <objecttype>Gebiedengroep</objecttype>
          <objecttype>Gebied</objecttype>            
