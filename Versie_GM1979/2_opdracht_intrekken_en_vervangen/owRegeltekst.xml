@@ -19131,7 +19131,7 @@
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsen"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsenNieuw"/>
                   <r:ActiviteitLocatieaanduiding>
                      <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
@@ -19183,7 +19183,7 @@
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.DelfzijlCentrum"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsen"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsenNieuw"/>
                   <r:ActiviteitLocatieaanduiding>
                      <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.ReclameVerbodCentrum</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
@@ -19214,7 +19214,7 @@
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsen"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsenNieuw"/>
                   <r:ActiviteitLocatieaanduiding>
                      <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
@@ -19245,7 +19245,7 @@
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsen"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsenNieuw"/>
                   <r:ActiviteitLocatieaanduiding>
                      <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
@@ -19276,7 +19276,7 @@
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsen"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsenNieuw"/>
                   <r:ActiviteitLocatieaanduiding>
                      <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
@@ -19307,7 +19307,7 @@
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsen"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsenNieuw"/>
                   <r:ActiviteitLocatieaanduiding>
                      <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
@@ -19338,7 +19338,7 @@
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsen"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsenNieuw"/>
                   <r:ActiviteitLocatieaanduiding>
                      <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
@@ -19369,7 +19369,7 @@
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsen"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsenNieuw"/>
                   <r:ActiviteitLocatieaanduiding>
                      <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
@@ -19400,7 +19400,7 @@
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsen"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsenNieuw"/>
                   <r:ActiviteitLocatieaanduiding>
                      <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.ReclameAlgemeen</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
