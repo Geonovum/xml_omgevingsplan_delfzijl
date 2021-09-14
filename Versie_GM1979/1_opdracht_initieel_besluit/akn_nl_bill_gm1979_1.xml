@@ -18459,7 +18459,18 @@
         						</Inhoud>
         					</Divisietekst>
         				</Divisie>
-        			</Toelichting>
+                        <Bijlage wId="gm1979_1-0__recital_o_1__cmp_I" eId="recital_o_1__cmp_I" >
+                            <Kop>
+                                <Opschrift>De bijlage voor Raymond</Opschrift>
+                            </Kop>
+                            <Divisietekst wId="gm1979_1-0__recital_o_1__cmp_I__content_o_1" eId="recital_o_1__cmp_I__content_o_1">
+                                <Inhoud>
+                                    <Al>Nou Raymond, je wilde een Bijlage binnen een Toelichting, het kostte eventjes tijd, maar hier heb je 'm!</Al>
+                                    <Al>Hopelijk kun je hier mee uit de voeten!</Al>
+                                </Inhoud>
+                            </Divisietekst>
+                        </Bijlage>
+                    </Toelichting>
         		</RegelingCompact>
             </WijzigBijlage>
         </BesluitCompact>
