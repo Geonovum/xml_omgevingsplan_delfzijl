@@ -19757,15 +19757,4 @@
          </opvolging>
       </RegelingMetadata>
    </RegelingVersieInformatie>
-   <RegelingVersieInformatie>
-      <!--handmatig toevoegen-->
-      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/gm0010/2021/omgevingsplandelfzijl</FRBRWork>
-         <FRBRExpression>/akn/nl/act/gm0010/2021/omgevingsplandelfzijl/nld@1</FRBRExpression>
-         <soortWork>/join/id/stop/work_019</soortWork>
-      </ExpressionIdentificatie>
-      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <versienummer>1</versienummer>
-      </RegelingVersieMetadata>
-   </RegelingVersieInformatie>
 </AanleveringBesluit>
