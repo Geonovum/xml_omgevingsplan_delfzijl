@@ -114,23 +114,23 @@
                 </Kop>
                 <RegelingMutatie componentnaam="ontwerpwijzigingsbesluit" was="/akn/nl/act/gm0010/2021/omgevingsplandelfzijl_2/nld@5" wordt="/akn/nl/act/gm0010/2021/omgevingsplandelfzijl_2/nld@6"> 
                     <Verwijder wat="gm0010_3__chp_13__subsec_13.1__art_13.4">
-                        <Artikel wId="gm0010_3__chp_13__subsec_13.1__art_13.4" eId="chp_13__subsec_13.1__art_13.4">
+                        <Artikel wId="gm0010_3__chp_13__subsec_13.1__art_13.4" eId="chp_13__subsec_13.1__art_13.4__inst_2">
                             <Kop>
                                 <Label>Artikel</Label>
                                 <Nummer>13.4</Nummer>
                                 <Opschrift>Punt</Opschrift>
                             </Kop>
-                            <Inhoud><Al>Dit is een voorbeeld van een <IntIoRef wId="gm0010_3__chp_13__subsec_13.1__art_13.4__ref_o_1" eId="chp_13__subsec_13.1__art_13.4__ref_o_1" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_12__ref_o_1">punt</IntIoRef>.</Al></Inhoud>
+                            <Inhoud><Al>Dit is een voorbeeld van een <IntIoRef wId="gm0010_3__chp_13__subsec_13.1__art_13.4__ref_o_1" eId="chp_13__subsec_13.1__art_13.4__ref_o_1__inst_2" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_12__ref_o_1">punt</IntIoRef>.</Al></Inhoud>
                         </Artikel>
                     </Verwijder>
                     <VoegToe positie="volgtOp" context="gm0010_3__chp_13__subsec_13.1__art_13.z.3">
-                        <Artikel wId="gm0010_3__chp_13__subsec_13.1__art_13.5" eId="chp_13__subsec_13.1__art_13.5">
+                        <Artikel wId="gm0010_6__chp_13__subsec_13.1__art_13.4" eId="chp_13__subsec_13.1__art_13.4">
                             <Kop>
                                 <Label>Artikel</Label>
-                                <Nummer>13.5</Nummer>
+                                <Nummer>13.4</Nummer>
                                 <Opschrift>Punt</Opschrift>
                             </Kop>
-                            <Inhoud><Al>Dit is een nieuw voorbeeld van een <IntIoRef wId="gm0010_3__chp_13__subsec_13.1__art_13.4__ref_o_1" eId="chp_13__subsec_13.1__art_13.4__ref_o_1" ref="gm0010_6__cmp_III__content_o_1__list_o_1__item_o_12__ref_o_1">punt</IntIoRef> dat verplaatst wordt in ontwerp.</Al></Inhoud>
+                            <Inhoud><Al>Dit is een nieuw voorbeeld van een <IntIoRef wId="gm0010_6__chp_13__subsec_13.1__art_13.4__ref_o_1" eId="chp_13__subsec_13.1__art_13.4__ref_o_1" ref="gm0010_6__cmp_III__content_o_1__list_o_1__item_o_12__ref_o_1">punt</IntIoRef> dat verplaatst wordt in ontwerp.</Al></Inhoud>
                         </Artikel>
                     </VoegToe>
                     <Vervang wat="gm0010_2__cmp_III">
@@ -232,11 +232,11 @@
                                                 </Al>
                                             </Definitie>
                                         </Begrip>
-                                        <Begrip eId="cmp_III__content_o_1__list_o_1__item_o_12__inst2" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_12" wijzigactie="verwijder">
+                                        <Begrip eId="cmp_III__content_o_1__list_o_1__item_o_12__inst_2" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_12" wijzigactie="verwijder">
                                             <Term>Delfzijl punt</Term>
                                             <Definitie>
                                                 <Al>
-                                                    <ExtIoRef eId="cmp_III__content_o_1__inst2__list_o_1__item_o_12__ref_o_1" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_12__ref_o_1" ref="/join/id/regdata/gm0010/2021/Delfzijl_Punt/nld@2021-06-01;1">/join/id/regdata/gm0010/2021/Delfzijl_Punt/nld@2021-06-01;1</ExtIoRef>
+                                                    <ExtIoRef eId="cmp_III__content_o_1__list_o_1__item_o_12__inst_2__ref_o_1" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_12__ref_o_1" ref="/join/id/regdata/gm0010/2021/Delfzijl_Punt/nld@2021-06-01;1">/join/id/regdata/gm0010/2021/Delfzijl_Punt/nld@2021-06-01;1</ExtIoRef>
                                                 </Al>
                                             </Definitie>
                                         </Begrip>
