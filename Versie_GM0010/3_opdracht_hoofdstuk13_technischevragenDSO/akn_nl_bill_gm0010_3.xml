@@ -32,6 +32,8 @@
                 <informatieobjectRef>/join/id/regdata/gm0010/2021/Delfzijl_Industrieterrein/nld@2021-06-01;1</informatieobjectRef>
                 <informatieobjectRef>/join/id/regdata/gm0010/2021/Delfzijl_Landelijk_Gebied/nld@2021-06-01;1</informatieobjectRef>
                 <informatieobjectRef>/join/id/regdata/gm0010/2021/Delfzijl_Punt/nld@2021-06-01;1</informatieobjectRef>
+                <informatieobjectRef>/join/id/regdata/gm0010/2021/Delfzijl_Centrum_BouwvlakMetVoorgeschrevenRooilijn/nld@2021-06-01;1</informatieobjectRef>
+                <informatieobjectRef>/join/id/regdata/gm0010/2021/Delfzijl_Volledig/nld@2021-06-01;1</informatieobjectRef>
             </informatieobjectRefs>
         </BesluitMetadata>
         <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -126,7 +128,21 @@
                     </doelen>
                     <instrumentVersie>/join/id/regdata/gm0010/2021/Delfzijl_Punt/nld@2021-06-01;1</instrumentVersie>
                     <eId>!h13versie#cmp_III__content_o_1__list_o_1__item_o_12__ref_o_1</eId>
-                </BeoogdInformatieobject>                  
+                </BeoogdInformatieobject>
+                <BeoogdInformatieobject>
+                    <doelen>
+                        <doel>/join/id/proces/gm0010/2021/hoofdstuk13voorhetdso</doel>
+                    </doelen>
+                    <instrumentVersie>/join/id/regdata/gm0010/2021/Delfzijl_Centrum_BouwvlakMetVoorgeschrevenRooilijn/nld@2021-06-01;1</instrumentVersie>
+                    <eId>!h13versie#cmp_III__content_o_1__list_o_1__item_o_13__ref_o_1</eId>
+                </BeoogdInformatieobject>
+                <BeoogdInformatieobject>
+                    <doelen>
+                        <doel>/join/id/proces/gm0010/2021/hoofdstuk13voorhetdso</doel>
+                    </doelen>
+                    <instrumentVersie>/join/id/regdata/gm0010/2021/Delfzijl_Volledig/nld@2021-06-01;1</instrumentVersie>
+                    <eId>!h13versie#cmp_III__content_o_1__list_o_1__item_o_14__ref_o_1</eId>
+                </BeoogdInformatieobject>
             </BeoogdeRegelgeving>
             <Tijdstempels>
                 <Tijdstempel>
@@ -224,7 +240,7 @@
                                         <Nummer>13.X.3</Nummer>
                                         <Opschrift>Voorgeschreven rooilijn (m.b.v. lijn)</Opschrift>
                                     </Kop>
-                                    <Inhoud><Al>Ter plaatse van de locatie <IntIoRef eId="chp_13__subsec_13.1__art_13.x.3__ref_o_1" wId="gm0010_3__chp_13__subsec_13.1__art_13.x.3__ref_o_1" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_6__ref_o_1">'bouwvlak met voorgeschreven rooilijn'</IntIoRef> geldt voor bovengrondse gebouwen dat de gevel op de plaats van de aanduiding 'rooilijn' moet worden gebouwd. </Al></Inhoud>
+                                    <Inhoud><Al>Ter plaatse van de locatie <IntIoRef eId="chp_13__subsec_13.1__art_13.x.3__ref_o_1" wId="gm0010_3__chp_13__subsec_13.1__art_13.x.3__ref_o_1" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_13__ref_o_1">'bouwvlak met voorgeschreven rooilijn'</IntIoRef> geldt voor bovengrondse gebouwen dat de gevel op de plaats van de aanduiding <IntIoRef eId="chp_13__subsec_13.1__art_13.x.3__ref_o_2" wId="gm0010_3__chp_13__subsec_13.1__art_13.x.3__ref_o_2" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_6__ref_o_1">'rooilijn'</IntIoRef> moet worden gebouwd. </Al></Inhoud>
                                 </Artikel>
                                 <Artikel wId="gm0010_3__chp_13__subsec_13.1__art_13.y.1" eId="chp_13__subsec_13.1__art_13.y.1">
                                     <Kop>
@@ -312,7 +328,7 @@
                             <Paragraaf wId="gm0010_3__chp_13__subsec_13.3" eId="chp_13__subsec_13.3">
                                 <Kop>
                                     <Label>Paragraaf</Label>
-                                    <Nummer>13.11</Nummer>
+                                    <Nummer>13.3</Nummer>
                                     <Opschrift>Verwijzingen</Opschrift>
                                 </Kop>
                                 <Artikel wId="gm0010_3__chp_13__subsec_13.3__art_13.11" eId="chp_13__subsec_13.3__art_13.11">
@@ -347,6 +363,7 @@
                                             <Li wId="gm0010_3__chp_13__subsec_13.3__art_13.11__list_o_1__item_6" eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_6">
                                                 <LiNummer>6.</LiNummer>
                                                 <Al>Verwijzing naar een <IntIoRef wId="gm0010_3__chp_13__subsec_13.3__art_13.11__list_o_1__item_6__ref_o_1" eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_6__ref_o_1" ref="gm0010_2__cmp_III__content_o_1__list_o_1__item_o_1__ref_o_1">GIO</IntIoRef> (IntIoRef) (naar Kamerverhuur-GIO).</Al>
+                                                <Al>Met een tweede verwijzing naar de <IntIoRef wId="gm0010_3__chp_13__subsec_13.3__art_13.11__list_o_1__item_6__ref_o_2" eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_6__ref_o_2" ref="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_14__ref_o_1">Delfzijl_Volledig-GIO</IntIoRef></Al>
                                             </Li>
                                             <Li wId="gm0010_3__chp_13__subsec_13.3__art_13.11__list_o_1__item_7" eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_7">
                                                 <LiNummer>7.</LiNummer>
@@ -393,7 +410,7 @@
                                         <Nummer>13.14</Nummer>
                                         <Opschrift>Publicatie-PDF</Opschrift>
                                     </Kop>
-                                    <Inhoud><Al>Deze PDF is alleen relevant voor bij het publiceren. TO-DO</Al></Inhoud>
+                                    <Inhoud><Al>Deze PDF is alleen relevant voor bij het publiceren. PDF-bestanden kunnen wel in STOP, maar nog niet in de LVBB.</Al></Inhoud>
                                 </Artikel>
                                 <Artikel wId="gm0010_3__chp_13__subsec_13.4__art_13.15" eId="chp_13__subsec_13.4__art_13.15">
                                     <Kop>
@@ -401,7 +418,15 @@
                                         <Nummer>13.15</Nummer>
                                         <Opschrift>Consolidatie-PDF</Opschrift>
                                     </Kop>
-                                    <Inhoud><Al>Deze PDF is relevant voor de gehele regeling. TO-DO</Al></Inhoud>
+                                    <Inhoud><Al>Deze PDF is relevant voor de gehele regeling. PDF-bestanden kunnen wel in STOP, maar nog niet in de LVBB.</Al></Inhoud>
+                                </Artikel>
+                                <Artikel wId="gm0010_3__chp_13__subsec_13.4__art_13.16" eId="chp_13__subsec_13.4__art_13.16">
+                                    <Kop>
+                                        <Label>Artikel</Label>
+                                        <Nummer>13.16</Nummer>
+                                        <Opschrift>Informatieve-PDF</Opschrift>
+                                    </Kop>
+                                    <Inhoud><Al>Deze PDF is puur informatief. PDF-bestanden kunnen wel in STOP, maar nog niet in de LVBB.</Al></Inhoud>
                                 </Artikel>
                             </Paragraaf>
                             <Paragraaf wId="gm0010_3__chp_13__subsec_13.5" eId="chp_13__subsec_13.5">
@@ -521,11 +546,66 @@
                                                 </Al>
                                             </Definitie>
                                         </Begrip>
+                                        <Begrip eId="cmp_III__content_o_1__list_o_1__item_o_13" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_13">
+                                            <Term>Delfzijl Centrum Bouwvlak met voorgeschreven rooilijn</Term>
+                                            <Definitie>
+                                                <Al>
+                                                    <ExtIoRef eId="cmp_III__content_o_1__list_o_1__item_o_13__ref_o_1" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_13__ref_o_1" ref="/join/id/regdata/gm0010/2021/Delfzijl_Centrum_BouwvlakMetVoorgeschrevenRooilijn/nld@2021-06-01;1">/join/id/regdata/gm0010/2021/Delfzijl_Centrum_BouwvlakMetVoorgeschrevenRooilijn/nld@2021-06-01;1</ExtIoRef>
+                                                </Al>
+                                            </Definitie>
+                                        </Begrip>
+                                        <Begrip eId="cmp_III__content_o_1__list_o_1__item_o_14" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_14">
+                                            <Term>Delfzijl Volledig</Term>
+                                            <Definitie>
+                                                <Al>
+                                                    <ExtIoRef eId="cmp_III__content_o_1__list_o_1__item_o_14__ref_o_1" wId="gm0010_3__cmp_III__content_o_1__list_o_1__item_o_14__ref_o_1" ref="/join/id/regdata/gm0010/2021/Delfzijl_Volledig/nld@2021-06-01;1">/join/id/regdata/gm0010/2021/Delfzijl_Volledig/nld@2021-06-01;1</ExtIoRef>
+                                                </Al>
+                                            </Definitie>
+                                        </Begrip>
                                     </Begrippenlijst>
                                 </Inhoud>
                             </Divisietekst>
                         </Bijlage>              
                     </Vervang>
+                    <!--<VoegToe context="gm0010_2__cmp_III" positie="volgtOp">
+                        <Bijlage wId="gm0010_2__cmp_IV" eId="cmp_IV">    
+                            <Kop>
+                                <Label>Bijlage</Label>
+                                <Nummer>IV</Nummer>
+                                <Opschrift>Overzicht PDF-informatieobjecten</Opschrift>
+                            </Kop>
+                            <Divisietekst eId="cmp_IV__content_o_1" wId="gm0010_2__cmp_IV__content_o_1">
+                                <Inhoud>
+                                    <Begrippenlijst eId="cmp_IV__content_o_1__list_o_1" wId="gm0010_3__cmp_IV__content_o_1__list_o_1">
+<!-\-                                        <Begrip eId="cmp_IV__content_o_1__list_o_1__item_o_1" wId="gm0010_3__cmp_IV__content_o_1__list_o_1__item_o_1">
+                                            <Term>infodata</Term>
+                                            <Definitie>
+                                                <Al>
+                                                    <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1" wId="gm0010_3__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/infodata/gm0010/2021/PDF-test_infodata/nld@2021-07-14">/join/id/infodata/gm0010/2021/PDF-test_infodata/nld@2021-07-14</ExtIoRef>
+                                                </Al>
+                                            </Definitie>
+                                        </Begrip>-\->
+                                        <Begrip eId="cmp_IV__content_o_1__list_o_1__item_o_1" wId="gm0010_2__cmp_IV__content_o_1__list_o_1__item_o_1">
+                                            <Term>pubdata</Term>
+                                            <Definitie>
+                                                <Al>
+                                                    <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1" wId="gm0010_3__cmp_o_1__content_o_1__list_o_1__item_o_2__ref_o_1" ref="/join/id/pubdata/gm0010/2021/PDF-test_pubdata/nld@2021-07-14">/join/id/pubdata/gm0010/2021/PDF-test_pubdata/nld@2021-07-14</ExtIoRef>
+                                                </Al>
+                                            </Definitie>
+                                        </Begrip>
+                                        <!-\-<Begrip eId="cmp_IV__content_o_1__list_o_1__item_o_2" wId="gm0010_2__cmp_IV__content_o_1__list_o_1__item_o_2">
+                                            <Term>regdata</Term>
+                                            <Definitie>
+                                                <Al>
+                                                    <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_2__ref_o_1" wId="gm0010_3__cmp_o_1__content_o_1__list_o_1__item_o_3__ref_o_1" ref="/join/id/regdata/gm0010/2021/PDF-test_regdata/nld@2021-07-14">/join/id/regdata/gm0010/2021/PDF-test_regdata/nld@2021-07-14</ExtIoRef>
+                                                </Al>
+                                            </Definitie>
+                                        </Begrip>-\->
+                                    </Begrippenlijst>
+                                </Inhoud>
+                            </Divisietekst>
+                        </Bijlage>
+                    </VoegToe>-->
                 </RegelingMutatie>
             </WijzigBijlage>
         </BesluitCompact>
