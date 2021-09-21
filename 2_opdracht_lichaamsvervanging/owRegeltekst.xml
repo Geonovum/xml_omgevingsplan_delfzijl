@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ow-dc:owBestand xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
-   xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
-   xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
-   xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
-   xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
-   xmlns:k="http://www.geostandaarden.nl/imow/kaart"
-   xmlns:l="http://www.geostandaarden.nl/imow/locatie"
-   xmlns:p="http://www.geostandaarden.nl/imow/pons"
-   xmlns:r="http://www.geostandaarden.nl/imow/regels"
-   xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
-   xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
-   xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
-   xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
    <sl:standBestand>
       <sl:dataset>gm1979</sl:dataset>
       <sl:inhoud>
@@ -418,232 +419,203 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.1__art_3.23__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.1__art_3.23__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000058</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.1__art_3.23__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.1__art_3.23__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000059</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.1__art_3.24__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.1__art_3.24__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000060</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.1__art_3.24__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.1__art_3.24__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000061</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.1__art_3.25">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.1__art_3.25">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000062</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.26">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.26">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000063</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.27">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.27">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000064</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.28__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.28__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000065</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.28__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.28__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000066</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.28__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.28__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000067</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.28__para_4">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.28__para_4">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000068</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.29__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.29__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000069</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.29__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.29__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000070</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.30__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.30__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000071</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.30__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.30__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000072</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.30__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.30__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000073</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.31">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.31">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000074</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.32__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.32__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000075</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.32__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.32__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000076</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.33__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.33__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000077</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.33__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.33__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000078</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.34__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.34__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000079</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.34__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.34__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000080</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.35">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.2__art_3.35">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000081</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.3__art_3.36">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.3__art_3.36">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000082</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.3__art_3.37__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.3__art_3.37__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000083</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.3__art_3.37__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.3__art_3.37__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000084</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.3__art_3.38">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.3__art_3.38">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000085</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.3__art_3.39">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.8__subsec_3.8.7__subsec_3.2.7.3__art_3.39">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000086</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -853,440 +825,385 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.54__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.54__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000116</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.54__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.54__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000117</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.54__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.54__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000118</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.54__para_4">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.54__para_4">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000119</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.55__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.55__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000120</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.55__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.55__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000121</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.56">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.56">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000122</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.57">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.57">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000123</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.58">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.58">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000124</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.59">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.59">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000125</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.60__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.60__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000126</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.60__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.60__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000127</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.60__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.60__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000128</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.60__para_4">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.60__para_4">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000129</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.61__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.61__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000130</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.61__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.1__art_3.61__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000131</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.62__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.62__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000132</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.62__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.62__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000133</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.63__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.63__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000134</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.63__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.63__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000135</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.63__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.63__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000136</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.63__para_4">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.63__para_4">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000137</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.64__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.64__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000138</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.64__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.64__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000139</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.65__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.65__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000140</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.65__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.65__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000141</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.65__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.65__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000142</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.66__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.66__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000143</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.66__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.66__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000144</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.66__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.66__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000145</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.67__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.67__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000146</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.67__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.67__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000147</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.68">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.68">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000148</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.69__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.69__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000149</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.69__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.69__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000150</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.70__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.70__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000151</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.70__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.70__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000152</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.70__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.70__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000153</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.71">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.71">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000154</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.72__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.72__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000155</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.72__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.72__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000156</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.73__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.73__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000157</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.73__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.73__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000158</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.74">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.2__art_3.74">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000159</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.3__art_3.75">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.3__art_3.75">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000160</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.3__art_3.76">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.3__art_3.76">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000161</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.3__art_3.77__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.3__art_3.77__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000162</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.3__art_3.77__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.3__art_3.77__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000163</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.3__art_3.78">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.3__art_3.78">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000164</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.4__art_3.79__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.4__art_3.79__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000165</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.4__art_3.79__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.4__art_3.79__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000166</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.4__art_3.80">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.4__art_3.80">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000167</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.4__art_3.81__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.4__art_3.81__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000168</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.4__art_3.81__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.4__art_3.81__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000169</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.4__art_3.82">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.4__subsec_3.3.4.4__art_3.82">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000170</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -1356,1208 +1273,1057 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.1__art_3.90__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.1__art_3.90__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000180</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.1__art_3.90__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.1__art_3.90__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000181</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.1__art_3.91__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.1__art_3.91__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000182</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.1__art_3.91__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.1__art_3.91__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000183</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.1__art_3.92">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.1__art_3.92">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000184</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.1__art_3.93">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.1__art_3.93">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000185</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.1__art_3.94">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.1__art_3.94">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000186</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.1__art_3.95">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.1__art_3.95">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000187</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.96__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.96__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000188</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.96__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.96__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000189</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.97">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.97">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000190</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.98__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.98__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000191</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.98__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.98__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000192</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.99__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.99__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000193</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.99__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.99__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000194</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.100">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.100">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000195</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.101">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.101">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000196</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.102__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.102__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000197</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.102__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.102__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000198</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.103__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.103__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000199</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.103__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.103__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000200</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.104">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.104">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000201</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.105">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.2__art_3.105">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000202</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.106__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.106__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000203</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.106__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.106__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000204</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.107">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.107">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000205</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.108__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.108__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000206</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.108__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.108__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000207</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.109__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.109__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000208</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.109__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.109__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000209</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.110">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.110">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000210</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.111__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.111__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000211</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.111__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.111__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000212</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.112__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.112__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000213</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.112__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.112__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000214</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.113">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.3__art_3.113">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000215</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.114__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.114__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000216</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.114__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.114__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000217</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.114__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.114__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000218</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.115__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.115__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000219</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.115__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.115__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000220</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.116__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.116__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000221</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.116__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.116__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000222</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.116__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.116__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000223</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.117__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.117__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000224</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.117__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.117__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000225</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.118__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.118__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000226</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.118__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.118__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000227</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.118__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.118__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000228</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.119__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.119__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000229</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.119__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.119__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000230</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.119__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.119__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000231</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.120__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.120__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000232</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.120__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.120__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000233</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.120__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.4__art_3.120__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000234</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.5__art_3.121">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.5__art_3.121">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000235</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.5__art_3.122__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.5__art_3.122__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000236</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.5__art_3.122__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.5__art_3.122__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000237</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.5__art_3.122__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.5__art_3.122__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000238</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.5__art_3.123">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.5__art_3.123">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000239</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.5__art_3.124">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.6__subsec_3.3.6.5__art_3.124">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000240</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.1__art_3.125">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.1__art_3.125">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000241</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.1__art_3.126__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.1__art_3.126__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000242</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.1__art_3.126__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.1__art_3.126__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000243</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.2__art_3.127__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.2__art_3.127__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000244</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.2__art_3.127__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.2__art_3.127__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000245</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.2__art_3.127__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.2__art_3.127__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000246</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.2__art_3.128__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.2__art_3.128__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000247</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.2__art_3.128__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.2__art_3.128__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000248</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.2__art_3.128__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.2__art_3.128__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000249</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.2__art_3.129">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.2__art_3.129">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000250</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.2__art_3.130">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.2__art_3.130">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000251</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.3__art_3.131">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.3__art_3.131">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000252</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.3__art_3.132">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.7__subsec_3.3.7.3__art_3.132">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000253</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.137">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.137">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000259</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.138__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.138__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000260</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.138__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.138__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000261</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.138__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.138__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000262</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.138__para_4">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.138__para_4">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000263</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.139__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.139__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000264</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.139__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.139__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000265</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.139__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.139__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000266</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.139__para_4">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.139__para_4">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000267</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.140__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.140__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000268</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.140__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.140__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000269</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.140__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.140__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000270</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.140__para_4">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.140__para_4">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000271</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.140__para_5">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.140__para_5">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000272</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.141__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.141__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000273</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.141__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.141__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000274</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.141__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.1__art_3.141__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000275</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.2__art_3.142">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.2__art_3.142">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000276</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.2__art_3.143__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.2__art_3.143__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000277</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.2__art_3.143__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.2__art_3.143__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000278</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.2__art_3.144__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.2__art_3.144__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000279</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.2__art_3.144__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.2__art_3.144__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000280</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.2__art_3.144__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.2__art_3.144__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000281</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.2__art_3.144__para_4">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.2__art_3.144__para_4">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000282</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.2__art_3.144__para_5">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.2__art_3.144__para_5">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000283</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.145">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.145">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000284</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.146__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.146__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000285</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.146__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.146__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000286</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.146__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.146__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000287</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.147">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.147">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000288</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.148__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.148__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000289</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.148__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.148__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000290</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.148__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.148__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000291</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.148__para_4">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.148__para_4">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000292</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.149__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.149__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000293</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.149__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.149__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000294</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.149__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.149__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000295</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.149__para_4">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.149__para_4">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000296</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.150__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.150__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000297</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.150__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.150__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000298</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.150__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.3__art_3.150__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000299</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.4__art_3.151">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.4__art_3.151">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000300</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.4__art_3.152__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.4__art_3.152__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000301</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.4__art_3.152__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.4__art_3.152__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000302</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.4__art_3.153__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.4__art_3.153__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000303</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.4__art_3.153__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.4__art_3.153__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000304</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.4__art_3.153__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.4__art_3.153__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000305</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.5__art_3.154">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.5__art_3.154">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000306</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.5__art_3.155__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.5__art_3.155__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000307</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.5__art_3.155__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.5__art_3.155__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000308</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.156">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.156">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000309</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.157">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.157">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000310</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.158__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.158__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000311</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.158__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.158__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000312</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.158__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.158__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000313</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.159__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.159__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000314</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.159__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.159__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000315</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.159__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.159__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000316</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.159__para_4">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.159__para_4">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000317</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.159__para_5">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.159__para_5">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000318</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.160__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.160__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000319</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.160__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.160__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000320</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.160__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.160__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000321</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.161">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.6__art_3.161">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000322</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.7__art_3.162">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.7__art_3.162">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000323</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.7__art_3.163">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.7__art_3.163">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000324</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.7__art_3.164">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.7__art_3.164">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000325</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.8__art_3.165">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.8__art_3.165">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000326</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.8__art_3.166__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.8__art_3.166__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000327</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.8__art_3.166__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.8__art_3.166__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000328</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.8__art_3.166__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.8__art_3.166__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000329</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.8__art_3.166__para_4">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.8__art_3.166__para_4">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000330</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.9__art_3.167__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.9__art_3.167__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000331</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.9__art_3.167__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.9__art_3.167__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000332</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.9__art_3.168__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.9__art_3.168__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000333</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.9__art_3.168__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.9__art_3.168__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000334</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.9__art_3.169">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.4__subsec_3.4.8__subsec_3.3.8.9__art_3.169">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000335</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -4111,272 +3877,238 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_o_1__art_3.283">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_o_1__art_3.283">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000557</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.1__art_3.284__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.1__art_3.284__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000558</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.1__art_3.284__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.1__art_3.284__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000559</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.1__art_3.285">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.1__art_3.285">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000560</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.2__art_3.286__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.2__art_3.286__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000561</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.2__art_3.286__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.2__art_3.286__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000562</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.287">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.287">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000563</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.288__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.288__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000564</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.288__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.288__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000565</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.289">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.289">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000566</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.290__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.290__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000567</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.290__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.290__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000568</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.291__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.291__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000569</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.291__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.291__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000570</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.292__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.292__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000571</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.292__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.292__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000572</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.293">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.293">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000573</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.294__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.294__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000574</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.294__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.294__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000575</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.294__para_3">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.294__para_3">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000576</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.294__para_4">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.294__para_4">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000577</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.295">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.295">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000578</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.296__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.296__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000579</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.296__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.296__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000580</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.297">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.297">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000581</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.298">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.298">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000582</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.299__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.299__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000583</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.299__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.299__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000584</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.300__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.300__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000585</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.300__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.300__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000586</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.301__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.301__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000587</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.301__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.3__art_3.301__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000588</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.4__art_3.302__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.4__art_3.302__para_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000589</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst
-               wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.4__art_3.302__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.10__subsec_3.10.2__subsec_3.10.2.4__art_3.302__para_2">
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000590</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -4407,7 +4139,7 @@
          <ow-dc:owObject>
             <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.3__art_3.4a">
                <r:identificatie>nl.imow-gm1979.regeltekst.subchp3punt3artikel3punt4a</r:identificatie>
-            </r:Regeltekst>         
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -4428,7 +4160,7 @@
          <ow-dc:owObject>
             <r:Regeltekst wId="gm1979_2__chp_3__subchp_3.3__art_3.5a">
                <r:identificatie>nl.imow-gm1979.regeltekst.subchp3punt3artikel3punt5a</r:identificatie>
-            </r:Regeltekst>         
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -4441,7 +4173,7 @@
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.kamerverhuur"/>
-               </r:locatieaanduiding> 
+               </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
@@ -18796,7 +18528,7 @@
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
-   <!--artikel 13x3-->
+      <!--artikel 13x3-->
       <sl:stand>
          <ow-dc:owObject>
             <r:Regeltekst wId="gm1979_3__chp_13__subsec_13.1__art_13.x.3">
