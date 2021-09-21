@@ -10534,25 +10534,21 @@
                                               wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_3__list_o_1"
                                               type="expliciet">
                                           <Lijstaanhef>Het is verboden zonder omgevingsvergunning een reclameobject te plaatsen als dat object:</Lijstaanhef>
-                                          <Li eId="chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_3__list_o_1__item_a"
-                                              wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_3__list_o_1__item_a">
+                                          <Li eId="chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_3__list_o_1__item_a" wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_3__list_o_1__item_a">
                                              <LiNummer>a.</LiNummer>
-                                             <Al>langer is dan [x] m;</Al>
+                                             <Al>langer is dan 3m;</Al>
                                           </Li>
-                                          <Li eId="chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_3__list_o_1__item_b"
-                                              wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_3__list_o_1__item_b">
+                                          <Li eId="chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_3__list_o_1__item_b" wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_3__list_o_1__item_b">
                                              <LiNummer>b.</LiNummer>
-                                             <Al>breder is dan [x] m;</Al>
+                                             <Al>breder is dan 5m;</Al>
                                           </Li>
-                                          <Li eId="chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_3__list_o_1__item_c"
-                                              wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_3__list_o_1__item_c">
+                                          <Li eId="chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_3__list_o_1__item_c" wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_3__list_o_1__item_c">
                                              <LiNummer>c.</LiNummer>
-                                             <Al>hoger is dan [x] m; of</Al>
+                                             <Al>hoger is dan 6m; of</Al>
                                           </Li>
-                                          <Li eId="chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_3__list_o_1__item_d"
-                                              wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_3__list_o_1__item_d">
+                                          <Li eId="chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_3__list_o_1__item_d" wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_3__list_o_1__item_d">
                                              <LiNummer>d.</LiNummer>
-                                             <Al>langer dan [x] dagen/weken wordt geplaatst.</Al>
+                                             <Al>langer dan 2 weken wordt geplaatst.</Al>
                                           </Li>
                                        </Lijst>
                                     </Li>
