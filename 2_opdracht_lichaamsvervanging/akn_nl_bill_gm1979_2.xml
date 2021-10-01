@@ -15027,13 +15027,13 @@
                                  <Li eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_7"
                                      wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_7">
                                     <LiNummer>7.</LiNummer>
-                                    <Al>Verwijzing (dynamisch) naar een <ExtRef soort="JOIN" ref="/join/id/regdata/gm0297/2019/Bedrijf_categorie_2">GIO</ExtRef>, kan ook een GIO uit een andere regeling zijn (ExtRef-dynamisch).</Al>
+                                    <Al>Verwijzing (dynamisch) naar een <ExtRef soort="JOIN" ref="/join/id/regdata/gm1979/2019/Bedrijf_categorie_2">GIO</ExtRef>, kan ook een GIO uit een andere regeling zijn (ExtRef-dynamisch).</Al>
                                  </Li>
                                  <Li eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_8"
                                      wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_8">
                                     <LiNummer>8.</LiNummer>
                                     <Al>Verwijzing (statisch) naar een <ExtRef soort="JOIN"
-                                               ref="/join/id/regdata/gm0297/2019/Centrumgebied/nld@2019-06-18;3520">GIO-versie</ExtRef>, kan ook een GIO uit een andere regeling zijn (ExtRef-statisch, middels ExtRef-soort JOIN).</Al>
+                                               ref="/join/id/regdata/gm1979/2019/Centrumgebied/nld@2019-06-18;3520">GIO-versie</ExtRef>, kan ook een GIO uit een andere regeling zijn (ExtRef-statisch, middels ExtRef-soort JOIN).</Al>
                                  </Li>
                                  <Li eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_9"
                                      wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_9">
@@ -15049,7 +15049,7 @@
                                      wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_11">
                                     <LiNummer>11.</LiNummer>
                                     <Al>Verwijzing naar een <ExtRef soort="AKN"
-                                               ref="/akn/nl/act/gm0297/2019/reg456#chp_2__subchp_2.3__art_2.10">artikel</ExtRef> uit een andere regeling. (ExtRef-akn)</Al>
+                                               ref="/akn/nl/act/gm1979/2019/reg456#chp_2__subchp_2.3__art_2.10">artikel</ExtRef> uit een andere regeling. (ExtRef-akn)</Al>
                                  </Li>
                                  <Li eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_12"
                                      wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_12">

@@ -23,7 +23,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>
-               <ga:identificatie>nl.imow-gm0297.gebiedsaanwijzing.Landelijkgebied</ga:identificatie>
+               <ga:identificatie>nl.imow-gm1979.gebiedsaanwijzing.Landelijkgebied</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
                <ga:naam>Landelijk gebied</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/LandelijkGebied</ga:groep>
@@ -36,7 +36,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>
-               <ga:identificatie>nl.imow-gm0297.gebiedsaanwijzing.FunctieCentrumgebied</ga:identificatie>
+               <ga:identificatie>nl.imow-gm1979.gebiedsaanwijzing.FunctieCentrumgebied</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
                <ga:naam>Centrumgebied</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Centrumgebied</ga:groep>

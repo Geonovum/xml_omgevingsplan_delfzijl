@@ -31,7 +31,7 @@
             <r:Regeltekst wId="gm1979_2__chp_13__subsec_13.1__art_13.X.2">
                <op:status>beëindigen</op:status>
                <op:procedurestatus>ontwerp</op:procedurestatus>
-               <r:identificatie>nl.imow-gm0297.regeltekst.art13x2</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.regeltekst.art13x2</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
@@ -40,10 +40,10 @@
             <r:RegelVoorIedereen>
                <ow:status>beëindigen</ow:status>
                <ow:procedurestatus>ontwerp</ow:procedurestatus>
-               <r:identificatie>nl.imow-gm0297.juridischeregel.art13x2</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art13x2</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13x2"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art13x2"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.DelfzijlCentrum"/>
@@ -83,7 +83,7 @@
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.casino"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0297.gebiedsaanwijzing.Casino"/>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1979.gebiedsaanwijzing.Casino"/>
                </r:gebiedsaanwijzing>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.Valsspelen"/>

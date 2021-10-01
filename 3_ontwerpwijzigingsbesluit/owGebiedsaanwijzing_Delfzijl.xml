@@ -24,7 +24,7 @@
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>
                <ow:procedurestatus>ontwerp</ow:procedurestatus>
-               <ga:identificatie>nl.imow-gm0297.gebiedsaanwijzing.Casino</ga:identificatie>
+               <ga:identificatie>nl.imow-gm1979.gebiedsaanwijzing.Casino</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
                <ga:naam>Casino</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Recreatie</ga:groep>

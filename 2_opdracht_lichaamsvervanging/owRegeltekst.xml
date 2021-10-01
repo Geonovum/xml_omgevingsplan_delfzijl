@@ -18474,23 +18474,23 @@
       <sl:stand>
          <ow-dc:owObject>
             <r:Regeltekst wId="gm1979_2__chp_13__subsec_13.1__art_13.X.1">
-               <r:identificatie>nl.imow-gm0297.regeltekst.art13x1</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.regeltekst.art13x1</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0297.juridischeregel.art13x1</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art13x1</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13x1"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art13x1"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.DelfzijlCentrum"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0297.gebiedsaanwijzing.FunctieCentrumgebied"/>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1979.gebiedsaanwijzing.FunctieCentrumgebied"/>
                   <!--Functie Centrumgebied-->
                </r:gebiedsaanwijzing>
             </r:RegelVoorIedereen>
@@ -18500,17 +18500,17 @@
       <sl:stand>
          <ow-dc:owObject>
             <r:Regeltekst wId="gm1979_2__chp_13__subsec_13.1__art_13.X.2">
-               <r:identificatie>nl.imow-gm0297.regeltekst.art13x2</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.regeltekst.art13x2</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0297.juridischeregel.art13x2</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art13x2</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13x2"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art13x2"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.DelfzijlCentrum"/>
@@ -18532,17 +18532,17 @@
       <sl:stand>
          <ow-dc:owObject>
             <r:Regeltekst wId="gm1979_2__chp_13__subsec_13.1__art_13.X.3">
-               <r:identificatie>nl.imow-gm0297.regeltekst.art13x3</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.regeltekst.art13x3</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0297.juridischeregel.art13x3</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art13x3</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13x3"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art13x3"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.BouwvlakVoorgeschrRooilijn"/>
@@ -18564,23 +18564,23 @@
       <sl:stand>
          <ow-dc:owObject>
             <r:Regeltekst wId="gm1979_2__chp_13__subsec_13.1__art_13.Y.1">
-               <r:identificatie>nl.imow-gm0297.regeltekst.art13y1</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.regeltekst.art13y1</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0297.juridischeregel.art13y1</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art13y1</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13y1"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art13y1"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.LandelijkGebied"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0297.gebiedsaanwijzing.Landelijkgebied"/>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1979.gebiedsaanwijzing.Landelijkgebied"/>
                   <!--Ruimtelijk gebruik Landelijk gebied-->
                </r:gebiedsaanwijzing>
             </r:RegelVoorIedereen>
@@ -18590,17 +18590,17 @@
       <sl:stand>
          <ow-dc:owObject>
             <r:Regeltekst wId="gm1979_2__chp_13__subsec_13.1__art_13.Y.2">
-               <r:identificatie>nl.imow-gm0297.regeltekst.art13y2</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.regeltekst.art13y2</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0297.juridischeregel.art13y2</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art13y2</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13y2"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art13y2"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.LandelijkGebied"/>
@@ -18622,17 +18622,17 @@
       <sl:stand>
          <ow-dc:owObject>
             <r:Regeltekst wId="gm1979_2__chp_13__subsec_13.1__art_13.Y.3">
-               <r:identificatie>nl.imow-gm0297.regeltekst.art13y3</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.regeltekst.art13y3</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0297.juridischeregel.art13y3</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art13y3</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13y3"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art13y3"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.BouwvlakLandelijkGebied"/>
@@ -18647,17 +18647,17 @@
       <sl:stand>
          <ow-dc:owObject>
             <r:Regeltekst wId="gm1979_2__chp_13__subsec_13.1__art_13.Z.1">
-               <r:identificatie>nl.imow-gm0297.regeltekst.art13z1</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.regeltekst.art13z1</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0297.juridischeregel.art13z1</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art13z1</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13z1"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art13z1"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.DelfzijlIndustrieterrein"/>
@@ -18669,17 +18669,17 @@
       <sl:stand>
          <ow-dc:owObject>
             <r:Regeltekst wId="gm1979_2__chp_13__subsec_13.1__art_13.Z.2">
-               <r:identificatie>nl.imow-gm0297.regeltekst.art13z2</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.regeltekst.art13z2</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0297.juridischeregel.art13z2</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art13z2</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13z2"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art13z2"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.DelfzijlIndustrieterrein"/>
@@ -18694,17 +18694,17 @@
       <sl:stand>
          <ow-dc:owObject>
             <r:Regeltekst wId="gm1979_2__chp_13__subsec_13.1__art_13.Z.3">
-               <r:identificatie>nl.imow-gm0297.regeltekst.art13z3</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.regeltekst.art13z3</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0297.juridischeregel.art13z3</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art13z3</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13z3"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art13z3"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.DelfzijlIndustrieterrein"/>
@@ -18716,17 +18716,17 @@
       <sl:stand>
          <ow-dc:owObject>
             <r:Regeltekst wId="gm1979_2__chp_13__subsec_13.1__art_13.4">
-               <r:identificatie>nl.imow-gm0297.regeltekst.art13punt4</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.regeltekst.art13punt4</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0297.juridischeregel.art13punt4</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art13punt4</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13punt4"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art13punt4"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.puntengroep.DelfzijlPunt"/>
@@ -18738,17 +18738,17 @@
       <sl:stand>
          <ow-dc:owObject>
             <r:Regeltekst wId="gm1979_2__chp_13__subsec_13.2__art_13.7">
-               <r:identificatie>nl.imow-gm0297.regeltekst.art13punt7</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.regeltekst.art13punt7</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0297.juridischeregel.art13punt7</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art13punt7</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13punt7"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art13punt7"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.lijnengroep.Hoofdinfrastructuur"/>
@@ -18760,17 +18760,17 @@
       <sl:stand>
          <ow-dc:owObject>
             <r:Regeltekst wId="gm1979_2__chp_13__subsec_13.2__art_13.8">
-               <r:identificatie>nl.imow-gm0297.regeltekst.art13punt8</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.regeltekst.art13punt8</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:Instructieregel>
-               <r:identificatie>nl.imow-gm0297.juridischeregel.art13punt8</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art13punt8</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13punt8"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art13punt8"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.lijnengroep.Hoofdinfrastructuur"/>
@@ -18782,17 +18782,17 @@
       <sl:stand>
          <ow-dc:owObject>
             <r:Regeltekst wId="gm1979_2__chp_13__subsec_13.3__art_13.11">
-               <r:identificatie>nl.imow-gm0297.regeltekst.art13punt11</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.regeltekst.art13punt11</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0297.juridischeregel.art13punt11</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art13punt11</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13punt11"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art13punt11"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
@@ -18804,17 +18804,17 @@
       <sl:stand>
          <ow-dc:owObject>
             <r:Regeltekst wId="gm1979_2__chp_13__subsec_13.4__art_13.14">
-               <r:identificatie>nl.imow-gm0297.regeltekst.art13punt14</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.regeltekst.art13punt14</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0297.juridischeregel.art13punt14</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art13punt14</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13punt14"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art13punt14"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
@@ -18826,17 +18826,17 @@
       <sl:stand>
          <ow-dc:owObject>
             <r:Regeltekst wId="gm1979_2__chp_13__subsec_13.4__art_13.15">
-               <r:identificatie>nl.imow-gm0297.regeltekst.art13punt15</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.regeltekst.art13punt15</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0297.juridischeregel.art13punt15</r:identificatie>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art13punt15</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.art13punt15"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art13punt15"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
