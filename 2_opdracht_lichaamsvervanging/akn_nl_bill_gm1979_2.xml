@@ -14973,14 +14973,14 @@
                            </Inhoud>
                         </Artikel>
                      </Paragraaf>
-                     <Paragraaf eId="chp_13__subsec_13.11" wId="gm1979_2__chp_13__subsec_13.11">
+                     <Paragraaf eId="chp_13__subsec_13.3" wId="gm1979_2__chp_13__subsec_13.3">
                         <Kop>
                            <Label>Paragraaf</Label>
-                           <Nummer>13.11</Nummer>
+                           <Nummer>13.3</Nummer>
                            <Opschrift>Verwijzingen</Opschrift>
                         </Kop>
-                        <Artikel eId="chp_13__subsec_13.11__art_13.11"
-                                 wId="gm1979_2__chp_13__subsec_13.11__art_13.11">
+                        <Artikel eId="chp_13__subsec_13.3__art_13.11"
+                                 wId="gm1979_2__chp_13__subsec_13.3__art_13.11">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>13.11</Nummer>
@@ -14988,77 +14988,77 @@
                            </Kop>
                            <Inhoud>
                               <Al>In de volgende lijst staan een hoop verwijzingssoorten:</Al>
-                              <Lijst eId="chp_13__subsec_13.11__art_13.11__list_o_1"
-                                     wId="gm1979_2__chp_13__subsec_13.11__art_13.11__list_o_1"
+                              <Lijst eId="chp_13__subsec_13.3__art_13.11__list_o_1"
+                                     wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1"
                                      type="expliciet">
-                                 <Li eId="chp_13__subsec_13.11__art_13.11__list_o_1__item_1"
-                                     wId="gm1979_2__chp_13__subsec_13.11__art_13.11__list_o_1__item_1">
+                                 <Li eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_1"
+                                     wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_1">
                                     <LiNummer>1.</LiNummer>
                                     <Al>Verwijzing naar een <IntRef ref="chp_13__subsec_13.1__art_13.X.1">Artikel</IntRef>. (Artikel 13.x.1)</Al>
                                  </Li>
-                                 <Li eId="chp_13__subsec_13.11__art_13.11__list_o_1__item_2"
-                                     wId="gm1979_2__chp_13__subsec_13.11__art_13.11__list_o_1__item_2">
+                                 <Li eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_2"
+                                     wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_2">
                                     <LiNummer>2.</LiNummer>
                                     <Al>Verwijzing naar een <IntRef ref="chp_13">Hoofdstuk</IntRef>. (Hoofdstuk 13)</Al>
                                  </Li>
-                                 <Li eId="chp_13__subsec_13.11__art_13.11__list_o_1__item_3"
-                                     wId="gm1979_2__chp_13__subsec_13.11__art_13.11__list_o_1__item_3">
+                                 <Li eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_3"
+                                     wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_3">
                                     <LiNummer>3.</LiNummer>
                                     <Al>Verwijzing naar een <IntRef ref="chp_13__subsec_13.2"/>Paragraaf. (Paragraaf 13.2)</Al>
                                  </Li>
-                                 <Li eId="chp_13__subsec_13.11__art_13.11__list_o_1__item_4"
-                                     wId="gm1979_2__chp_13__subsec_13.11__art_13.11__list_o_1__item_4">
+                                 <Li eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_4"
+                                     wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_4">
                                     <LiNummer>4.</LiNummer>
                                     <Al>Verwijzing naar een <IntRef ref="chp_1__art_1.1">Artikel</IntRef> uit de geconsolideerde Regeling (niet aangeleverd met het huidige besluit, Artikel 1.1).</Al>
                                  </Li>
-                                 <Li eId="chp_13__subsec_13.11__art_13.11__list_o_1__item_5"
-                                     wId="gm1979_2__chp_13__subsec_13.11__art_13.11__list_o_1__item_5">
+                                 <Li eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_5"
+                                     wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_5">
                                     <LiNummer>5.</LiNummer>
                                     <Al>Verwijzing naar een <ExtRef soort="URL"
                                                ref="https://www.geonovum.nl/geo-standaarden/omgevingswet/STOPTPOD">website</ExtRef>. (Opleverpagina van Geonovum, ExtRef met soort URL)</Al>
                                  </Li>
-                                 <Li eId="chp_13__subsec_13.11__art_13.11__list_o_1__item_6"
-                                     wId="gm1979_2__chp_13__subsec_13.11__art_13.11__list_o_1__item_6">
+                                 <Li eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_6"
+                                     wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_6">
                                     <LiNummer>6.</LiNummer>
-                                    <Al>Verwijzing naar een <IntIoRef eId="chp_13__subsec_13.11__art_13.11__list_o_1__item_6__ref_o_1"
-                                                 wId="gm1979_2__chp_13__subsec_13.11__art_13.11__list_o_1__item_6__ref_o_1"
+                                    <Al>Verwijzing naar een <IntIoRef eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_6__ref_o_1"
+                                                 wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_6__ref_o_1"
                                                  ref="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1">GIO</IntIoRef> (IntIoRef) (naar Kamerverhuur-GIO).</Al>
                                  </Li>
-                                 <Li eId="chp_13__subsec_13.11__art_13.11__list_o_1__item_7"
-                                     wId="gm1979_2__chp_13__subsec_13.11__art_13.11__list_o_1__item_7">
+                                 <Li eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_7"
+                                     wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_7">
                                     <LiNummer>7.</LiNummer>
                                     <Al>Verwijzing (dynamisch) naar een <ExtRef soort="JOIN" ref="/join/id/regdata/gm0297/2019/Bedrijf_categorie_2">GIO</ExtRef>, kan ook een GIO uit een andere regeling zijn (ExtRef-dynamisch).</Al>
                                  </Li>
-                                 <Li eId="chp_13__subsec_13.11__art_13.11__list_o_1__item_8"
-                                     wId="gm1979_2__chp_13__subsec_13.11__art_13.11__list_o_1__item_8">
+                                 <Li eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_8"
+                                     wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_8">
                                     <LiNummer>8.</LiNummer>
                                     <Al>Verwijzing (statisch) naar een <ExtRef soort="JOIN"
                                                ref="/join/id/regdata/gm0297/2019/Centrumgebied/nld@2019-06-18;3520">GIO-versie</ExtRef>, kan ook een GIO uit een andere regeling zijn (ExtRef-statisch, middels ExtRef-soort JOIN).</Al>
                                  </Li>
-                                 <Li eId="chp_13__subsec_13.11__art_13.11__list_o_1__item_9"
-                                     wId="gm1979_2__chp_13__subsec_13.11__art_13.11__list_o_1__item_9">
+                                 <Li eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_9"
+                                     wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_9">
                                     <LiNummer>9.</LiNummer>
-                                    <Al>Verwijzing naar een <IntRef ref="chp_13__subsec_13.11__art_13.11__list_o_1__item_1">LijstItem</IntRef> (eerste punt van dit Artikel).</Al>
+                                    <Al>Verwijzing naar een <IntRef ref="chp_13__subsec_13.3__art_13.11__list_o_1__item_1">LijstItem</IntRef> (eerste punt van dit Artikel).</Al>
                                  </Li>
-                                 <Li eId="chp_13__subsec_13.11__art_13.11__list_o_1__item_10"
-                                     wId="gm1979_2__chp_13__subsec_13.11__art_13.11__list_o_1__item_10">
+                                 <Li eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_10"
+                                     wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_10">
                                     <LiNummer>10.</LiNummer>
                                     <Al>Verwijzing naar een <IntRef ref="chp_1__art_1.2__list_o_1__item_1">Begrip (of meet- en rekenbepaling)</IntRef> c.q. eerste lijstitem van begrippenlijst.</Al>
                                  </Li>
-                                 <Li eId="chp_13__subsec_13.11__art_13.11__list_o_1__item_11"
-                                     wId="gm1979_2__chp_13__subsec_13.11__art_13.11__list_o_1__item_11">
+                                 <Li eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_11"
+                                     wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_11">
                                     <LiNummer>11.</LiNummer>
                                     <Al>Verwijzing naar een <ExtRef soort="AKN"
                                                ref="/akn/nl/act/gm0297/2019/reg456#chp_2__subchp_2.3__art_2.10">artikel</ExtRef> uit een andere regeling. (ExtRef-akn)</Al>
                                  </Li>
-                                 <Li eId="chp_13__subsec_13.11__art_13.11__list_o_1__item_12"
-                                     wId="gm1979_2__chp_13__subsec_13.11__art_13.11__list_o_1__item_12">
+                                 <Li eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_12"
+                                     wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_12">
                                     <LiNummer>12.</LiNummer>
                                     <Al>Verwijzing naar een <ExtRef soort="JCI"
                                                ref="jci1.3:c:BWBR0005537&amp;hoofdstuk=1&amp;titeldeel=1.1&amp;artikel=1:1&amp;z=2020-01-01&amp;g=2020-01-01">artikel uit een andere regeling</ExtRef> (juriconnect-identifier richting artikel 1.1 uit algemene wet bestuursrecht)</Al>
                                  </Li>
-                                 <Li eId="chp_13__subsec_13.11__art_13.11__list_o_1__item_13"
-                                     wId="gm1979_2__chp_13__subsec_13.11__art_13.11__list_o_1__item_13">
+                                 <Li eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_13"
+                                     wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_13">
                                     <LiNummer>13.</LiNummer>
                                     <Al>Verwijzing naar een <ExtRef soort="document" ref="kst-33962-3">document</ExtRef> (ExtRef-soort: document, documentID van STOP-documentatiesite gehaald.)</Al>
                                  </Li>
@@ -15293,10 +15293,6 @@
          <rechtsgebieden>
             <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
          </rechtsgebieden>
-         <opvolging>
-            <opvolgerVan>/akn/nl/act/gm1979/2021/omgevingsplandelfzijl</opvolgerVan>
-            <!--handmatig toevoegen-->
-         </opvolging>
       </RegelingMetadata>
    </RegelingVersieInformatie>
 </AanleveringBesluit>
