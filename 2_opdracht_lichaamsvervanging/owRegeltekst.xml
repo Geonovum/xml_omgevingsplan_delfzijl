@@ -4177,7 +4177,7 @@
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
-      <sl:stand>
+<!--      <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-gm1979.juridischeregel.2021000001</r:identificatie>
@@ -4200,7 +4200,7 @@
                </r:activiteitaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
-      </sl:stand>
+      </sl:stand>-->
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>

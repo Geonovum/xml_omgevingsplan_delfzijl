@@ -124,7 +124,7 @@
                         <Kop>
                            <Opschrift>Nieuw artikel met nieuwe GIO</Opschrift>
                         </Kop>
-                        <Inhoud><Al>Het <IntIoRef eId="chp_14__art_14.1__ref_o_1" wId="gm1979_3__chp_14__art_14.1__ref_o_1" ref="gm1979_2__cmp_III__content_o_1__list_o_1__item_o_12__ref_o_1">Casino</IntIoRef> is nieuw. En bevat een ActiviteitLocatieaanduiding, je mag hier namelijk niet valsspelen.</Al></Inhoud>
+                        <Inhoud><Al>Het <IntIoRef eId="chp_14__art_14.1__ref_o_1" wId="gm1979_3__chp_14__art_14.1__ref_o_1" ref="gm1979_3__cmp_II__content_o_1__list_o_1__item_o_14__ref_o_1">Casino</IntIoRef> is nieuw. En bevat een ActiviteitLocatieaanduiding, je mag hier namelijk niet valsspelen.</Al></Inhoud>
                      </Artikel>
                      <Artikel wId="gm1979_3__chp_14__art_14.2" eId="chp_14__art_14.2">
                         <Kop>
@@ -148,8 +148,8 @@
                      <Inhoud wijzigactie="verwijder">
                         <Al>Dit is een voorbeeld van een <IntIoRef eId="chp_13__subsec_13.1__art_13.4__ref_o_1"
                            wId="gm1979_2__chp_13__subsec_13.1__art_13.4__ref_o_1"
-                           ref="gm1979_2__cmp_III__content_o_1__list_o_1__item_o_12__ref_o_1">punt</IntIoRef>.</Al>
-                     </Inhoud>
+                           ref="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_12__ref_o_1">punt</IntIoRef>.</Al>
+                     </Inhoud>  
                   </Artikel>
                </Vervang>
                <Verwijder wat="gm1979_2__chp_13__subsec_13.1__art_13.X.2">
@@ -262,7 +262,7 @@
                                     <Al>
                                        <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_8__ref_o_1"
                                           wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_8__ref_o_1"
-                                          ref="/join/id/regdata/gm1979/2021/Delfzijl_Hoofdinfrastructuur/nld@2021-08-02;1">/join/id/regdata/gm1979/2021/Delfzijl_Hoofdinfrastructuur/nld@2021-08-02;1</ExtIoRef>
+                                          ref="/join/id/regdata/gm1979/2021/Delfzijl_Hoofdinfrastructuur/nld@2021-09-30;1">/join/id/regdata/gm1979/2021/Delfzijl_Hoofdinfrastructuur/nld@2021-09-30;1</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>

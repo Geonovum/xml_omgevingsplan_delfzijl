@@ -26,12 +26,12 @@
         <Procedurestap>
           <!-- nieuw! begin inzagetermijn -->
           <soortStap>/join/id/stop/procedure/stap_014</soortStap>
-          <voltooidOp>2021-07-15</voltooidOp>
+          <voltooidOp>2021-10-13</voltooidOp>
         </Procedurestap>
         <Procedurestap>
           <!-- stap_005 = eind inzagetermijn -->
           <soortStap>/join/id/stop/procedure/stap_005</soortStap>
-          <voltooidOp>2021-08-26</voltooidOp>
+          <voltooidOp>2021-11-24</voltooidOp>
         </Procedurestap>
       </voegStappenToe>
     </Procedureverloopmutatie>

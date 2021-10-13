@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest xmlns="http://www.overheid.nl/2017/lvbb">
     <bestand>
-        <bestandsnaam>akn_nl_bill_gm1979_3.xml</bestandsnaam>
+        <bestandsnaam>akn_nl_bill_gm1979_5.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
@@ -55,5 +55,21 @@
     <bestand>
         <bestandsnaam>owRegeltekst.xml</bestandsnaam>
         <contentType>application/xml</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>regdata.xml</bestandsnaam>
+        <contentType>application/xml</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>regdata.pdf</bestandsnaam>
+        <contentType>application/pdf</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>pubdata.xml</bestandsnaam>
+        <contentType>application/xml</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>pubdata.pdf</bestandsnaam>
+        <contentType>application/pdf</contentType>
     </bestand>    
 </manifest>

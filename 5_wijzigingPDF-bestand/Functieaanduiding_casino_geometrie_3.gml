@@ -9,7 +9,7 @@
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
       <geo:FRBRWork>/join/id/regdata/gm1979/2021/casino</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/gm1979/2021/casino/nld@2021-09-30;1</geo:FRBRExpression>
+      <geo:FRBRExpression>/join/id/regdata/gm1979/2021/casino/nld@2021-10-12;2</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>Functieaanduiding_casino geometrie</geo:naam>
