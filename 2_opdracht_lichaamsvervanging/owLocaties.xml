@@ -29,6 +29,7 @@
          <ow-dc:owObject>
             <l:Gebiedengroep>
                <l:identificatie>nl.imow-gm1979.gebiedengroep.kamerverhuur</l:identificatie>
+               <l:noemer>kamerverhuur</l:noemer>
                <l:groepselement>
                   <l:GebiedRef xlink:href="nl.imow-gm1979.gebied.kamerverhuur"/>
                </l:groepselement>
@@ -39,7 +40,6 @@
          <ow-dc:owObject>
             <l:Gebied>
                <l:identificatie>nl.imow-gm1979.gebied.kamerverhuur</l:identificatie>
-               <l:noemer>kamerverhuur</l:noemer>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="d1fc3632-1f57-4081-9bf9-c3d3e2047598"/>
                </l:geometrie>
@@ -70,6 +70,7 @@
          <ow-dc:owObject>
             <l:Gebiedengroep>
                <l:identificatie>nl.imow-gm1979.gebiedengroep.LandelijkGebied</l:identificatie>
+               <l:noemer>Delfzijl Landelijk Gebied</l:noemer>
                <l:groepselement>
                   <l:GebiedRef xlink:href="nl.imow-gm1979.gebied.LandelijkGebied"/>
                </l:groepselement>
@@ -80,7 +81,6 @@
          <ow-dc:owObject>
             <l:Gebied>
                <l:identificatie>nl.imow-gm1979.gebied.LandelijkGebied</l:identificatie>
-               <l:noemer>Delfzijl Landelijk Gebied</l:noemer>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="95DEC033-6C72-43E1-9D5E-296DC118E2B1"/>
                </l:geometrie>
@@ -91,6 +91,7 @@
          <ow-dc:owObject>
             <l:Gebiedengroep>
                <l:identificatie>nl.imow-gm1979.gebiedengroep.BouwvlakLandelijkGebied</l:identificatie>
+               <l:noemer>Bouwvlak Delfzijl Landelijk Gebied</l:noemer>
                <l:groepselement>
                   <l:GebiedRef xlink:href="nl.imow-gm1979.gebied.BouwvlakLandelijkGebied"/>
                </l:groepselement>
@@ -101,8 +102,7 @@
          <ow-dc:owObject>
             <l:Gebied>
                <l:identificatie>nl.imow-gm1979.gebied.BouwvlakLandelijkGebied</l:identificatie>
-               <l:noemer>Bouwvlak Delfzijl Landelijk Gebied</l:noemer>
-               <l:geometrie>
+                <l:geometrie>
                   <l:GeometrieRef xlink:href="1AB34AB2-A676-4955-A2A4-CB74ADEF996F"/>
                </l:geometrie>
             </l:Gebied>
@@ -112,6 +112,7 @@
          <ow-dc:owObject>
             <l:Gebiedengroep>
                <l:identificatie>nl.imow-gm1979.gebiedengroep.DelfzijlIndustrieterrein</l:identificatie>
+               <l:noemer>Delfzijl Industrieterrein</l:noemer>
                <l:groepselement>
                   <l:GebiedRef xlink:href="nl.imow-gm1979.gebied.DelfzijlIndustrieterrein"/>
                </l:groepselement>
@@ -122,7 +123,6 @@
          <ow-dc:owObject>
             <l:Gebied>
                <l:identificatie>nl.imow-gm1979.gebied.DelfzijlIndustrieterrein</l:identificatie>
-               <l:noemer>Delfzijl Industrieterrein</l:noemer>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="DB221143-B228-49CF-A677-B0E15CCCC42C"/>
                </l:geometrie>
@@ -133,6 +133,7 @@
          <ow-dc:owObject>
             <l:Gebiedengroep>
                <l:identificatie>nl.imow-gm1979.gebiedengroep.DelfzijlCentrum</l:identificatie>
+               <l:noemer>Delfzijl Centrum</l:noemer>
                <l:groepselement>
                   <l:GebiedRef xlink:href="nl.imow-gm1979.gebied.DelfzijlCentrum"/>
                </l:groepselement>
@@ -143,7 +144,6 @@
          <ow-dc:owObject>
             <l:Gebied>
                <l:identificatie>nl.imow-gm1979.gebied.DelfzijlCentrum</l:identificatie>
-               <l:noemer>Delfzijl Centrum</l:noemer>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="f20d81ab-5937-4c0b-a262-8d156972ee3b"/>
                </l:geometrie>
@@ -154,6 +154,7 @@
          <ow-dc:owObject>
             <l:Gebiedengroep>
                <l:identificatie>nl.imow-gm1979.gebiedengroep.BouwvlakDelfzijlCentrum</l:identificatie>
+               <l:noemer>Bouwvlak Delfzijl Centrum</l:noemer>
                <l:groepselement>
                   <l:GebiedRef xlink:href="nl.imow-gm1979.gebied.BouwvlakDelfzijlCentrum"/>
                </l:groepselement>
@@ -164,7 +165,6 @@
          <ow-dc:owObject>
             <l:Gebied>
                <l:identificatie>nl.imow-gm1979.gebied.BouwvlakDelfzijlCentrum</l:identificatie>
-               <l:noemer>Bouwvlak Delfzijl Centrum</l:noemer>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="0E8B2E55-D033-430B-8C9F-782C2DC2FA0A"/>
                </l:geometrie>
@@ -175,6 +175,7 @@
          <ow-dc:owObject>
             <l:Lijnengroep>
                <l:identificatie>nl.imow-gm1979.lijnengroep.Hoofdinfrastructuur</l:identificatie>
+               <l:noemer>Hoofdinfrastructuur</l:noemer>
                <l:groepselement>
                   <l:LijnRef xlink:href="nl.imow-gm1979.lijn.Hoofdinfrastructuur"/>
                </l:groepselement>
@@ -185,7 +186,6 @@
          <ow-dc:owObject>
             <l:Lijn>
                <l:identificatie>nl.imow-gm1979.lijn.Hoofdinfrastructuur</l:identificatie>
-               <l:noemer>Hoofdinfrastructuur</l:noemer>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="DDFF05CA-47E1-4F53-A688-E872B2337F54"/>
                </l:geometrie>
@@ -196,6 +196,7 @@
          <ow-dc:owObject>
             <l:Puntengroep>
                <l:identificatie>nl.imow-gm1979.puntengroep.DelfzijlPunt</l:identificatie>
+               <l:noemer>Delfzijl Punt</l:noemer>
                <l:groepselement>
                   <l:PuntRef xlink:href="nl.imow-gm1979.punt.DelfzijlPunt"/>
                </l:groepselement>
@@ -206,7 +207,6 @@
          <ow-dc:owObject>
             <l:Punt>
                <l:identificatie>nl.imow-gm1979.punt.DelfzijlPunt</l:identificatie>
-               <l:noemer>Delfzijl Punt</l:noemer>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="73643287-A4AA-47D9-8A16-284B674169F7"/>
                </l:geometrie>
@@ -247,6 +247,7 @@
          <ow-dc:owObject>
             <l:Lijnengroep>
                <l:identificatie>nl.imow-gm1979.lijnengroep.CentrumBouwvlakRooilijn</l:identificatie>
+               <l:noemer>rooilijn</l:noemer>
                <l:groepselement>
                   <l:LijnRef xlink:href="nl.imow-gm1979.lijn.CentrumBouwvlakRooilijn"/>
                </l:groepselement>
