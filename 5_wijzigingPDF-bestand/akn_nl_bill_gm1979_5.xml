@@ -153,6 +153,75 @@
                      </Inhoud>
                   </Artikel>
                </Vervang>
+               <VoegToe context="gm1979_2__chp_13__subsec_13.5" positie="volgtOp">
+                  <Paragraaf wId="gm1979_2__chp_13__subsec_13.5" eId="chp_13__subsec_13.5">
+                     <Kop>
+                        <Label>Paragraaf</Label>
+                        <Opschrift>Varianten van artikel-koppen</Opschrift>
+                     </Kop>
+                     <Artikel wId="gm1979_2__chp_13__subsec_13.5__art_13.20" eId="chp_13__subsec_13.5__art_13.20">
+                        <Kop>
+                           <Nummer>20</Nummer>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Variant 1. Alleen nummer ingevuld</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel wId="gm1979_2__chp_13__subsec_13.5__art_13.21" eId="chp_13__subsec_13.5__art_13.21">
+                        <Kop>
+                           <Label>Artikel</Label>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Variant 2. Alleen label ingevuld</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel wId="gm1979_2__chp_13__subsec_13.5__art_13.22" eId="chp_13__subsec_13.5__art_13.22">
+                        <Kop>
+                           <Opschrift>Derde variant</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Variant 3. Alleen opschrift ingevuld</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel wId="gm1979_2__chp_13__subsec_13.5__art_13.23" eId="chp_13__subsec_13.5__art_13.23">
+                        <Kop>
+                           <Nummer>23</Nummer>
+                           <Label>Artikel</Label>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Variant 4. Nummer en label ingevuld</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel wId="gm1979_2__chp_13__subsec_13.5__art_13.24" eId="chp_13__subsec_13.5__art_13.24">
+                        <Kop>
+                           <Nummer>24</Nummer>
+                           <Opschrift>Vijfde variant</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Variant 5. Nummer en opschrift ingevuld</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel wId="gm1979_2__chp_13__subsec_13.5__art_13.25" eId="chp_13__subsec_13.5__art_13.25">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Opschrift>Zesde variant</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Variant 6. Label en opschrift ingevuld</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel wId="gm1979_2__chp_13__subsec_13.5__art_13.25" eId="chp_13__subsec_13.5__art_13.25">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>25</Nummer>
+                           <Opschrift>Zevende variant</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Variant 7. Label, Nummer en opschrift ingevuld</Al>
+                        </Inhoud>
+                     </Artikel>
+                  </Paragraaf>
+               </VoegToe>
                <VoegToe positie="volgtOp" context="gm1979_2__chp_13">
                   <Hoofdstuk wId="gm1979_3__chp_14" eId="chp_14">
                      <Kop>
