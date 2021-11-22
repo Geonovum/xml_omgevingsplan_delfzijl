@@ -153,7 +153,7 @@
             <Tijdstempel>
                <doel>/join/id/proces/gm1979/2021/IntegraleTekstVervangingBruidsschatDelfzijl</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-               <datum>2021-04-15</datum>
+               <datum>2021-11-19</datum>
                <eId>art_II</eId>
             </Tijdstempel>
          </Tijdstempels>
@@ -10513,7 +10513,10 @@
                                     <Li eId="chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_2"
                                         wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_2">
                                        <LiNummer>2.</LiNummer>
-                                       <Al>Het is verboden zonder omgevingsvergunning verlichte of bewegende reclame aan te brengen.</Al>
+                                       <Al>Het is verboden zonder omgevingsvergunning verlichte of bewegende reclame aan te brengen in het 
+                                          <IntIoRef eId="chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_2"
+                                             wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_2__ref_o_1"
+                                             ref="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_9__ref_o_1">'industrieterrein'</IntIoRef>.</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_3"
                                         wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.49__list_o_1__item_3">
@@ -10611,7 +10614,7 @@
                                     <Li eId="chp_3__subchp_3.5__subsec_3.5.1__art_5.52__list_o_1__item_1"
                                         wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.52__list_o_1__item_1">
                                        <LiNummer>1.</LiNummer>
-                                       <Al>Met het oog op het behouden en bevorderen van de toegankelijkheid van de openbare buitenruimte en het beperken van hinder is een uitstalling maximaal [x] m breed, [x] m diep en [x] m hoog.</Al>
+                                       <Al>Met het oog op het behouden en bevorderen van de toegankelijkheid van de openbare buitenruimte en het beperken van hinder is een uitstalling maximaal 2m breed, 3m diep en 1,5m hoog.</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.5__subsec_3.5.1__art_5.52__list_o_1__item_2"
                                         wId="gm1979_2__chp_3__subchp_3.5__subsec_3.5.1__art_5.52__list_o_1__item_2">
