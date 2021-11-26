@@ -31,45 +31,45 @@
                      <rol:identificatie>nl.imow-gm1979.normwaarde.Geluidproductieplafond70</rol:identificatie>
                      <rol:kwantitatieveWaarde>70</rol:kwantitatieveWaarde>
                      <rol:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GeluidProdPlafondLoc1"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL1"/>
                      </rol:locatieaanduiding>
                   </rol:Normwaarde>
                   <rol:Normwaarde>
                      <rol:identificatie>nl.imow-gm1979.normwaarde.Geluidproductieplafond60</rol:identificatie>
                      <rol:kwantitatieveWaarde>60</rol:kwantitatieveWaarde>
                      <rol:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GeluidProdPlafondLoc2"/>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GeluidProdPlafondLoc3"/>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GeluidProdPlafondLoc4"/>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GeluidProdPlafondLoc5"/>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GeluidProdPlafondLoc6"/>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GeluidProdPlafondLoc7"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL2"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL3"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL4"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL5"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL6"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL7"/>
                      </rol:locatieaanduiding>
                   </rol:Normwaarde>
                   <rol:Normwaarde>
                      <rol:identificatie>nl.imow-gm1979.normwaarde.Geluidproductieplafond50</rol:identificatie>
                      <rol:kwantitatieveWaarde>50</rol:kwantitatieveWaarde>
                      <rol:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GeluidProdPlafondLoc8"/>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GeluidProdPlafondLoc9"/>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GeluidProdPlafondLoc10"/>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GeluidProdPlafondLoc11"/>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GeluidProdPlafondLoc12"/>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GeluidProdPlafondLoc13"/>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GeluidProdPlafondLoc14"/>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GeluidProdPlafondLoc15"/>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GeluidProdPlafondLoc16"/>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GeluidProdPlafondLoc17"/>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GeluidProdPlafondLoc18"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL8"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL9"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL10"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL11"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL12"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL13"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL14"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL15"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL16"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL17"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL18"/>
                      </rol:locatieaanduiding>
                   </rol:Normwaarde>
                   <rol:Normwaarde>
                      <rol:identificatie>nl.imow-gm1979.normwaarde.Geluidproductieplafond30</rol:identificatie>
                      <rol:kwantitatieveWaarde>30</rol:kwantitatieveWaarde>
                      <rol:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GeluidProdPlafondLoc19"/>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GeluidProdPlafondLoc20"/>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GeluidProdPlafondLoc21"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL19"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL20"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL21"/>
                      </rol:locatieaanduiding>
                   </rol:Normwaarde>
                </rol:normwaarde>
