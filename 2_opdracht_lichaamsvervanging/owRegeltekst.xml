@@ -18515,6 +18515,9 @@
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.DelfzijlCentrum"/>
                </r:locatieaanduiding>
+               <r:gebiedsaanwijzing>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1979.gebiedsaanwijzing.BouwvlakCentrum"/>
+               </r:gebiedsaanwijzing>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.BouwwerkBouwenNw"/>
                   <r:ActiviteitLocatieaanduiding>
@@ -18662,6 +18665,9 @@
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.DelfzijlIndustrieterrein"/>
                </r:locatieaanduiding>
+               <r:gebiedsaanwijzing>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1979.gebiedsaanwijzing.Industrieterrein"/>
+               </r:gebiedsaanwijzing>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
@@ -18684,6 +18690,9 @@
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.DelfzijlIndustrieterrein"/>
                </r:locatieaanduiding>
+               <r:gebiedsaanwijzing>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1979.gebiedsaanwijzing.Industrieterrein"/>
+               </r:gebiedsaanwijzing>
                <r:omgevingsnormaanduiding>
                   <rol:OmgevingsnormRef xlink:href="nl.imow-gm1979.omgevingsnorm.Geluidsproductieplafond"/>
                </r:omgevingsnormaanduiding>
@@ -18753,6 +18762,9 @@
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.lijnengroep.Hoofdinfrastructuur"/>
                </r:locatieaanduiding>
+               <r:gebiedsaanwijzing>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1979.gebiedsaanwijzing.Hoofdinfra"/>
+               </r:gebiedsaanwijzing>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
@@ -18775,6 +18787,9 @@
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.lijnengroep.Hoofdinfrastructuur"/>
                </r:locatieaanduiding>
+               <r:gebiedsaanwijzing>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1979.gebiedsaanwijzing.Hoofdinfra"/>
+               </r:gebiedsaanwijzing>
             </r:Instructieregel>
          </ow-dc:owObject>
       </sl:stand>
@@ -19141,6 +19156,54 @@
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="gm1979_2__chp_13__subsec_13.5__art_13.17">
+               <r:identificatie>nl.imow-gm1979.regeltekst.art13punt17</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art13punt17</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art13punt17"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
+               </r:locatieaanduiding>
+               <r:kaartaanduiding>
+                  <k:KaartRef xlink:href="nl.imow-gm1979.kaart.Delfzijlkaartje"/>
+               </r:kaartaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="gm_1979_2__chp_13__subsec_13.9__art_13.91">
+               <r:identificatie>nl.imow-gm1979.regeltekst.art13punt91</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.art13punt91</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art13punt91"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
+               </r:locatieaanduiding>
+               <r:kaartaanduiding>
+                  <k:KaartRef xlink:href="nl.imow-gm1979.kaart.Delfzijlkaartje"/>
+               </r:kaartaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>

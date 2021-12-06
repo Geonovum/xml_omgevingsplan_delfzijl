@@ -15065,6 +15065,42 @@
                                     <LiNummer>13.</LiNummer>
                                     <Al>Verwijzing naar een <ExtRef soort="document" ref="kst-33962-3">document</ExtRef> (ExtRef-soort: document, documentID van STOP-documentatiesite gehaald.)</Al>
                                  </Li>
+                                 <Li eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_14"
+                                    wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_14">
+                                    <LiNummer>14.</LiNummer>
+                                    <Al>Dit is een verwijzing met een 
+                                       <Noot id="N1" type="voet">
+                                          <NootNummer>1</NootNummer>
+                                          <Al>De tekst van de voetnoot.</Al>
+                                    </Noot>voetnoot.</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_15"
+                                    wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_15">
+                                    <LiNummer>15.</LiNummer>
+                                    <Al>Dit is een verwijzing met een 
+                                       <Noot id="N2" type="marge">
+                                          <NootNummer>1</NootNummer>
+                                          <Al>De tekst van de margenoot.</Al>
+                                       </Noot>margenoot.</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_16"
+                                    wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_16">
+                                    <LiNummer>16.</LiNummer>
+                                    <Al>Dit is een verwijzing met een 
+                                       <Noot id="N3" type="eind">
+                                          <NootNummer>1</NootNummer>
+                                          <Al>De tekst van de eindnoot.</Al>
+                                       </Noot>eindnoot.</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.3__art_13.11__list_o_1__item_17"
+                                    wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_17">
+                                    <LiNummer>17.</LiNummer>
+                                    <Al>Dit is een verwijzing met een verdwaalde
+                                       <Noot id="N4" type="tabel">
+                                          <NootNummer>1</NootNummer>
+                                          <Al>De tekst van de tabelnoot.</Al>
+                                       </Noot>tabelnoot.</Al>
+                                 </Li>
                               </Lijst>
                            </Inhoud>
                         </Artikel>
@@ -15104,7 +15140,452 @@
                            <Nummer>13.5</Nummer>
                            <Opschrift>Kaartobjecten</Opschrift>
                         </Kop>
-                        <Gereserveerd/>
+                        <Artikel eId="chp_13__subsec_13.5__art_13.17" wId="gm1979_2__chp_13__subsec_13.5__art_13.17">
+                           <Kop>
+                              <Opschrift>Voorbeeldkaart</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Dit is de voorbeeldkaart</Al>
+                           </Inhoud>
+                        </Artikel>
+                     </Paragraaf>
+                     <Paragraaf eId="chp_13__subsec_13.6" wId="gm1979_2__chp_13__subsec_13.6">
+                        <Kop>
+                           <Label>Paragraaf</Label>
+                           <Opschrift>Varianten van artikel-koppen</Opschrift>
+                        </Kop>
+                        <Artikel wId="gm1979_2__chp_13__subsec_13.6__art_13.20" eId="chp_13__subsec_13.6__art_13.20">
+                           <Kop>
+                              <Nummer>20</Nummer>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Variant 1. Alleen nummer ingevuld</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel wId="gm1979_2__chp_13__subsec_13.6__art_13.21" eId="chp_13__subsec_13.6__art_13.21">
+                           <Kop>
+                              <Label>Artikel</Label>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Variant 2. Alleen label ingevuld</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel wId="gm1979_2__chp_13__subsec_13.6__art_13.22" eId="chp_13__subsec_13.6__art_13.22">
+                           <Kop>
+                              <Opschrift>Derde variant</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Variant 3. Alleen opschrift ingevuld</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel wId="gm1979_2__chp_13__subsec_13.6__art_13.23" eId="chp_13__subsec_13.6__art_13.23">
+                           <Kop>
+                              <Nummer>23</Nummer>
+                              <Label>Artikel</Label>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Variant 4. Nummer en label ingevuld</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel wId="gm1979_2__chp_13__subsec_13.6__art_13.24" eId="chp_13__subsec_13.6__art_13.24">
+                           <Kop>
+                              <Nummer>24</Nummer>
+                              <Opschrift>Vijfde variant</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Variant 5. Nummer en opschrift ingevuld</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel wId="gm1979_2__chp_13__subsec_13.6__art_13.25" eId="chp_13__subsec_13.6__art_13.25">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Opschrift>Zesde variant</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Variant 6. Label en opschrift ingevuld</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel wId="gm1979_2__chp_13__subsec_13.6__art_13.26" eId="chp_13__subsec_13.6__art_13.26">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>26</Nummer>
+                              <Opschrift>Zevende variant</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Variant 7. Label, Nummer en opschrift ingevuld</Al>
+                           </Inhoud>
+                        </Artikel>
+                     </Paragraaf>
+                     <Paragraaf eId="chp_13__subsec_13.7" wId="gm_1979_2__chp_13__subsec_13.7">
+                        <Kop>
+                           <Label>Paragraaf</Label>
+                           <Nummer>13.7</Nummer>
+                           <Opschrift>Voorbeelden met Tabellen</Opschrift>
+                        </Kop>
+                        <Artikel eId="chp_13__subsec_13.7__art_13.71"
+                                 wId="gm_1979_2__chp_13__subsec_13.7__art_13.71">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.71</Nummer>
+                              <Opschrift>Tabel met titel zonder headers</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <table xmlns:dso="https://www.dso.nl/"
+                                     eId="chp_13__subsec_13.7__art_13.71__table_o_1"
+                                     wId="gm_1979_2__chp_13__subsec_13.7__art_13.71__table_o_1"
+                                     dso:class="standaard"
+                                     frame="all"
+                                     colsep="1"
+                                     rowsep="1">
+                                 <title>Tabeltitel</title>
+                                 <tgroup cols="5" align="left">
+                                    <colspec colname="col1" colwidth="1585*"/>
+                                    <colspec colname="col2" colwidth="1585*"/>
+                                    <colspec colname="col3" colwidth="1585*"/>
+                                    <colspec colname="col4" colwidth="1586*"/>
+                                    <colspec colname="col5" colwidth="1586*"/>
+                                    <tbody valign="top">
+                                       <row>
+                                          <entry namest="col1" nameend="col1" morerows="1" align="left">
+                                             <Al>Verticaal samengevoegde cel</Al>
+                                          </entry>
+                                          <entry namest="col2" nameend="col5" align="left">
+                                             <Al>Horizontaal samengevoegde cel</Al>
+                                          </entry>
+                                       </row>
+                                       <row>
+                                          <entry namest="col2" nameend="col2" align="left">
+                                             <Al>Tabelcel met enkele alinea</Al>
+                                          </entry>
+                                          <entry namest="col3" nameend="col3" align="left">
+                                             <Al>Tabelcel met meerdere alinea’s.</Al>
+                                             <Al>Alinea 2.</Al>
+                                             <Al>Alinea 3.</Al>
+                                          </entry>
+                                          <entry namest="col4" nameend="col4" align="left">
+                                             <Lijst eId="chp_13__subsec_13.7__art_13.71__table_o_1__list_o_1"
+                                                    wId="gm_1979_2__chp_13__subsec_13.7__art_13.71__table_o_1__list_o_1"
+                                                    type="expliciet">
+                                                <Lijstaanhef>Tabelcel met lijst:</Lijstaanhef>
+                                                <Li eId="chp_13__subsec_13.7__art_13.71__table_o_1__list_o_1__item_1"
+                                                    wId="gm_1979_2__chp_13__subsec_13.7__art_13.71__table_o_1__list_o_1__item_1">
+                                                   <LiNummer>1.</LiNummer>
+                                                   <Al>Item 1</Al>
+                                                </Li>
+                                                <Li eId="chp_13__subsec_13.7__art_13.71__table_o_1__list_o_1__item_2"
+                                                    wId="gm_1979_2__chp_13__subsec_13.7__art_13.71__table_o_1__list_o_1__item_2">
+                                                   <LiNummer>2.</LiNummer>
+                                                   <Al>Item 2</Al>
+                                                </Li>
+                                             </Lijst>
+                                          </entry>
+                                          <entry namest="col5" nameend="col5" align="left">
+                                             <Al>Tabelcel met <b>vet</b>, <i>cursief</i>.</Al>
+                                          </entry>
+                                       </row>
+                                       <row>
+                                          <entry namest="col1" nameend="col5" align="left">
+                                             <Al>Tabelcel met afbeelding</Al>
+                                             <Figuur eId="chp_13__subsec_13.7__art_13.71__table_o_1__img_o_1"
+                                                     wId="gm_1979_2__chp_13__subsec_13.7__art_13.71__table_o_1__img_o_1">
+                                                <Illustratie naam="image1.png"
+                                                             formaat="image/png"
+                                                             breedte="7813"
+                                                             hoogte="4228"
+                                                             dpi="72"
+                                                             uitlijning="start"/>
+                                             </Figuur>
+                                          </entry>
+                                       </row>
+                                    </tbody>
+                                 </tgroup>
+                              </table>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_13__subsec_13.7__art_13.72"
+                                 wId="gm_1979_2__chp_13__subsec_13.7__art_13.72">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.72</Nummer>
+                              <Opschrift>Tabel zonder titel met headers</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <table xmlns:dso="https://www.dso.nl/"
+                                     eId="chp_13__subsec_13.7__art_13.72__table_o_1"
+                                     wId="gm_1979_2__chp_13__subsec_13.7__art_13.72__table_o_1"
+                                     dso:class="standaard"
+                                     frame="all"
+                                     colsep="1"
+                                     rowsep="1">
+                                 <tgroup cols="5" align="left">
+                                    <colspec colname="col1" colwidth="1585*"/>
+                                    <colspec colname="col2" colwidth="1585*"/>
+                                    <colspec colname="col3" colwidth="1585*"/>
+                                    <colspec colname="col4" colwidth="1586*"/>
+                                    <colspec colname="col5" colwidth="1586*"/>
+                                    <tbody valign="top">
+                                       <row>
+                                          <entry namest="col1" nameend="col1" align="left">
+                                             <Al>Header 1</Al>
+                                          </entry>
+                                          <entry namest="col2" nameend="col2" align="left">
+                                             <Al>Header 2</Al>
+                                          </entry>
+                                          <entry namest="col3" nameend="col3" align="left">
+                                             <Al>Header 3</Al>
+                                          </entry>
+                                          <entry namest="col4" nameend="col4" align="left">
+                                             <Al>Header 4</Al>
+                                          </entry>
+                                          <entry namest="col5" nameend="col5" align="left">
+                                             <Al>Header 5</Al>
+                                          </entry>
+                                       </row>
+                                       <row>
+                                          <entry namest="col1" nameend="col1" morerows="1" align="left">
+                                             <Al>Verticaal samengevoegde cel</Al>
+                                          </entry>
+                                          <entry namest="col2" nameend="col5" align="left">
+                                             <Al>
+                                                <IntIoRef 
+                                                   wId="gm_1979_2__chp_13__subsec_13.7__art_13.72__table_o_1__ref_o_1" 
+                                                   eId="chp_13__subsec_13.7__art_13.72__table_o_1__ref_o_1" 
+                                                   ref="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1">
+                                                GIO-verwijzing</IntIoRef> als IntIoRef</Al>
+                                          </entry>
+                                       </row>
+                                       <row>
+                                          <entry namest="col2" nameend="col2" align="left">
+                                             <Al>Tabelcel met enkele alinea</Al>
+                                          </entry>
+                                          <entry namest="col3" nameend="col3" align="left">
+                                             <Al>Tabelcel met meerdere alinea’s.</Al>
+                                             <Al>Alinea 2.</Al>
+                                             <Al>Alinea 3.</Al>
+                                          </entry>
+                                          <entry namest="col4" nameend="col4" align="left">
+                                             <Lijst eId="chp_13__subsec_13.7__art_13.72__table_o_1__list_o_1"
+                                                    wId="gm_1979_2__chp_13__subsec_13.7__art_13.72__table_o_1__list_o_1"
+                                                    type="expliciet">
+                                                <Lijstaanhef>Tabelcel met lijst:</Lijstaanhef>
+                                                <Li eId="chp_13__subsec_13.7__art_13.72__table_o_1__list_o_1__item_1"
+                                                    wId="gm_1979_2__chp_13__subsec_13.7__art_13.72__table_o_1__list_o_1__item_1">
+                                                   <LiNummer>1.</LiNummer>
+                                                   <Al>Item 1</Al>
+                                                </Li>
+                                                <Li eId="chp_13__subsec_13.7__art_13.72__table_o_1__list_o_1__item_2"
+                                                    wId="gm_1979_2__chp_13__subsec_13.7__art_13.72__table_o_1__list_o_1__item_2">
+                                                   <LiNummer>2.</LiNummer>
+                                                   <Al>Item 2</Al>
+                                                </Li>
+                                             </Lijst>
+                                          </entry>
+                                          <entry namest="col5" nameend="col5" align="left">
+                                             <Al>Tabelcel met <b>vet</b>, <i>cursief</i>.</Al>
+                                          </entry>
+                                       </row>
+                                       <row>
+                                          <entry namest="col1" nameend="col5" align="left">
+                                             <Al>Tabelcel met afbeelding</Al>
+                                             <Figuur eId="chp_13__subsec_13.7__art_13.72__table_o_1__img_o_1"
+                                                     wId="gm_1979_2__chp_13__subsec_13.7__art_13.72__table_o_1__img_o_1">
+                                                <Illustratie naam="image1.png"
+                                                             formaat="image/png"
+                                                             breedte="7813"
+                                                             hoogte="4228"
+                                                             dpi="72"
+                                                             uitlijning="start"/>
+                                             </Figuur>
+                                          </entry>
+                                       </row>
+                                    </tbody>
+                                 </tgroup>
+                              </table>
+                           </Inhoud>
+                        </Artikel>
+                     </Paragraaf>
+                     <Paragraaf eId="chp_13__subsec_13.8" wId="gm_1979_2__chp_13__subsec_13.8">
+                        <Kop>
+                           <Label>Paragraaf</Label>
+                           <Nummer>13.8</Nummer>
+                           <Opschrift>Voorbeelden met Lijsten</Opschrift>
+                        </Kop>
+                        <Artikel eId="chp_13__subsec_13.8__art_13.80"
+                                 wId="gm_1979_2__chp_13__subsec_13.8__art_13.80">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.80</Nummer>
+                              <Opschrift>Lijstvoorbeeld</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Lijst eId="chp_13__subsec_13.8__art_13.80__list_o_1"
+                                     wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_1"
+                                     type="expliciet">
+                                 <Li eId="chp_13__subsec_13.8__art_13.80__list_o_1__item_1"
+                                     wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_1__item_1">
+                                    <LiNummer>1.</LiNummer>
+                                    <Al>Item 1, niveau 1</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.8__art_13.80__list_o_1__item_2"
+                                     wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_1__item_2">
+                                    <LiNummer>2.</LiNummer>
+                                    <Al>Item 2, niveau 1</Al>
+                                    <Lijst eId="chp_13__subsec_13.8__art_13.80__list_o_1__item_2__list_o_1"
+                                           wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_1__item_2__list_o_1"
+                                           type="expliciet">
+                                       <Li eId="chp_13__subsec_13.8__art_13.80__list_o_1__item_2__list_o_1__item_o_1"
+                                           wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_1__item_2__list_o_1__item_o_1">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Item 1, niveau 2</Al>
+                                       </Li>
+                                       <Li eId="chp_13__subsec_13.8__art_13.80__list_o_1__item_2__list_o_1__item_o_2"
+                                           wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_1__item_2__list_o_1__item_o_2">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Item 2, niveau 2</Al>
+                                          <Lijst eId="chp_13__subsec_13.8__art_13.80__list_o_1__item_2__list_o_1__item_o_2__list_o_1"
+                                                 wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_1__item_2__list_o_1__item_o_2__list_o_1"
+                                                 type="expliciet">
+                                             <Li eId="chp_13__subsec_13.8__art_13.80__list_o_1__item_2__list_o_1__item_o_2__list_o_1__item_o_1"
+                                                 wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_1__item_2__list_o_1__item_o_2__list_o_1__item_o_1">
+                                                <LiNummer>–</LiNummer>
+                                                <Al>Item 1, niveau 3</Al>
+                                             </Li>
+                                             <Li eId="chp_13__subsec_13.8__art_13.80__list_o_1__item_2__list_o_1__item_o_2__list_o_1__item_o_2"
+                                                 wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_1__item_2__list_o_1__item_o_2__list_o_1__item_o_2">
+                                                <LiNummer>–</LiNummer>
+                                                <Al>Item 2, niveau 3</Al>
+                                             </Li>
+                                             <Li eId="chp_13__subsec_13.8__art_13.80__list_o_1__item_2__list_o_1__item_o_2__list_o_1__item_o_3"
+                                                 wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_1__item_2__list_o_1__item_o_2__list_o_1__item_o_3">
+                                                <LiNummer>–</LiNummer>
+                                                <Al>Item 3, niveau 3</Al>
+                                             </Li>
+                                          </Lijst>
+                                       </Li>
+                                       <Li eId="chp_13__subsec_13.8__art_13.80__list_o_1__item_2__list_o_1__item_o_3"
+                                           wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_1__item_2__list_o_1__item_o_3">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Item 3, niveau 2</Al>
+                                       </Li>
+                                    </Lijst>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.8__art_13.80__list_o_1__item_3"
+                                     wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_1__item_3">
+                                    <LiNummer>3. </LiNummer>
+                                    <Al>Item 3, niveau 1</Al>
+                                 </Li>
+                              </Lijst>
+                              <Lijst eId="chp_13__subsec_13.8__art_13.80__list_o_2"
+                                     wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_2"
+                                     type="expliciet">
+                                 <Lijstaanhef>Nu met lijstaanhef:</Lijstaanhef>
+                                 <Li eId="chp_13__subsec_13.8__art_13.80__list_o_2__item_1"
+                                     wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_2__item_1">
+                                    <LiNummer>1.</LiNummer>
+                                    <Al>Item 1, niveau 1</Al>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.8__art_13.80__list_o_2__item_2"
+                                     wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_2__item_2">
+                                    <LiNummer>2.</LiNummer>
+                                    <Al>Item 2, niveau 1</Al>
+                                    <Lijst eId="chp_13__subsec_13.8__art_13.80__list_o_2__item_2__list_o_1"
+                                           wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_2__item_2__list_o_1"
+                                           type="expliciet">
+                                       <Lijstaanhef>Niveau 2:</Lijstaanhef>
+                                       <Li eId="chp_13__subsec_13.8__art_13.80__list_o_2__item_2__list_o_1__item_o_1"
+                                           wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_2__item_2__list_o_1__item_o_1">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Item 1, niveau 2</Al>
+                                       </Li>
+                                       <Li eId="chp_13__subsec_13.8__art_13.80__list_o_2__item_2__list_o_1__item_o_2"
+                                           wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_2__item_2__list_o_1__item_o_2">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Item 2, niveau 2</Al>
+                                          <Lijst eId="chp_13__subsec_13.8__art_13.80__list_o_2__item_2__list_o_1__item_o_2__list_o_1"
+                                                 wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_2__item_2__list_o_1__item_o_2__list_o_1"
+                                                 type="expliciet">
+                                             <Lijstaanhef>Niveau 3:</Lijstaanhef>
+                                             <Li eId="chp_13__subsec_13.8__art_13.80__list_o_2__item_2__list_o_1__item_o_2__list_o_1__item_o_1"
+                                                 wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_2__item_2__list_o_1__item_o_2__list_o_1__item_o_1">
+                                                <LiNummer>–</LiNummer>
+                                                <Al>Item 1, niveau 3</Al>
+                                             </Li>
+                                             <Li eId="chp_13__subsec_13.8__art_13.80__list_o_2__item_2__list_o_1__item_o_2__list_o_1__item_o_2"
+                                                 wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_2__item_2__list_o_1__item_o_2__list_o_1__item_o_2">
+                                                <LiNummer>–</LiNummer>
+                                                <Al>Item 2, niveau 3</Al>
+                                             </Li>
+                                             <Li eId="chp_13__subsec_13.8__art_13.80__list_o_2__item_2__list_o_1__item_o_2__list_o_1__item_o_3"
+                                                 wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_2__item_2__list_o_1__item_o_2__list_o_1__item_o_3">
+                                                <LiNummer>–</LiNummer>
+                                                <Al>Item 3, niveau 3</Al>
+                                             </Li>
+                                          </Lijst>
+                                       </Li>
+                                       <Li eId="chp_13__subsec_13.8__art_13.80__list_o_2__item_2__list_o_1__item_o_3"
+                                           wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_2__item_2__list_o_1__item_o_3">
+                                          <LiNummer>•</LiNummer>
+                                          <Al>Item 3, niveau 2</Al>
+                                       </Li>
+                                    </Lijst>
+                                 </Li>
+                                 <Li eId="chp_13__subsec_13.8__art_13.80__list_o_2__item_3"
+                                     wId="gm_1979_2__chp_13__subsec_13.8__art_13.80__list_o_2__item_3">
+                                    <LiNummer>3. </LiNummer>
+                                    <Al>Item 3, niveau 1</Al>
+                                 </Li>
+                              </Lijst>
+                           </Inhoud>
+                        </Artikel>
+                     </Paragraaf>
+                     <Paragraaf eId="chp_13__subsec_13.9" wId="gm_1979_2__chp_13__subsec_13.9">
+                        <Kop>
+                           <Label>Paragraaf</Label>
+                           <Nummer>13.9</Nummer>
+                           <Opschrift>Afbeeldingen</Opschrift>
+                        </Kop>
+                        <Artikel eId="chp_13__subsec_13.9__art_13.91"
+                                 wId="gm_1979_2__chp_13__subsec_13.9__art_13.91">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.91</Nummer>
+                              <Opschrift>Gehele breedte</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Dit is hoe de kaart uit <IntRef ref="chp_13__subsec_13.5">13.5</IntRef> er uit zou moeten zien.</Al>
+                              <Figuur eId="chp_13__subsec_13.9__art_13.91__img_o_1"
+                                      wId="gm_1979_2__chp_13__subsec_13.9__art_13.91__img_o_1">
+                                 <Illustratie naam="image2.png"
+                                              formaat="image/png"
+                                              breedte="7937"
+                                              hoogte="4295"
+                                              dpi="72"
+                                              uitlijning="start"/>
+                                 <Bijschrift locatie="boven">Figuur over de hele breedte</Bijschrift>
+                              </Figuur>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_13__subsec_13.9__art_13.92"
+                                 wId="gm_1979_2__chp_13__subsec_13.9__art_13.92">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>13.92</Nummer>
+                              <Opschrift>Vijftig procent breedte</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Tekst</Al>
+                              <Figuur eId="chp_13__subsec_13.9__art_13.92__img_o_1"
+                                      wId="gm_1979_2__chp_13__subsec_13.9__art_13.92__img_o_1">
+                                 <Illustratie naam="image3.png"
+                                              formaat="image/png"
+                                              breedte="3969"
+                                              hoogte="3997"
+                                              dpi="72"
+                                              uitlijning="start"/>
+                                 <Bijschrift locatie="onder">Figuur over 50% van de tekstbreedte.</Bijschrift>
+                              </Figuur>
+                           </Inhoud>
+                        </Artikel>
                      </Paragraaf>
                   </Hoofdstuk>
                </Lichaam>

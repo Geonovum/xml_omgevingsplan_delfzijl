@@ -15,6 +15,12 @@
          <objecttype>Gebiedsaanwijzing</objecttype>
       </Bestand>
       <Bestand>
+         <naam>owKaart.xml</naam>
+         <objecttype>Kaart</objecttype>
+         <objecttype>Kaartlaag</objecttype>
+         <objecttype>SymbolisatieItem</objecttype>
+      </Bestand>
+      <Bestand>
          <naam>owLocaties.xml</naam>
          <objecttype>Gebiedengroep</objecttype>
          <objecttype>Gebied</objecttype>
