@@ -129,6 +129,10 @@
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
+        <bestandsnaam>owKaart.xml</bestandsnaam>
+        <contentType>application/xml</contentType>
+    </bestand>
+    <bestand>
         <bestandsnaam>owLocaties.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
