@@ -17,7 +17,6 @@
       <Bestand>
          <naam>owKaart.xml</naam>
          <objecttype>Kaart</objecttype>
-         <objecttype>Kaartlaag</objecttype>
          <objecttype>SymbolisatieItem</objecttype>
       </Bestand>
       <Bestand>

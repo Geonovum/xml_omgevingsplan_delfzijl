@@ -17,7 +17,6 @@
          <sl:leveringsId>Delfzijl</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Kaart</sl:objectType>
-            <sl:objectType>Kaartlaag</sl:objectType>
             <sl:objectType>SymbolisatieItem</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
