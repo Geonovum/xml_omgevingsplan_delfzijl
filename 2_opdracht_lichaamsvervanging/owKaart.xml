@@ -108,7 +108,7 @@
             </s:SymbolisatieItem>
          </ow-dc:owObject>
       </sl:stand>
-      <sl:stand><!-- Hoofdinfra -->
+      <sl:stand><!--<!-\- Hoofdinfra -\->
          <ow-dc:owObject>
             <s:SymbolisatieItem>
                <s:symboolcode>lt026</s:symboolcode>
@@ -117,7 +117,7 @@
                </s:gebiedsaanwijzingSymbolisatie>
             </s:SymbolisatieItem>
          </ow-dc:owObject>
-      </sl:stand>
+      </sl:stand>-->
       <sl:stand><!-- Bouwvlak -->
          <ow-dc:owObject>
             <s:SymbolisatieItem>

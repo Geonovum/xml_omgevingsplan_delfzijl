@@ -153,7 +153,7 @@
             <Tijdstempel>
                <doel>/join/id/proces/gm1979/2021/IntegraleTekstVervangingBruidsschatDelfzijl</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-               <datum>2021-11-19</datum>
+               <datum>2021-11-20</datum>
                <eId>art_II</eId>
             </Tijdstempel>
          </Tijdstempels>
@@ -15069,7 +15069,7 @@
                                     wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_14">
                                     <LiNummer>14.</LiNummer>
                                     <Al>Dit is een verwijzing met een 
-                                       <Noot id="N1" type="voet">
+                                       <Noot id="N2" type="voet">
                                           <NootNummer>1</NootNummer>
                                           <Al>De tekst van de voetnoot.</Al>
                                     </Noot>voetnoot.</Al>
@@ -15078,7 +15078,7 @@
                                     wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_15">
                                     <LiNummer>15.</LiNummer>
                                     <Al>Dit is een verwijzing met een 
-                                       <Noot id="N2" type="marge">
+                                       <Noot id="N3" type="marge">
                                           <NootNummer>1</NootNummer>
                                           <Al>De tekst van de margenoot.</Al>
                                        </Noot>margenoot.</Al>
@@ -15087,7 +15087,7 @@
                                     wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_16">
                                     <LiNummer>16.</LiNummer>
                                     <Al>Dit is een verwijzing met een 
-                                       <Noot id="N3" type="eind">
+                                       <Noot id="N4" type="eind">
                                           <NootNummer>1</NootNummer>
                                           <Al>De tekst van de eindnoot.</Al>
                                        </Noot>eindnoot.</Al>
@@ -15096,7 +15096,7 @@
                                     wId="gm1979_2__chp_13__subsec_13.3__art_13.11__list_o_1__item_17">
                                     <LiNummer>17.</LiNummer>
                                     <Al>Dit is een verwijzing met een verdwaalde
-                                       <Noot id="N4" type="tabel">
+                                       <Noot id="N5" type="tabel">
                                           <NootNummer>1</NootNummer>
                                           <Al>De tekst van de tabelnoot.</Al>
                                        </Noot>tabelnoot.</Al>

@@ -46,7 +46,7 @@
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
       </sl:stand>
-      <sl:stand>
+<!--      <sl:stand>
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>
                <ga:identificatie>nl.imow-gm1979.gebiedsaanwijzing.Hoofdinfra</ga:identificatie>
@@ -58,7 +58,7 @@
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
-      </sl:stand>
+      </sl:stand>-->
       <sl:stand>
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>

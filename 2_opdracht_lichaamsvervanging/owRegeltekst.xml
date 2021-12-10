@@ -18762,9 +18762,9 @@
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.lijnengroep.Hoofdinfrastructuur"/>
                </r:locatieaanduiding>
-               <r:gebiedsaanwijzing>
+<!--               <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1979.gebiedsaanwijzing.Hoofdinfra"/>
-               </r:gebiedsaanwijzing>
+               </r:gebiedsaanwijzing>-->
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
@@ -18787,9 +18787,9 @@
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.lijnengroep.Hoofdinfrastructuur"/>
                </r:locatieaanduiding>
-               <r:gebiedsaanwijzing>
+<!--               <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1979.gebiedsaanwijzing.Hoofdinfra"/>
-               </r:gebiedsaanwijzing>
+               </r:gebiedsaanwijzing>-->
             </r:Instructieregel>
          </ow-dc:owObject>
       </sl:stand>

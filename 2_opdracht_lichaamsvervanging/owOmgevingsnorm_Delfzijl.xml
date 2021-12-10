@@ -31,7 +31,7 @@
                      <rol:identificatie>nl.imow-gm1979.normwaarde.Geluidproductieplafond70</rol:identificatie>
                      <rol:kwantitatieveWaarde>70</rol:kwantitatieveWaarde>
                      <rol:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebied.GPPL1"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.punt.GPPL1"/>
                      </rol:locatieaanduiding>
                   </rol:Normwaarde>
                   <rol:Normwaarde>
