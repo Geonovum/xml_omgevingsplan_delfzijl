@@ -78,7 +78,7 @@
             </k:Kaart>
          </ow-dc:owObject>
       </sl:stand>
-      <sl:stand><!-- Normwaarden als sterretjes -->
+     <!-- <sl:stand><!-\- Normwaarden als sterretjes -\->
          <ow-dc:owObject>
             <s:SymbolisatieItem>
                <s:symboolcode>ps014</s:symboolcode>
@@ -107,7 +107,7 @@
                </s:normwaardeSymbolisatie>
             </s:SymbolisatieItem>
          </ow-dc:owObject>
-      </sl:stand>
+      </sl:stand>-->
 <!--      <sl:stand><!-\-<!-\\- Hoofdinfra -\\->
          <ow-dc:owObject>
             <s:SymbolisatieItem>
