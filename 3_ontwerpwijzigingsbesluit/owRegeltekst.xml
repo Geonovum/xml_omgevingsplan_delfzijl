@@ -48,6 +48,9 @@
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.DelfzijlCentrum"/>
                </r:locatieaanduiding>
+               <r:gebiedsaanwijzing>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1979.gebiedsaanwijzing.BouwvlakCentrum"/>
+               </r:gebiedsaanwijzing>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.BouwwerkBouwenNw"/>
                   <r:ActiviteitLocatieaanduiding>
@@ -125,14 +128,8 @@
       <!-- artikel 13y2 -->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm1979_2__chp_13__subsec_13.1__art_13.Y.2">
-               <r:identificatie>nl.imow-gm1979.regeltekst.art13y2</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
             <r:RegelVoorIedereen>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <r:identificatie>nl.imow-gm1979.juridischeregel.art13y2</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
