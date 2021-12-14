@@ -18611,7 +18611,7 @@
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.BouwwerkBouwenNw"/>
                   <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.bouwwerkbouwenart13x2</r:identificatie>
+                     <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.bouwwerkbouwenart13y2</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.BouwvlakLandelijkGebied"/>
