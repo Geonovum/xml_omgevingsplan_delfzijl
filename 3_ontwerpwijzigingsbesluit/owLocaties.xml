@@ -26,9 +26,10 @@
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebiedengroep>
-               <!--<ow:status>beëindigen</ow:status>-->
+               <ow:status>beëindigen</ow:status>
                <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <l:identificatie>nl.imow-gm1979.gebiedengroep.BouwvlakDelfzijlCentrum</l:identificatie>
+               <l:noemer>Bouwvlak Delfzijl Centrum</l:noemer>
                <l:groepselement>
                   <l:GebiedRef xlink:href="nl.imow-gm1979.gebied.BouwvlakDelfzijlCentrum"/>
                </l:groepselement>
@@ -38,10 +39,9 @@
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebied>
-               <!--<ow:status>beëindigen</ow:status>-->
+               <ow:status>beëindigen</ow:status>
                <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <l:identificatie>nl.imow-gm1979.gebied.BouwvlakDelfzijlCentrum</l:identificatie>
-               <l:noemer>Bouwvlak Delfzijl Centrum</l:noemer>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="0E8B2E55-D033-430B-8C9F-782C2DC2FA0A"/>
                </l:geometrie>

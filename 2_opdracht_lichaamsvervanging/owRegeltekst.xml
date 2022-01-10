@@ -18762,7 +18762,7 @@
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.lijnengroep.Hoofdinfrastructuur"/>
                </r:locatieaanduiding>
-<!--               <r:gebiedsaanwijzing>
+<!--           <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1979.gebiedsaanwijzing.Hoofdinfra"/>
                </r:gebiedsaanwijzing>-->
             </r:RegelVoorIedereen>
