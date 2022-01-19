@@ -46,6 +46,9 @@
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.DelfzijlCentrum"/>
                </r:locatieaanduiding>
+               <r:gebiedsaanwijzing>
+                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1979.gebiedsaanwijzing.BouwvlakCentrum"/>
+               </r:gebiedsaanwijzing>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.BouwwerkBouwenNw"/>
                   <r:ActiviteitLocatieaanduiding>
