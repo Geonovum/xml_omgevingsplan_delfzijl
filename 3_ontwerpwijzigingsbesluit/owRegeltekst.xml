@@ -125,31 +125,5 @@
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
-      <!-- artikel 13y2 -->
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <ow:procedurestatus>ontwerp</ow:procedurestatus>
-               <r:identificatie>nl.imow-gm1979.juridischeregel.art13y2</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.art13y2"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.LandelijkGebied"/>
-               </r:locatieaanduiding>
-               <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.BouwwerkBouwenNw"/>
-                  <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.bouwwerkbouwenart13y2</r:identificatie>
-                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
-                     <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.BouwvlakLandelijkGebied"/>
-                     </r:locatieaanduiding>
-                  </r:ActiviteitLocatieaanduiding>
-               </r:activiteitaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
    </sl:standBestand>
 </ow-dc:owBestand>
