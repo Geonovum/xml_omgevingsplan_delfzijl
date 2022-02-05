@@ -46,16 +46,17 @@
             </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
-      <!--      <sl:stand>
+            <sl:stand>
          <ow-dc:owObject>
             <l:Gebiedengroep>
                <l:identificatie>nl.imow-gm1979.gebiedengroep.Delfzijl</l:identificatie>
+               <l:noemer>Delfzijl</l:noemer>
                <l:groepselement>
                   <l:GebiedRef xlink:href="nl.imow-gm1979.gebied.Delfzijl"/>
                </l:groepselement>
             </l:Gebiedengroep>
          </ow-dc:owObject>
-      </sl:stand>-->
+      </sl:stand>
 <!--      <sl:stand>
          <ow-dc:owObject>
             <l:Gebied>

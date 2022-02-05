@@ -18939,6 +18939,16 @@
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.ReclamePlaatsenNieuw"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.ReclameVergplIndgeb</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.DelfzijlIndustrieterrein"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
