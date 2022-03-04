@@ -168,6 +168,20 @@
                      </Inhoud>  
                   </Artikel>
                </Vervang>
+               <Verwijder wat="gm1979_2__chp_13__subsec_13.1__art_13.X.2">
+                  <Artikel eId="cmp_I__art_13.X.2" wId="gm1979_3__cmp_I__art_13.X.2">
+                     <Kop>
+                        <Label>Artikel</Label>
+                        <Nummer>13.X.2</Nummer>
+                        <Opschrift>Positionering gebouwen</Opschrift>
+                     </Kop>
+                     <Inhoud>
+                        <Al>Binnen het Centrumgebied zijn bovengrondse gebouwen, tenzij elders anders is bepaald, uitsluitend toegestaan ter plaatse van de locatie <IntIoRef eId="cmp_I__art_13.X.2__ref_o_1"
+                           wId="gm1979_3__cmp_I__art_13.X.2__ref_o_1"
+                           ref="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_5__ref_o_1">'bouwvlak centrumgebied'</IntIoRef>. </Al>
+                     </Inhoud>
+                  </Artikel>
+               </Verwijder>
                <Vervang wat="gm1979_1__cmp_II">
                   <Bijlage eId="cmp_II" wId="gm1979_1__cmp_II">
                      <Kop>
