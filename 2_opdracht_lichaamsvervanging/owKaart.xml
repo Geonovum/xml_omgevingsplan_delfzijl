@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ow-dc:owBestand xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
-   xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
-   xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
-   xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
-   xmlns:k="http://www.geostandaarden.nl/imow/kaart"
-   xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
-   xmlns:r="http://www.geostandaarden.nl/imow/regels"
-   xmlns:s="http://www.geostandaarden.nl/imow/symbolisatie"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+                 xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:s="http://www.geostandaarden.nl/imow/symbolisatie"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
    <sl:standBestand>
       <sl:dataset>Omgevingsagenda Oost</sl:dataset>
       <sl:inhoud>
@@ -58,7 +58,7 @@
                         <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1979.gebiedsaanwijzing.BouwvlakCentrum"/>
                      </k:gebiedsaanwijzingweergave>
                   </k:Kaartlaag>
-<!--                  <k:Kaartlaag>
+                  <!--                  <k:Kaartlaag>
                      <k:identificatie>nl.imow-gm1979.kaartlaag.niveau4</k:identificatie>
                      <k:naam>Hoofdinfrastructuur</k:naam>
                      <k:niveau>4</k:niveau>
@@ -78,7 +78,7 @@
             </k:Kaart>
          </ow-dc:owObject>
       </sl:stand>
-     <!-- <sl:stand><!-\- Normwaarden als sterretjes -\->
+      <!-- <sl:stand><!-\- Normwaarden als sterretjes -\->
          <ow-dc:owObject>
             <s:SymbolisatieItem>
                <s:symboolcode>ps014</s:symboolcode>
@@ -108,7 +108,7 @@
             </s:SymbolisatieItem>
          </ow-dc:owObject>
       </sl:stand>-->
-<!--      <sl:stand><!-\-<!-\\- Hoofdinfra -\\->
+      <!--      <sl:stand><!-\-<!-\\- Hoofdinfra -\\->
          <ow-dc:owObject>
             <s:SymbolisatieItem>
                <s:symboolcode>lt026</s:symboolcode>

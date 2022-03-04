@@ -36,7 +36,7 @@
                <r:artikelOfLid>
                   <r:RegeltekstRef xlink:href="nl.imow-pv20.regeltekst.delfzijlRIart1punt1"/>
                </r:artikelOfLid>
-               <r:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Procedures</r:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Procedures' is niet gevonden in waardelijsten 2.0.0.-->
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv20.ambtsgebied.delfzijl"/>
                </r:locatieaanduiding>

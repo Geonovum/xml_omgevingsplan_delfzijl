@@ -38,7 +38,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><!--zelfverzonnen obv casco--><ow:procedurestatus>ontwerp</ow:procedurestatus>
+            <rol:Activiteit><!--zelfverzonnen obv casco-->
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <rol:identificatie>nl.imow-gm1979.activiteit.AanlegActNw</rol:identificatie>
                <rol:naam>Aanlegactiviteit</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/VerrichtenVanWerkenEnWerkzaamhedenactiviteit</rol:groep>
@@ -50,7 +51,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><!--zelfverzonnen obv casco--><ow:procedurestatus>ontwerp</ow:procedurestatus>
+            <rol:Activiteit><!--zelfverzonnen obv casco-->
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <rol:identificatie>nl.imow-gm1979.activiteit.AanlegWijzigSpoorwNw</rol:identificatie>
                <rol:naam>Activiteit m.b.t. aanleggen of wijzigen van (spoor)wegen zonder geluidproductieplafond</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Wegactiviteit</rol:groep>
@@ -62,7 +64,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><!--zelfverzonnen obv casco--><ow:procedurestatus>ontwerp</ow:procedurestatus>
+            <rol:Activiteit><!--zelfverzonnen obv casco-->
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <rol:identificatie>nl.imow-gm1979.activiteit.ActWegWaterNw</rol:identificatie>
                <rol:naam>Activiteit op of bij wegen of bij wateren in beheer bij de gemeente</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Wegactiviteit</rol:groep>
@@ -74,7 +77,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><!--zelfverzonnen obv casco--><ow:procedurestatus>ontwerp</ow:procedurestatus>
+            <rol:Activiteit><!--zelfverzonnen obv casco-->
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <rol:identificatie>nl.imow-gm1979.activiteit.BouwwerkErfTerreinNw</rol:identificatie>
                <rol:naam>Bouwwerk-, open erf-, of terreinactiviteit</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/GebruikenVanBouwwerkenactiviteit</rol:groep>
@@ -86,7 +90,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><!--zelfverzonnen obv casco--><ow:procedurestatus>ontwerp</ow:procedurestatus>
+            <rol:Activiteit><!--zelfverzonnen obv casco-->
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <rol:identificatie>nl.imow-gm1979.activiteit.FloraFaunaActNw</rol:identificatie>
                <rol:naam>Flora- en fauna-activiteit</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/FloraEnFaunaActiviteit</rol:groep>
@@ -98,7 +103,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><!--zelfverzonnen obv casco--><ow:procedurestatus>ontwerp</ow:procedurestatus>
+            <rol:Activiteit><!--zelfverzonnen obv casco-->
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <rol:identificatie>nl.imow-gm1979.activiteit.MonumEnCultErfgActNw</rol:identificatie>
                <rol:naam>Monumenten- en cultureelerfgoedactiviteit </rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/FloraEnFaunaActiviteit</rol:groep>
@@ -108,10 +114,10 @@
             </rol:Activiteit>
          </ow-dc:owObject>
       </sl:stand>
-
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><!--zelfverzonnen obv casco--><ow:procedurestatus>ontwerp</ow:procedurestatus>
+            <rol:Activiteit><!--zelfverzonnen obv casco-->
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <rol:identificatie>nl.imow-gm1979.activiteit.SloopActNw</rol:identificatie>
                <rol:naam>Sloopactiviteit</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Sloopactiviteit</rol:groep>
@@ -123,7 +129,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><!--zelfverzonnen obv casco--><ow:procedurestatus>ontwerp</ow:procedurestatus>
+            <rol:Activiteit><!--zelfverzonnen obv casco-->
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <rol:identificatie>nl.imow-gm1979.activiteit.ActWegNw</rol:identificatie>
                <rol:naam>Activiteit op of bij wegen</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Wegactiviteit</rol:groep>
@@ -135,7 +142,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><!--zelfverzonnen obv casco--><ow:procedurestatus>ontwerp</ow:procedurestatus>
+            <rol:Activiteit><!--zelfverzonnen obv casco-->
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <rol:identificatie>nl.imow-gm1979.activiteit.ActWaterNw</rol:identificatie>
                <rol:naam>Activiteit op of bij wateren</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Waterstaatswerkenactiviteit</rol:groep>
@@ -147,7 +155,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><!--zelfverzonnen obv casco--><ow:procedurestatus>ontwerp</ow:procedurestatus>
+            <rol:Activiteit><!--zelfverzonnen obv casco-->
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <rol:identificatie>nl.imow-gm1979.activiteit.BouwwerkNw</rol:identificatie>
                <rol:naam>Bouwwerkactiviteit</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/GebruikenVanBouwwerkenactiviteit</rol:groep>
@@ -159,7 +168,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><!--zelfverzonnen obv casco--><ow:procedurestatus>ontwerp</ow:procedurestatus>
+            <rol:Activiteit><!--zelfverzonnen obv casco-->
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <rol:identificatie>nl.imow-gm1979.activiteit.ErfNw</rol:identificatie>
                <rol:naam>Open-erfactiviteit</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/GebruikenVanBouwwerkenactiviteit</rol:groep>
@@ -171,7 +181,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><!--zelfverzonnen obv casco--><ow:procedurestatus>ontwerp</ow:procedurestatus>
+            <rol:Activiteit><!--zelfverzonnen obv casco-->
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <rol:identificatie>nl.imow-gm1979.activiteit.TerreinNw</rol:identificatie>
                <rol:naam>Terreinactiviteit</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/GebruikenVanBouwwerkenactiviteit</rol:groep>

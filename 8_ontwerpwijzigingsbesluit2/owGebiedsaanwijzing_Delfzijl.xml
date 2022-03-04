@@ -34,7 +34,7 @@
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
       </sl:stand>
-<!--      <sl:stand>
+      <!--      <sl:stand>
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>
                <ow:status>beëindigen</ow:status>

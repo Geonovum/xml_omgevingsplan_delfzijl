@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/gm1979/2021/Delfzijl_Hoofdinfrastructuur</FRBRWork>
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Delfzijl_Hoofdinfrastructuur.gml</bestandsnaam>
-                  <hash>711e6dc2596a0527c89d639477fd91f79d77ca6872237c7af41748aa5ebae884a7413656ddd8c11702751a183258424969a8a1d50bd8d0d2a373e7337e22be85</hash>
+                  <hash>5d69b7732701438da50e415ff8acb8641cbb1e3703ce77d71ce091a9bdf9bf6b8aef26c8735f369eb4af434391abcaf2bca72b55cd4a2d22565cbc82ae3a6e0c</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

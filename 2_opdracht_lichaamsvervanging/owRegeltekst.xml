@@ -4177,7 +4177,7 @@
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
-<!--      <sl:stand>
+      <!--      <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-gm1979.juridischeregel.2021000001</r:identificatie>
@@ -18762,7 +18762,7 @@
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.lijnengroep.Hoofdinfrastructuur"/>
                </r:locatieaanduiding>
-<!--           <r:gebiedsaanwijzing>
+               <!--           <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1979.gebiedsaanwijzing.Hoofdinfra"/>
                </r:gebiedsaanwijzing>-->
             </r:RegelVoorIedereen>
@@ -18787,7 +18787,7 @@
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.lijnengroep.Hoofdinfrastructuur"/>
                </r:locatieaanduiding>
-<!--               <r:gebiedsaanwijzing>
+               <!--               <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1979.gebiedsaanwijzing.Hoofdinfra"/>
                </r:gebiedsaanwijzing>-->
             </r:Instructieregel>
@@ -19171,7 +19171,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm1979_2__chp_13__subsec_13.5__art_13.17">
+            <r:Regeltekst wId="gm1979_2__chp_13__subsec_13.5__art_o_1">
                <r:identificatie>nl.imow-gm1979.regeltekst.art13punt17</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>

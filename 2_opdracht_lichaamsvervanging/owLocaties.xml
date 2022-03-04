@@ -19,10 +19,6 @@
          <sl:objectTypen>
             <sl:objectType>Gebied</sl:objectType>
             <sl:objectType>Gebiedengroep</sl:objectType>
-            <sl:objectType>Puntengroep</sl:objectType>
-            <sl:objectType>Punt</sl:objectType>
-            <sl:objectType>Lijnengroep</sl:objectType>
-            <sl:objectType>Lijn</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
       <sl:stand>
@@ -46,7 +42,7 @@
             </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
-            <sl:stand>
+      <sl:stand>
          <ow-dc:owObject>
             <l:Gebiedengroep>
                <l:identificatie>nl.imow-gm1979.gebiedengroep.Delfzijl</l:identificatie>
@@ -57,7 +53,7 @@
             </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
-<!--      <sl:stand>
+      <!--      <sl:stand>
          <ow-dc:owObject>
             <l:Gebied>
                <l:identificatie>nl.imow-gm1979.gebied.Delfzijl</l:identificatie>
@@ -103,7 +99,7 @@
          <ow-dc:owObject>
             <l:Gebied>
                <l:identificatie>nl.imow-gm1979.gebied.BouwvlakLandelijkGebied</l:identificatie>
-                <l:geometrie>
+               <l:geometrie>
                   <l:GeometrieRef xlink:href="1AB34AB2-A676-4955-A2A4-CB74ADEF996F"/>
                </l:geometrie>
             </l:Gebied>

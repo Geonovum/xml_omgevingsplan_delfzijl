@@ -18,8 +18,6 @@
          <naam>owLocaties.xml</naam>
          <objecttype>Gebiedengroep</objecttype>
          <objecttype>Gebied</objecttype>
-         <objecttype>Punt</objecttype>
-         <objecttype>Lijn</objecttype>
       </Bestand>
       <Bestand>
          <naam>owRegeltekst.xml</naam>

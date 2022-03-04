@@ -2,8 +2,8 @@
 <!--Voor validatie is het noodzakelijk om ook de catalogi van de gepubliceerde versie 1.0.4 te laden.-->
 <AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                    schemaversie="1.1.0"
-                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd"> 
+                    schemaversie="1.2.0"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd"> 
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/bill/pv20/2021/Besluit</FRBRWork>
@@ -78,7 +78,7 @@
             <Al>besluiten:</Al>
          </Aanhef>
          <Lichaam eId="body" wId="body">
-            <Artikel eId="art_I" wId="pv20_1.0__art_I">
+            <Artikel eId="art_I" wId="pv20_1__art_I">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>I</Nummer>
@@ -86,17 +86,16 @@
                <Inhoud>
                   <Al>Het omgevingsplan moet in lijn gebracht worden met de omgevingsverordening,
                      het betreft:</Al>
-                  <Lijst type="ongemarkeerd"
-                         wId="art_I__list_o_1"
-                         eId="gm0297_1__art_I__list_o_1">
-                     <Li wId="art_I__list_o_1__item_o_1"
-                         eId="gm0297_1__art_I__list_o_1__item_o_1">
+                  <Lijst eId="art_I__list_o_1"
+                         wId="pv20_1__art_I__list_o_1"
+                         type="ongemarkeerd">
+                     <Li eId="art_I__list_o_1__item_o_1" wId="pv20_1__art_I__list_o_1__item_o_1">
                         <Al>het instellen van een bouwvlak</Al>
                      </Li>
                   </Lijst>
                </Inhoud>
             </Artikel>
-            <WijzigArtikel eId="art_II" wId="pv20_1.0__art_II">
+            <WijzigArtikel eId="art_II" wId="pv20_1__art_II">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>II</Nummer>
@@ -104,7 +103,7 @@
                <Wat>Door deze <IntRef ref="cmp_1">reactieve interventie</IntRef> gelden de betreffende onderdelen zoals
                   aangegeven in bijlage 1.</Wat>
             </WijzigArtikel>
-            <Artikel wId="art_III" eId="gm0297_1__art_III">
+            <Artikel eId="art_III" wId="pv20_1__art_III">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>III</Nummer>
@@ -114,7 +113,7 @@
                      werkdagen na bekendmaking van dit besluit in overeenstemming is met bijlage 1.</Al>
                </Inhoud>
             </Artikel>
-            <Artikel eId="art_IV" wId="pv20_1.0__art_IV">
+            <Artikel eId="art_IV" wId="pv20_1__art_IV">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>IV</Nummer>
@@ -135,7 +134,7 @@
                <Al>De griffier</Al>
             </Ondertekening>
          </Sluiting>
-         <WijzigBijlage eId="cmp_1" wId="pv20_1.0__cmp_1">
+         <WijzigBijlage eId="cmp_1" wId="pv20_1__cmp_1">
             <Kop>
                <Label>Bijlage</Label>
                <Nummer>1</Nummer>
@@ -148,7 +147,7 @@
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
                   <Conditie>
-                     <Artikel wId="art_o_1" eId="pv20_1__art_o_1">
+                     <Artikel eId="art_o_1" wId="pv20_1__art_o_1">
                         <Kop>
                            <Opschrift>Voorrangsbepaling</Opschrift>
                         </Kop>
@@ -162,7 +161,7 @@
                         </Inhoud>
                      </Artikel>
                   </Conditie>
-                  <Hoofdstuk eId="chp_1" wId="pv20_1.0__chp_1">
+                  <Hoofdstuk eId="chp_1" wId="pv20_1__chp_1">
                      <Kop>
                         <Label>Hoofdstuk</Label>
                         <Nummer>1</Nummer>
@@ -184,16 +183,16 @@
                      </Artikel>
                   </Hoofdstuk>
                </Lichaam>
-               <Bijlage wId="cmp_A" eId="pv20_1__cmp_A">
+               <Bijlage eId="cmp_A" wId="pv20_1__cmp_A">
                   <Kop>
                      <Label>Bijlage</Label>
                      <Nummer>A</Nummer>
                      <Opschrift>Overzicht informatieobjecten</Opschrift>
                   </Kop>
-                  <Divisietekst wId="cmp_A__content_o_1" eId="pv20_1__cmp_A__content_o_1">
+                  <Divisietekst eId="cmp_A__content_o_1" wId="pv20_1__cmp_A__content_o_1">
                      <Inhoud>
-                        <Begrippenlijst wId="cmp_A__content_o_1__list_o_1"
-                                        eId="pv20_1__cmp_A__content_o_1__list_o_1">
+                        <Begrippenlijst eId="cmp_A__content_o_1__list_o_1"
+                                        wId="pv20_1__cmp_A__content_o_1__list_o_1">
                            <Begrip eId="cmp_A__content_o_1__list_o_1__item_o_1"
                                    wId="pv20_1__cmp_A__content_o_1__list_o_1__item_o_1">
                               <Term>Bouwvlak Centrum Delfzijl</Term>
@@ -209,20 +208,21 @@
                      </Inhoud>
                   </Divisietekst>
                </Bijlage>
-               <Toelichting wId="pv20_1__recital_o_1" eId="recital_o_1">
+               <Toelichting eId="recital_o_1" wId="pv20_1__recital_o_1">
                   <Kop>
                      <Opschrift>Toelichtingkop met alleen opschrift</Opschrift>
                   </Kop>
-                  <Divisietekst wId="pv20_1__recital_o_1__content_o_1" eId="recital_o_1__content_o_1">
+                  <Divisietekst eId="recital_o_1__content_o_1" wId="pv20_1__recital_o_1__content_o_1">
                      <Inhoud>
                         <Al>Inhoud van de toelichting in een divisietekst.</Al>
                      </Inhoud>
                   </Divisietekst>
-                  <Bijlage wId="pv20_1__recital_o_1__cmp_A" eId="recital_o_1__cmp_A">
+                  <Bijlage eId="recital_o_1__cmp_1" wId="pv20_1__recital_o_1__cmp_1">
                      <Kop>
                         <Nummer>1</Nummer>
                      </Kop>
-                     <Divisietekst wId="pv20_1__recital_o_1__cmp_A__content_o_1" eId="recital_o_1__cmp_A__content_o_1">
+                     <Divisietekst eId="recital_o_1__cmp_1__content_o_1"
+                                   wId="pv20_1__recital_o_1__cmp_1__content_o_1">
                         <Inhoud>
                            <Al>Inhoud van de bijlage in de toelichting (in een divisietekst).</Al>
                         </Inhoud>

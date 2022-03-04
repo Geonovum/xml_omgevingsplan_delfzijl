@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.1.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    schemaversie="1.2.0"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/bill/gm1979/2021/omgevingsplandelfzijl_TweedeOntwerp</FRBRWork>
@@ -51,35 +54,35 @@
                   <doel>/join/id/proces/gm1979/2021/Ontwerpwijzigingsbesluit</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm1979/2021/Delfzijl_Hoofdinfrastructuur/nld@2022-01-24;1</instrumentVersie>
-               <eId>!ontwerp#cmp_II__content_o_1__list_o_1__item_o_8__ref_o_1</eId>
+               <eId>!ontwerp#cmp_I__cmp_II__content_o_1__list_o_1__item_o_8__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm1979/2021/Ontwerpwijzigingsbesluit</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm1979/2021/Delfzijl_Punt/nld@2022-01-24;1</instrumentVersie>
-               <eId>!ontwerp#cmp_II__content_o_1__list_o_1__item_o_12__ref_o_1</eId>
+               <eId>!ontwerp#cmp_I__cmp_II__content_o_1__list_o_1__item_o_12__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm1979/2021/Ontwerpwijzigingsbesluit</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm1979/2021/casino/nld@2022-01-24;1</instrumentVersie>
-               <eId>!ontwerp#cmp_II__content_o_1__list_o_1__item_o_14__ref_o_1</eId>
+               <eId>!ontwerp#cmp_I__cmp_II__content_o_1__list_o_1__item_o_14__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm1979/2021/Ontwerpwijzigingsbesluit</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm1979/2021/Delfzijl_GeluidProductiePlafonds/nld@2022-01-24;1</instrumentVersie>
-               <eId>!ontwerp#cmp_II__content_o_1__list_o_1__item_o_7__ref_o_1</eId>
+               <eId>!ontwerp#cmp_I__cmp_II__content_o_1__list_o_1__item_o_7__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/gm1979/2021/Ontwerpwijzigingsbesluit</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm1979/2021/Regelingsgebiedv2/nld@2022-01-24;1</instrumentVersie>
-               <eId>!ontwerp#cmp_II__content_o_1__list_o_1__item_o_15__ref_o_1</eId>
+               <eId>!ontwerp#cmp_I__cmp_II__content_o_1__list_o_1__item_o_15__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Intrekkingen>
@@ -97,14 +100,14 @@
             <Al>wijziging omgevingsplan Delfzijl</Al>
          </RegelingOpschrift>
          <Lichaam eId="body" wId="body">
-            <WijzigArtikel eId="art_I" wId="gm1979_2__art_I">
+            <WijzigArtikel eId="art_I" wId="gm1979_8__art_I">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>I</Nummer>
                </Kop>
                <Wat>We hebben alle artikelen van de bruidsschat geplaatst in het omgevingsplan middels intrekken en vervangen zoals aangegeven in <IntRef ref="cmp_I">BijlageI</IntRef>.</Wat>
             </WijzigArtikel>
-            <Artikel eId="art_II" wId="gm1979_2__art_II">
+            <Artikel eId="art_II" wId="gm1979_8__art_II">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>II</Nummer>
@@ -122,39 +125,46 @@
                <Al>Kasper Lingbeek</Al>
             </Ondertekening>
          </Sluiting>
-         <WijzigBijlage eId="cmp_I" wId="gm1979_2__cmp_I">
+         <WijzigBijlage eId="cmp_I" wId="gm1979_8__cmp_I">
             <Kop>
                <Label>Bijlage</Label>
                <Nummer>I</Nummer>
                <Opschrift>Bijlage bij artikel I</Opschrift>
             </Kop>
-            <RegelingMutatie componentnaam="ontwerp" was="/akn/nl/act/gm1979/2021/omgevingsplandelfzijl/nld@2" wordt="/akn/nl/act/gm1979/2021/omgevingsplandelfzijl/nld@5">
+            <RegelingMutatie componentnaam="ontwerp"
+                             was="/akn/nl/act/gm1979/2021/omgevingsplandelfzijl/nld@2"
+                             wordt="/akn/nl/act/gm1979/2021/omgevingsplandelfzijl/nld@5">
                <VoegToe positie="volgtOp" context="gm1979_3__chp_14">
-                  <Hoofdstuk wId="gm1979_3__chp_15" eId="chp_15">
+                  <Hoofdstuk eId="cmp_I__chp_15" wId="gm1979_8__cmp_I__chp_15">
                      <Kop>
                         <Label>Hoofdstuk</Label>
                         <Nummer>15</Nummer>
                         <Opschrift>Wijzigingen vanuit een ontwerp</Opschrift>
                      </Kop>
-                     <Artikel wId="gm1979_3__chp_15__art_15.1" eId="chp_15__art_15.1">
+                     <Artikel eId="cmp_I__chp_15__art_o_1" wId="gm1979_8__cmp_I__chp_15__art_o_1">
                         <Kop>
                            <Opschrift>Nieuw artikel met nieuwe GIO</Opschrift>
                         </Kop>
-                        <Inhoud><Al>Het <IntIoRef eId="chp_15__art_15.1__ref_o_1" wId="gm1979_3__chp_15__art_15.1__ref_o_1" ref="gm1979_3__cmp_II__content_o_1__list_o_1__item_o_14__ref_o_1">Casino</IntIoRef> is nieuw. En bevat een ActiviteitLocatieaanduiding, je mag hier namelijk niet valsspelen.</Al></Inhoud>
+                        <Inhoud>
+                           <Al>Het <IntIoRef eId="cmp_I__chp_15__art_o_1__ref_o_1"
+                                        wId="gm1979_8__cmp_I__chp_15__art_o_1__ref_o_1"
+                                        ref="gm1979_3__cmp_II__content_o_1__list_o_1__item_o_14__ref_o_1">Casino</IntIoRef> is nieuw. En bevat een ActiviteitLocatieaanduiding, je mag hier namelijk niet valsspelen.</Al>
+                        </Inhoud>
                      </Artikel>
-                     <Artikel wId="gm1979_3__chp_15__art_15.2" eId="chp_15__art_15.2">
+                     <Artikel eId="cmp_I__chp_15__art_o_2" wId="gm1979_8__cmp_I__chp_15__art_o_2">
                         <Kop>
                            <Opschrift>Nieuw artikel</Opschrift>
                         </Kop>
-                        <Inhoud><Al>Dit artikel wordt in ontwerp toegevoegd en bevat een <IntIoRef eId="chp_15__art_15.2__ref_o_1"
-                           wId="gm1979_3__chp_15__art_15.2__ref_o_1"
-                           ref="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_12__ref_o_1">Punt-Gebiedsaanwijzing</IntIoRef> naar een bestaande GIO.</Al></Inhoud>
+                        <Inhoud>
+                           <Al>Dit artikel wordt in ontwerp toegevoegd en bevat een <IntIoRef eId="cmp_I__chp_15__art_o_2__ref_o_1"
+                                        wId="gm1979_8__cmp_I__chp_15__art_o_2__ref_o_1"
+                                        ref="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_12__ref_o_1">Punt-Gebiedsaanwijzing</IntIoRef> naar een bestaande GIO.</Al>
+                        </Inhoud>
                      </Artikel>
                   </Hoofdstuk>
                </VoegToe>
                <Vervang wat="gm1979_2__chp_13__subsec_13.1__art_13.4">
-                  <Artikel eId="chp_13__subsec_13.1__art_13.4"
-                     wId="gm1979_2__chp_13__subsec_13.1__art_13.4">
+                  <Artikel eId="cmp_I__art_13.4" wId="gm1979_8__cmp_I__art_13.4">
                      <Kop>
                         <Label>Artikel</Label>
                         <Nummer>13.4</Nummer>
@@ -162,14 +172,14 @@
                      </Kop>
                      <Gereserveerd wijzigactie="voegtoe"/>
                      <Inhoud wijzigactie="verwijder">
-                        <Al>Dit is een voorbeeld van een <IntIoRef eId="chp_13__subsec_13.1__art_13.4__ref_o_1"
-                           wId="gm1979_2__chp_13__subsec_13.1__art_13.4__ref_o_1"
-                           ref="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_12__ref_o_1">punt</IntIoRef>.</Al>
+                        <Al>Dit is een voorbeeld van een <IntIoRef eId="cmp_I__art_13.4__ref_o_1"
+                                     wId="gm1979_8__cmp_I__art_13.4__ref_o_1"
+                                     ref="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_12__ref_o_1">punt</IntIoRef>.</Al>
                      </Inhoud>  
                   </Artikel>
                </Vervang>
                <Verwijder wat="gm1979_2__chp_13__subsec_13.1__art_13.X.2">
-                  <Artikel eId="cmp_I__art_13.X.2" wId="gm1979_3__cmp_I__art_13.X.2">
+                  <Artikel eId="cmp_I__art_13.X.2" wId="gm1979_8__cmp_I__art_13.X.2">
                      <Kop>
                         <Label>Artikel</Label>
                         <Nummer>13.X.2</Nummer>
@@ -177,178 +187,188 @@
                      </Kop>
                      <Inhoud>
                         <Al>Binnen het Centrumgebied zijn bovengrondse gebouwen, tenzij elders anders is bepaald, uitsluitend toegestaan ter plaatse van de locatie <IntIoRef eId="cmp_I__art_13.X.2__ref_o_1"
-                           wId="gm1979_3__cmp_I__art_13.X.2__ref_o_1"
-                           ref="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_5__ref_o_1">'bouwvlak centrumgebied'</IntIoRef>. </Al>
+                                     wId="gm1979_8__cmp_I__art_13.X.2__ref_o_1"
+                                     ref="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_5__ref_o_1">'bouwvlak centrumgebied'</IntIoRef>. </Al>
                      </Inhoud>
                   </Artikel>
                </Verwijder>
                <Vervang wat="gm1979_1__cmp_II">
-                  <Bijlage eId="cmp_II" wId="gm1979_1__cmp_II">
+                  <Bijlage eId="cmp_I__cmp_II" wId="gm1979_8__cmp_I__cmp_II">
                      <Kop>
                         <Label>Bijlage</Label>
                         <Nummer>II</Nummer>
                         <Opschrift>Overzicht Informatieobjecten</Opschrift>
                      </Kop>
-                     <Divisietekst eId="cmp_II__content_o_1" wId="gm1979_2__cmp_II__content_o_1">
+                     <Divisietekst eId="cmp_I__cmp_II__content_o_1"
+                                   wId="gm1979_8__cmp_I__cmp_II__content_o_1">
                         <Inhoud>
-                           <Begrippenlijst eId="cmp_II__content_o_1__list_o_1"
-                              wId="gm1979_2__cmp_II__content_o_1__list_o_1">
-                              <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_1"
-                                 wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_1">
+                           <Begrippenlijst eId="cmp_I__cmp_II__content_o_1__list_o_1"
+                                           wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1">
+                              <Begrip eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_1"
+                                      wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_1">
                                  <Term>Bouwvlak Delfzijl Landelijk Gebied</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                          wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                          ref="/join/id/regdata/gm1979/2021/Bouwvlak_Delfzijl_Landelijk_Gebied/nld@2021-08-02;1">/join/id/regdata/gm1979/2021/Bouwvlak_Delfzijl_Landelijk_Gebied/nld@2021-08-02;1</ExtIoRef>
+                                       <ExtIoRef eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                                 wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                                 ref="/join/id/regdata/gm1979/2021/Bouwvlak_Delfzijl_Landelijk_Gebied/nld@2021-08-02;1">/join/id/regdata/gm1979/2021/Bouwvlak_Delfzijl_Landelijk_Gebied/nld@2021-08-02;1</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_2"
-                                 wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_2">
+                              <Begrip eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_2"
+                                      wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_2">
                                  <Term>Bouwvlak Delfzijl Landelijk Gebied Rooilijn</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_2__ref_o_1"
-                                          wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_2__ref_o_1"
-                                          ref="/join/id/regdata/gm1979/2021/Delfzijl_Landelijk_Gebied_Rooilijn/nld@2021-08-02;1">/join/id/regdata/gm1979/2021/Delfzijl_Landelijk_Gebied_Rooilijn/nld@2021-08-02;1</ExtIoRef>
+                                       <ExtIoRef eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                                 wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                                 ref="/join/id/regdata/gm1979/2021/Delfzijl_Landelijk_Gebied_Rooilijn/nld@2021-08-02;1">/join/id/regdata/gm1979/2021/Delfzijl_Landelijk_Gebied_Rooilijn/nld@2021-08-02;1</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_3"
-                                 wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_3">
+                              <Begrip eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_3"
+                                      wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_3">
                                  <Term>Delfzijl</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_3__ref_o_1"
-                                          wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_3__ref_o_1"
-                                          ref="/join/id/regdata/gm1979/2021/Delfzijl/nld@2021-08-02;1">/join/id/regdata/gm1979/2021/Delfzijl/nld@2021-08-02;1</ExtIoRef>
+                                       <ExtIoRef eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                                 wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                                 ref="/join/id/regdata/gm1979/2021/Delfzijl/nld@2021-08-02;1">/join/id/regdata/gm1979/2021/Delfzijl/nld@2021-08-02;1</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_4"
-                                 wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_4">
+                              <Begrip eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_4"
+                                      wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_4">
                                  <Term>Delfzijl Centrum</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_4__ref_o_1"
-                                          wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_4__ref_o_1"
-                                          ref="/join/id/regdata/gm1979/2021/Delfzijl_Centrum/nld@2021-08-02;1">/join/id/regdata/gm1979/2021/Delfzijl_Centrum/nld@2021-08-02;1</ExtIoRef>
+                                       <ExtIoRef eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                                 wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                                 ref="/join/id/regdata/gm1979/2021/Delfzijl_Centrum/nld@2021-08-02;1">/join/id/regdata/gm1979/2021/Delfzijl_Centrum/nld@2021-08-02;1</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_5"
-                                 wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_5" wijzigactie="verwijder">
+                              <Begrip eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_5"
+                                      wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_5"
+                                      wijzigactie="verwijder">
                                  <Term>Delfzijl Centrum Bouwvlak</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_5__ref_o_1"
-                                          wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_5__ref_o_1"
-                                          ref="/join/id/regdata/gm1979/2021/bouwvlak_Delfzijl_Centrum/nld@2021-08-02;1">/join/id/regdata/gm1979/2021/bouwvlak_Delfzijl_Centrum/nld@2021-08-02;1</ExtIoRef>
+                                       <ExtIoRef eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                                 wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                                 ref="/join/id/regdata/gm1979/2021/bouwvlak_Delfzijl_Centrum/nld@2021-08-02;1">/join/id/regdata/gm1979/2021/bouwvlak_Delfzijl_Centrum/nld@2021-08-02;1</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_6"
-                                 wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_6">
+                              <Begrip eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_6"
+                                      wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_6">
                                  <Term>Delfzijl Centrum Bouwvlak Rooilijn</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_6__ref_o_1"
-                                          wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_6__ref_o_1"
-                                          ref="/join/id/regdata/gm1979/2021/bouwvlak_Delfzijl_Centrum_Rooilijn/nld@2021-08-02;1">/join/id/regdata/gm1979/2021/bouwvlak_Delfzijl_Centrum_Rooilijn/nld@2021-08-02;1</ExtIoRef>
+                                       <ExtIoRef eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_6__ref_o_1"
+                                                 wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_6__ref_o_1"
+                                                 ref="/join/id/regdata/gm1979/2021/bouwvlak_Delfzijl_Centrum_Rooilijn/nld@2021-08-02;1">/join/id/regdata/gm1979/2021/bouwvlak_Delfzijl_Centrum_Rooilijn/nld@2021-08-02;1</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_7"
-                                 wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_7">
+                              <Begrip eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_7"
+                                      wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_7">
                                  <Term>Delfzijl Geluidproductieplafonds</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_7__ref_o_1"
-                                          wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_7__ref_o_1"
-                                          ref="/join/id/regdata/gm1979/2021/Delfzijl_GeluidProductiePlafonds/nld@2022-01-24;1">/join/id/regdata/gm1979/2021/Delfzijl_GeluidProductiePlafonds/nld@2022-01-24;1</ExtIoRef>
+                                       <ExtIoRef eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_7__ref_o_1"
+                                                 wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_7__ref_o_1"
+                                                 ref="/join/id/regdata/gm1979/2021/Delfzijl_GeluidProductiePlafonds/nld@2022-01-24;1">/join/id/regdata/gm1979/2021/Delfzijl_GeluidProductiePlafonds/nld@2022-01-24;1</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_8"
-                                 wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_8">
+                              <Begrip eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_8"
+                                      wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_8">
                                  <Term>Delfzijl Hoofdinfrastructuur</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_8__ref_o_1"
-                                          wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_8__ref_o_1"
-                                          ref="/join/id/regdata/gm1979/2021/Delfzijl_Hoofdinfrastructuur/nld@2022-01-24;1">/join/id/regdata/gm1979/2021/Delfzijl_Hoofdinfrastructuur/nld@2022-01-24;1</ExtIoRef>
+                                       <ExtIoRef eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_8__ref_o_1"
+                                                 wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_8__ref_o_1"
+                                                 ref="/join/id/regdata/gm1979/2021/Delfzijl_Hoofdinfrastructuur/nld@2022-01-24;1">/join/id/regdata/gm1979/2021/Delfzijl_Hoofdinfrastructuur/nld@2022-01-24;1</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_9"
-                                 wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_9">
+                              <Begrip eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_9"
+                                      wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_9">
                                  <Term>Delfzijl Industrieterrein</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_9__ref_o_1"
-                                          wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_9__ref_o_1"
-                                          ref="/join/id/regdata/gm1979/2021/Delfzijl_Industrieterrein/nld@2021-08-02;1">/join/id/regdata/gm1979/2021/Delfzijl_Industrieterrein/nld@2021-08-02;1</ExtIoRef>
+                                       <ExtIoRef eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_9__ref_o_1"
+                                                 wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_9__ref_o_1"
+                                                 ref="/join/id/regdata/gm1979/2021/Delfzijl_Industrieterrein/nld@2021-08-02;1">/join/id/regdata/gm1979/2021/Delfzijl_Industrieterrein/nld@2021-08-02;1</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_10"
-                                 wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_10">
+                              <Begrip eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_10"
+                                      wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_10">
                                  <Term>Delfzijl kamerverhuur</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_10__ref_o_1"
-                                          wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_10__ref_o_1"
-                                          ref="/join/id/regdata/gm1979/2021/Delfzijlkamerverhuur/nld@2021-08-02;1">/join/id/regdata/gm1979/2021/Delfzijlkamerverhuur/nld@2021-08-02;1</ExtIoRef>
+                                       <ExtIoRef eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_10__ref_o_1"
+                                                 wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_10__ref_o_1"
+                                                 ref="/join/id/regdata/gm1979/2021/Delfzijlkamerverhuur/nld@2021-08-02;1">/join/id/regdata/gm1979/2021/Delfzijlkamerverhuur/nld@2021-08-02;1</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_11"
-                                 wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_11">
+                              <Begrip eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_11"
+                                      wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_11">
                                  <Term>Delfzijl landelijk gebied</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_11__ref_o_1"
-                                          wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_11__ref_o_1"
-                                          ref="/join/id/regdata/gm1979/2021/Delfzijl_Landelijk_Gebied/nld@2021-08-02;1">/join/id/regdata/gm1979/2021/Delfzijl_Landelijk_Gebied/nld@2021-08-02;1</ExtIoRef>
+                                       <ExtIoRef eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_11__ref_o_1"
+                                                 wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_11__ref_o_1"
+                                                 ref="/join/id/regdata/gm1979/2021/Delfzijl_Landelijk_Gebied/nld@2021-08-02;1">/join/id/regdata/gm1979/2021/Delfzijl_Landelijk_Gebied/nld@2021-08-02;1</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_12"
-                                 wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_12">
+                              <Begrip eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_12"
+                                      wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_12">
                                  <Term>Delfzijl punt</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_12__ref_o_1"
-                                          wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_12__ref_o_1"
-                                          ref="/join/id/regdata/gm1979/2021/Delfzijl_Punt/nld@2022-01-24;1">/join/id/regdata/gm1979/2021/Delfzijl_Punt/nld@2022-01-24;1</ExtIoRef>
+                                       <ExtIoRef eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_12__ref_o_1"
+                                                 wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_12__ref_o_1"
+                                                 ref="/join/id/regdata/gm1979/2021/Delfzijl_Punt/nld@2022-01-24;1">/join/id/regdata/gm1979/2021/Delfzijl_Punt/nld@2022-01-24;1</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_13"
-                                 wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_13">
+                              <Begrip eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_13"
+                                      wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_13">
                                  <Term>Delfzijl Centrum Bouwvlak met voorgeschreven rooilijn</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_13__ref_o_1"
-                                          wId="gm1979_2__cmp_II__content_o_1__list_o_1__item_o_13__ref_o_1"
-                                          ref="/join/id/regdata/gm1979/2021/Delfzijl_Centrum_BouwvlakMetVoorgeschrevenRooilijn/nld@2021-08-02;1">/join/id/regdata/gm1979/2021/Delfzijl_Centrum_BouwvlakMetVoorgeschrevenRooilijn/nld@2021-08-02;1</ExtIoRef>
+                                       <ExtIoRef eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_13__ref_o_1"
+                                                 wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_13__ref_o_1"
+                                                 ref="/join/id/regdata/gm1979/2021/Delfzijl_Centrum_BouwvlakMetVoorgeschrevenRooilijn/nld@2021-08-02;1">/join/id/regdata/gm1979/2021/Delfzijl_Centrum_BouwvlakMetVoorgeschrevenRooilijn/nld@2021-08-02;1</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_14" wId="gm1979_3__cmp_II__content_o_1__list_o_1__item_o_14" wijzigactie="voegtoe">
+                              <Begrip eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_14"
+                                      wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_14"
+                                      wijzigactie="voegtoe">
                                  <Term>Casino</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_14__ref_o_1" wId="gm1979_3__cmp_II__content_o_1__list_o_1__item_o_14__ref_o_1" ref="/join/id/regdata/gm1979/2021/casino/nld@2022-01-24;1">/join/id/regdata/gm1979/2021/casino/nld@2022-01-24;1</ExtIoRef>
+                                       <ExtIoRef eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_14__ref_o_1"
+                                                 wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_14__ref_o_1"
+                                                 ref="/join/id/regdata/gm1979/2021/casino/nld@2022-01-24;1">/join/id/regdata/gm1979/2021/casino/nld@2022-01-24;1</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
-                              <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_15" wId="gm1979_3__cmp_II__content_o_1__list_o_1__item_o_15" wijzigactie="voegtoe">
+                              <Begrip eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_15"
+                                      wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_15"
+                                      wijzigactie="voegtoe">
                                  <Term>Regelingsgebiedv2</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_15__ref_o_1" wId="gm1979_3__cmp_II__content_o_1__list_o_1__item_o_15__ref_o_1" ref="/join/id/regdata/gm1979/2021/Regelingsgebiedv2/nld@2022-01-24;1">/join/id/regdata/gm1979/2021/Regelingsgebiedv2/nld@2022-01-24;1</ExtIoRef>
+                                       <ExtIoRef eId="cmp_I__cmp_II__content_o_1__list_o_1__item_o_15__ref_o_1"
+                                                 wId="gm1979_8__cmp_I__cmp_II__content_o_1__list_o_1__item_o_15__ref_o_1"
+                                                 ref="/join/id/regdata/gm1979/2021/Regelingsgebiedv2/nld@2022-01-24;1">/join/id/regdata/gm1979/2021/Regelingsgebiedv2/nld@2022-01-24;1</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>
