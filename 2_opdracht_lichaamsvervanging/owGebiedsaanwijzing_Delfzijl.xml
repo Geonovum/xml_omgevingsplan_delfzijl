@@ -63,11 +63,24 @@
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>
                <ga:identificatie>nl.imow-gm1979.gebiedsaanwijzing.BouwvlakCentrum</ga:identificatie>
-               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Bouw</ga:type>
                <ga:naam>Bouwvlak Centrum</ga:naam>
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Bebouwingscontour</ga:groep>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/bouw/id/concept/Bouwvlak</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.BouwvlakDelfzijlCentrum"/>
+               </ga:locatieaanduiding>
+            </ga:Gebiedsaanwijzing>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <ga:Gebiedsaanwijzing>
+               <ga:identificatie>nl.imow-gm1979.gebiedsaanwijzing.RooilijnCentrumBouwvlak</ga:identificatie>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Bouw</ga:type>
+               <ga:naam>rooilijn</ga:naam>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/bouw/id/concept/Rooilijn</ga:groep>
+               <ga:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.lijnengroep.CentrumBouwvlakRooilijn"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
