@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ow-dc:owBestand xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
                  xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:op="http://www.geostandaarden.nl/imow/opobject"
                  xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
                  xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
                  xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
@@ -18,22 +19,34 @@
       <sl:dataset>gm1979</sl:dataset>
       <sl:inhoud>
          <sl:gebied>gm1979</sl:gebied>
-         <sl:leveringsId>gm1979_2021-03-23</sl:leveringsId>
+         <sl:leveringsId>gm1979_2021-04-08</sl:leveringsId>
          <sl:objectTypen>
-            <sl:objectType>Activiteit</sl:objectType>
+            <sl:objectType>Regeltekst</sl:objectType>
+            <sl:objectType>RegelVoorIedereen</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit>
-               <rol:identificatie>nl.imow-gm1979.activiteit.Valsspelen</rol:identificatie>
-               <rol:naam>valsspelen</rol:naam>
-               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Recreatieactiviteit</rol:groep>
-               <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.OverigeActNw"/>
-               </rol:bovenliggendeActiviteit>
-            </rol:Activiteit>
+            <r:Regeltekst wId="gm1979_3__chp_16__art_16.1">
+               <op:procedurestatus>ontwerp</op:procedurestatus>
+               <r:identificatie>nl.imow-gm1979.regeltekst.chp16art16p1</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
-   </sl:standBestand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:RegelVoorIedereen>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <r:identificatie>nl.imow-gm1979.juridischeregel.chp16art16p1</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.chp16art16p1"/>
+               </r:artikelOfLid>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.Delfzijl"/>
+               </r:locatieaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+       </sl:standBestand>
 </ow-dc:owBestand>

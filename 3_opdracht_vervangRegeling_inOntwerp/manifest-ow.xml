@@ -5,20 +5,7 @@
    <domein>omgevingswet</domein>
    <Aanlevering>
       <WorkIDRegeling>/akn/nl/act/gm1979/2021/omgevingsplandelfzijl</WorkIDRegeling>
-      <DoelID>/join/id/proces/gm1979/2021/Nummer5PDFbestand</DoelID>
-      <Bestand>
-         <naam>owActiviteiten.xml</naam>
-         <objecttype>Activiteit</objecttype>
-      </Bestand>
-      <Bestand>
-         <naam>owGebiedsaanwijzing_Delfzijl.xml</naam>
-         <objecttype>Gebiedsaanwijzing</objecttype>
-      </Bestand>
-      <Bestand>
-         <naam>owLocaties.xml</naam>
-         <objecttype>Gebiedengroep</objecttype>
-         <objecttype>Gebied</objecttype>
-      </Bestand>
+      <DoelID>/join/id/proces/gm1979/2021/VervangRegelingDelfzijl</DoelID>
       <Bestand>
          <naam>owRegeltekst.xml</naam>
          <objecttype>Regeltekst</objecttype>
