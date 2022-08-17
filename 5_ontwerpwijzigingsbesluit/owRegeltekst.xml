@@ -67,7 +67,7 @@
       <!--artikel 14.1-->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm1979_3__cmp_I__chp_14__art_o_1">
+            <r:Regeltekst wId="gm1979_3__chp_14__art_o_1">
                <op:procedurestatus>ontwerp</op:procedurestatus>
                <r:identificatie>nl.imow-gm1979.regeltekst.art14punt1</r:identificatie>
             </r:Regeltekst>
@@ -104,7 +104,7 @@
       <!--artikel 14.2-->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm1979_3__cmp_I__chp_14__art_o_2">
+            <r:Regeltekst wId="gm1979_3__chp_14__art_o_2">
                <op:procedurestatus>ontwerp</op:procedurestatus>
                <r:identificatie>nl.imow-gm1979.regeltekst.art14punt2</r:identificatie>
             </r:Regeltekst>

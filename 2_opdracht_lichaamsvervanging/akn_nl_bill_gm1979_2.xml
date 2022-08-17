@@ -197,6 +197,14 @@
             <RegelingMutatie componentnaam="integraletekstvervanging"
                              was="/akn/nl/act/gm1979/2021/omgevingsplandelfzijl/nld@1"
                              wordt="/akn/nl/act/gm1979/2021/omgevingsplandelfzijl/nld@2">
+               <VervangRegeling>
+                  <RegelingCompact>
+                     <RegelingOpschrift eId="longTitle" wId="longTitle">
+                        <Al>Omgevingsplan gemeente Delfzijl (Geonovum-versie)</Al>
+                     </RegelingOpschrift>
+                     <Lichaam wId="" eId=""></Lichaam>
+                  </RegelingCompact>
+               </VervangRegeling>
                <Vervang wat="body">
                   <Lichaam eId="body" wId="body">
                      <Hoofdstuk eId="chp_1" wId="gm1979_2__chp_1">

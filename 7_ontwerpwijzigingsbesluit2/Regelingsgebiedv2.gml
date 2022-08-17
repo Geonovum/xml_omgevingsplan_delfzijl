@@ -9,7 +9,7 @@
    <geo:context>
       <gio:GeografischeContext>
          <gio:achtergrondVerwijzing>cbs</gio:achtergrondVerwijzing>
-         <gio:achtergrondActualiteit>24-1-2022</gio:achtergrondActualiteit>
+         <gio:achtergrondActualiteit>2022-01-01</gio:achtergrondActualiteit>
       </gio:GeografischeContext>
    </geo:context>
    <geo:vastgesteldeVersie>

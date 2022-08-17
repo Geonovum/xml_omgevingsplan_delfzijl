@@ -5,7 +5,7 @@
    <domein>omgevingswet</domein>
    <Aanlevering>
       <WorkIDRegeling>/akn/nl/act/gm1979/2021/omgevingsplandelfzijl</WorkIDRegeling>
-      <DoelID>/join/id/proces/gm1979/2021/Ontwerpwijzigingsbesluit</DoelID>
+      <DoelID>/join/id/proces/gm1979/2021/OntwerpNr2wijzigingsbesluit</DoelID>
       <Bestand>
          <naam>owActiviteiten.xml</naam>
          <objecttype>Activiteit</objecttype>
@@ -18,11 +18,26 @@
          <naam>owLocaties.xml</naam>
          <objecttype>Gebiedengroep</objecttype>
          <objecttype>Gebied</objecttype>
+         <objecttype>Lijn</objecttype>
+         <objecttype>Punt</objecttype>
       </Bestand>
       <Bestand>
          <naam>owRegeltekst.xml</naam>
          <objecttype>Regeltekst</objecttype>
          <objecttype>RegelVoorIedereen</objecttype>
+      </Bestand>
+      <Bestand>
+         <naam>owKaart.xml</naam>
+         <objecttype>Kaart</objecttype>
+         <objecttype>SymbolisatieItem</objecttype>
+      </Bestand>
+      <Bestand>
+         <naam>owOmgevingsnorm_Delfzijl.xml</naam>
+         <objecttype>Omgevingsnorm</objecttype>
+      </Bestand>
+      <Bestand>
+         <naam>owRegelingsgebied.xml</naam>
+         <objecttype>Regelingsgebied</objecttype>
       </Bestand>
    </Aanlevering>
 </Aanleveringen>

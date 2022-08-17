@@ -4,9 +4,9 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.overheid.nl/2017/lvbb
   https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-transport.xsd">
-  <idLevering>Geonovum_Omgevingsplan_Delfzijl_Ontwerp_Kennisgeving</idLevering>
+  <idLevering>RdG_6_Delfzijl_kennisgeving_poging_003</idLevering>
   <idBevoegdGezag>00000001009301914000</idBevoegdGezag>
   <idAanleveraar>00000003560458830000</idAanleveraar>
   <publicatie>Kennisgeving01.xml</publicatie>
-  <datumBekendmaking>2021-10-13</datumBekendmaking>
+  <datumBekendmaking>2022-06-23</datumBekendmaking>
 </publicatieOpdracht>

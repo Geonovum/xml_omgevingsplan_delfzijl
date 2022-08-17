@@ -15,10 +15,11 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Regelingsgebiedv2.gml</bestandsnaam>
-                  <hash>76207f4c2f386859a273d3d27ab7ab5c5a63a8e0d22c38d961c35d88db652354bb1917093c13dbc1700355edda3680d3b74d48d09872aac5e83001dc8e2ecafa</hash>
+                  <hash>7cb565074e9147d1c35448ab549969f2d2ea8b181fd2a762631258ad547ca4ab88ce24d50785611fc815c38e1e196f3c7055ba82250cd991a15f35cf78eae3e9</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
+         <heeftGeboorteregeling>/akn/nl/act/gm1979/2021/omgevingsplandelfzijl</heeftGeboorteregeling>
       </InformatieObjectVersieMetadata>
       <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <eindverantwoordelijke>/tooi/id/gemeente/gm1979</eindverantwoordelijke>
