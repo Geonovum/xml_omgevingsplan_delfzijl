@@ -43,4 +43,12 @@
       <bestandsnaam>GIO-Delfzijl.xml</bestandsnaam>
       <contentType>application/xml</contentType>
    </bestand>
+   <bestand>
+      <bestandsnaam>PonsDelfzijl.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
+   <bestand>
+      <bestandsnaam>PonsDelfzijl.gml</bestandsnaam>
+      <contentType>application/gml+xml</contentType>
+   </bestand>
 </manifest>

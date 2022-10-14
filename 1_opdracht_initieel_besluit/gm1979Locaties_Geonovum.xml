@@ -43,5 +43,25 @@
             </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm1979.gebiedengroep.Pons</l:identificatie>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm1979.gebied.Pons1"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm1979.gebied.Pons1</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="923795e1-303a-4ab3-b88e-b5f1a412bc52"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
    </sl:standBestand>
 </ow-dc:owBestand>

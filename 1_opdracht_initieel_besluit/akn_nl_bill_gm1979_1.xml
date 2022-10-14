@@ -106,6 +106,17 @@
                   <Al>Het omgevingsplan van rechtswege vervalt voor het Ponsgebied van dit artikel.</Al>
                </Inhoud>
             </Artikel>
+            <Artikel eId="art_IV" wId="gm1979_1__art_IV">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>IV</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>Het omgevingsplan van rechtswege vervalt voor het Pons-informatieobject <ExtIoRef eId="art_IV__ref_o_1"
+                     wId="gm1979_1__art_IV__ref_o_1"
+                     ref="/join/id/regdata/gm1979/2022/PonsDelfzijl/nld@2022-01-01;1">/join/id/regdata/gm1979/2022/PonsDelfzijl/nld@2022-01-01;1</ExtIoRef> van dit artikel.</Al>
+               </Inhoud>
+            </Artikel>
          </Lichaam>
          <Sluiting eId="formula_2" wId="formula_2">
             <Al>Gegeven te Delfzijl, 4 mei 2021</Al>

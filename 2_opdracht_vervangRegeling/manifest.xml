@@ -141,6 +141,10 @@
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
+        <bestandsnaam>owPons_Delfzijl.xml</bestandsnaam>
+        <contentType>application/xml</contentType>
+    </bestand>
+    <bestand>
         <bestandsnaam>owRegelingsgebied.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
