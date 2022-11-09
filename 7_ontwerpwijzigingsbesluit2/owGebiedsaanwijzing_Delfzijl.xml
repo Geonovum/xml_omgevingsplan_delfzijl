@@ -34,6 +34,22 @@
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
       </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <ga:Gebiedsaanwijzing>
+               <ow:status>beëindigen</ow:status>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <ga:identificatie>nl.imow-gm1979.gebiedsaanwijzing.BouwvlakCentrum</ga:identificatie>
+               <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Bouw</ga:type>
+               <ga:naam>Bouwvlak Centrum</ga:naam>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/bouw/id/concept/Bouwvlak</ga:groep>
+               <ga:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.BouwvlakDelfzijlCentrum"/>
+               </ga:locatieaanduiding>
+            </ga:Gebiedsaanwijzing>
+         </ow-dc:owObject>
+      </sl:stand>
+      
       <!--      <sl:stand>
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>

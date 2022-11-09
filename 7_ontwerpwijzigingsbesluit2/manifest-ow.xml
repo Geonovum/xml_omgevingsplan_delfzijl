@@ -29,7 +29,7 @@
       <Bestand>
          <naam>owKaart.xml</naam>
          <objecttype>Kaart</objecttype>
-         <objecttype>SymbolisatieItem</objecttype>
+<!--         <objecttype>SymbolisatieItem</objecttype>-->
       </Bestand>
       <Bestand>
          <naam>owOmgevingsnorm_Delfzijl.xml</naam>

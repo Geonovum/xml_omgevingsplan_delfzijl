@@ -151,31 +151,31 @@
                         <Nummer>14</Nummer>
                         <Opschrift>Wijzigingen vanuit een ontwerp</Opschrift>
                      </Kop>
-                     <Artikel eId="chp_14__art_o_1" wId="gm1979_3__chp_14__art_o_1">
+                     <Artikel eId="chp_14__art_14.1" wId="gm1979_3__chp_14__art_14.1">
                         <Kop>
                            <Label>Artikel</Label>
                            <Nummer>14.1</Nummer>
                            <Opschrift>Nieuw artikel met nieuwe GIO</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>Het <IntIoRef eId="chp_14__art_o_1__ref_o_1"
-                              wId="gm1979_3__chp_14__art_o_1__ref_o_1"
+                           <Al>Het <IntIoRef eId="chp_14__art_14.1__ref_o_1"
+                              wId="gm1979_3__chp_14__art_14.1__ref_o_1"
                               ref="gm1979_1__cmp_II__content_o_1__list_o_1__item_o_14__ref_o_1">Casino</IntIoRef> is nieuw. En bevat een ActiviteitLocatieaanduiding, je mag hier namelijk niet valsspelen.</Al>
                         </Inhoud>
                      </Artikel>
-                     <Artikel eId="chp_14__art_o_2" wId="gm1979_3__chp_14__art_o_2">
+                     <Artikel eId="chp_14__art_14.2" wId="gm1979_3__chp_14__art_14.2">
                         <Kop>
                            <Label>Artikel</Label>
                            <Nummer>14.2</Nummer>
                            <Opschrift>Nieuw artikel</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>Dit artikel wordt in ontwerp toegevoegd en bevat een <IntIoRef eId="chp_14__art_o_2__ref_o_1"
-                              wId="gm1979_3__chp_14__art_o_2__ref_o_1"
+                           <Al>Dit artikel wordt in ontwerp toegevoegd en bevat een <IntIoRef eId="chp_14__art_14.2__ref_o_1"
+                              wId="gm1979_3__chp_14__art_14.2__ref_o_1"
                               ref="gm1979_1__cmp_II__content_o_1__list_o_1__item_o_12__ref_o_1">Punt-Gebiedsaanwijzing</IntIoRef> naar een bestaande GIO.</Al>
                         </Inhoud>
                      </Artikel>
-                     <Artikel eId="chp_14__art_o_3" wId="gm1979_3__chp_14__art_o_3">
+                     <Artikel eId="chp_14__art_14.3" wId="gm1979_3__chp_14__art_14.3">
                         <Kop>
                            <Label>Artikel</Label>
                            <Nummer>14.3</Nummer>
@@ -185,28 +185,28 @@
                            <Al>De waarden voor geluid zijn niet van toepassing op het geluid door een activiteit op of in een geluidgevoelig gebouw dat een functionele binding heeft met die activiteit.</Al>
                         </Inhoud>
                      </Artikel>
-                     <Artikel eId="chp_14__art_o_4" wId="gm1979_3__chp_14__art_o_4">
+                     <Artikel eId="chp_14__art_14.4" wId="gm1979_3__chp_14__art_14.4">
                            <Kop>
                               <Label>Artikel</Label>
                               <Nummer>14.4</Nummer>
                               <Opschrift>Toepassingsbereik duplicaat van artikel 3.83</Opschrift>
                            </Kop>
-                           <Lid eId="chp_14__art_o_4__para_1" wId="gm1979_2__chp_14__art_o_4__para_1">
+                           <Lid eId="chp_14__art_14.4__para_1" wId="gm1979_2__chp_14__art_14.4__para_1">
                               <LidNummer>1.</LidNummer>
                               <Inhoud>
                                  <Al>Deze paragraaf is van toepassing op de trillingen in een frequentie van 1 tot 80 Hz door een activiteit in een trillinggevoelige ruimte van een trillinggevoelig gebouw die op een locatie is toegelaten op grond van een omgevingsplan of een omgevingsvergunning voor een omgevingsplanactiviteit.</Al>
                               </Inhoud>
                            </Lid>
-                           <Lid eId="chp_14__art_o_4__para_2" wId="gm1979_2__chp_14__art_o_4__para_2">
+                           <Lid eId="chp_14__art_14.4__para_2" wId="gm1979_2__chp_14__art_14.4__para_2">
                               <LidNummer>2.</LidNummer>
                               <Inhoud>
-                                 <Lijst eId="chp_14__art_o_4__para_2__list_o_1" wId="gm1979_2__chp_14__art_o_4__para_2__list_o_1" type="expliciet">
+                                 <Lijst eId="chp_14__art_14.4__para_2__list_o_1" wId="gm1979_2__chp_14__art_14.4__para_2__list_o_1" type="expliciet">
                                     <Lijstaanhef>Deze paragraaf is niet van toepassing op trillingen door een activiteit:</Lijstaanhef>
-                                    <Li eId="chp_14__art_o_4__para_2__list_o_1__item_a" wId="gm1979_2__chp_14__art_o_4__para_2__list_o_1__item_a">
+                                    <Li eId="chp_14__art_14.4__para_2__list_o_1__item_a" wId="gm1979_2__chp_14__art_14.4__para_2__list_o_1__item_a">
                                        <LiNummer>a.</LiNummer>
                                        <Al>in een trillinggevoelige ruimte van een trillinggevoelig gebouw die geheel of gedeeltelijk ligt op een gezoneerd industrieterrein of op een industrieterrein waarvoor geluidproductieplafonds als omgevingswaarden zijn vastgesteld; en</Al>
                                     </Li>
-                                    <Li eId="chp_14__art_o_4__para_2__list_o_1__item_b" wId="gm1979_2__chp_14__art_o_4__para_2__list_o_1__item_b">
+                                    <Li eId="chp_14__art_14.4__para_2__list_o_1__item_b" wId="gm1979_2__chp_14__art_14.4__para_2__list_o_1__item_b">
                                        <LiNummer>b.</LiNummer>
                                        <Al>in een trillinggevoelige ruimte van een trillinggevoelig gebouw, die op een locatie is toegelaten op grond van een omgevingsplan of een omgevingsvergunning voor een omgevingsplanactiviteit voor een duur van niet meer dan tien jaar.</Al>
                                     </Li>

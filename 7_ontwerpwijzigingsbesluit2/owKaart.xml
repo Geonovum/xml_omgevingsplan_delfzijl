@@ -17,7 +17,7 @@
          <sl:leveringsId>Delfzijl</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Kaart</sl:objectType>
-            <sl:objectType>SymbolisatieItem</sl:objectType>
+<!--            <sl:objectType>SymbolisatieItem</sl:objectType>-->
          </sl:objectTypen>
       </sl:inhoud>
       <sl:stand>
@@ -51,15 +51,15 @@
                         <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1979.gebiedsaanwijzing.FunctieCentrumgebied"/>
                      </k:gebiedsaanwijzingweergave>
                   </k:Kaartlaag>
-                  <k:Kaartlaag>
+<!--                  <k:Kaartlaag>
                      <k:identificatie>nl.imow-gm1979.kaartlaag.niveau3</k:identificatie>
                      <k:naam>Bouwvlak Centrum</k:naam>
                      <k:niveau>3</k:niveau>
                      <k:gebiedsaanwijzingweergave>
                         <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1979.gebiedsaanwijzing.BouwvlakCentrum"/>
                      </k:gebiedsaanwijzingweergave>
-                  </k:Kaartlaag>
-                  <k:Kaartlaag>
+                  </k:Kaartlaag>-->
+<!--                  <k:Kaartlaag>
                      <ow:procedurestatus>ontwerp</ow:procedurestatus>
                      <k:identificatie>nl.imow-gm1979.kaartlaag.niveau4</k:identificatie>
                      <k:naam>Hoofdinfrastructuur</k:naam>
@@ -67,7 +67,7 @@
                      <k:gebiedsaanwijzingweergave>
                         <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm1979.gebiedsaanwijzing.Hoofdinfra"/>
                      </k:gebiedsaanwijzingweergave>
-                  </k:Kaartlaag>
+                  </k:Kaartlaag>-->
                   <k:Kaartlaag>
                      <k:identificatie>nl.imow-gm1979.kaartlaag.niveau4</k:identificatie>
                      <k:naam>Geluidproductieplafonds</k:naam>
@@ -80,7 +80,7 @@
             </k:Kaart>
          </ow-dc:owObject>
       </sl:stand>
-      <sl:stand><!-- Normwaarden als sterretjes -->
+     <!-- <sl:stand><!-\- Normwaarden als sterretjes -\->
          <ow-dc:owObject>
             <s:SymbolisatieItem>
                <s:symboolcode>ps014</s:symboolcode>
@@ -109,8 +109,8 @@
                </s:normwaardeSymbolisatie>
             </s:SymbolisatieItem>
          </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand><!-- Hoofdinfra -->
+      </sl:stand>-->
+      <!--<sl:stand><!-\- Hoofdinfra -\->
          <ow-dc:owObject>
             <s:SymbolisatieItem>
                <s:symboolcode>lt026</s:symboolcode>
@@ -120,7 +120,7 @@
             </s:SymbolisatieItem>
          </ow-dc:owObject>
       </sl:stand>
-      <sl:stand><!-- Bouwvlak -->
+      <sl:stand><!-\- Bouwvlak -\->
          <ow-dc:owObject>
             <s:SymbolisatieItem>
                <s:symboolcode>vsg014</s:symboolcode>
@@ -130,7 +130,7 @@
             </s:SymbolisatieItem>
          </ow-dc:owObject>
       </sl:stand>
-      <sl:stand><!-- Centrumgebied -->
+      <sl:stand><!-\- Centrumgebied -\->
          <ow-dc:owObject>
             <s:SymbolisatieItem>
                <s:symboolcode>vsg027</s:symboolcode>
@@ -140,7 +140,7 @@
             </s:SymbolisatieItem>
          </ow-dc:owObject>
       </sl:stand>
-      <sl:stand><!-- Industrieterrein-->
+      <sl:stand><!-\- Industrieterrein-\->
          <ow-dc:owObject>
             <s:SymbolisatieItem>
                <s:symboolcode>vsg021</s:symboolcode>
@@ -149,6 +149,6 @@
                </s:gebiedsaanwijzingSymbolisatie>
             </s:SymbolisatieItem>
          </ow-dc:owObject>
-      </sl:stand>
+      </sl:stand>-->
    </sl:standBestand>
 </ow-dc:owBestand>

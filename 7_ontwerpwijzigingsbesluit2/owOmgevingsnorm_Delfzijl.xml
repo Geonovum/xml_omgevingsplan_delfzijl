@@ -78,9 +78,10 @@
             </rol:Omgevingsnorm>
          </ow-dc:owObject>
       </sl:stand>
-      <sl:stand>
+      <!--sl:stand>
          <ow-dc:owObject>
             <rol:Omgevingsnorm>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <rol:identificatie>nl.imow-gm1979.omgevingsnorm.Rooilijn</rol:identificatie>
                <rol:naam>rooilijn</rol:naam>
                <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/NogToeTeVoegen</rol:type>
@@ -96,6 +97,6 @@
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/omgevingsnorm/id/concept/MaatvoeringBouwen</rol:groep>
             </rol:Omgevingsnorm>
          </ow-dc:owObject>
-      </sl:stand>
+      </sl:stand>-->
    </sl:standBestand>
 </ow-dc:owBestand>

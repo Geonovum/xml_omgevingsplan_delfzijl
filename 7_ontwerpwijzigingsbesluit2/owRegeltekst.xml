@@ -126,7 +126,7 @@
          </ow-dc:owObject>
       </sl:stand>
       <!-- artikel 13y2 -->
-      <sl:stand>
+     <!-- <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
                <ow:procedurestatus>ontwerp</ow:procedurestatus>
@@ -150,7 +150,7 @@
                </r:activiteitaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
-      </sl:stand>
+      </sl:stand>-->
       <!--eerste artikel, daar alle activiteiten voor de boom plaatsen-->
       <sl:stand>
          <ow-dc:owObject>
@@ -329,7 +329,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm1979_3__chp_14__art_o_3">
+            <r:Regeltekst wId="gm1979_3__chp_14__art_14.3">
                <op:procedurestatus>ontwerp</op:procedurestatus>
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000124</r:identificatie>
             </r:Regeltekst>
@@ -380,7 +380,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm1979.regeltekst.2021000121"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.BouwvlakDelfzijlCentrum"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.BouwvlakLandelijkGebied"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm1979.activiteit.GeluidProdActNw"/>
@@ -388,7 +388,7 @@
                      <r:identificatie>nl.imow-gm1979.activiteitlocatieaanduiding.2020000031</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.BouwvlakDelfzijlCentrum"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm1979.gebiedengroep.BouwvlakLandelijkGebied"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -397,7 +397,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm1979_2__chp_14__art_o_4__para_1">
+            <r:Regeltekst wId="gm1979_2__chp_14__art_14.4__para_1">
                <op:procedurestatus>ontwerp</op:procedurestatus>
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000171</r:identificatie>
             </r:Regeltekst>
@@ -405,7 +405,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm1979_2__chp_14__art_o_4__para_2">
+            <r:Regeltekst wId="gm1979_2__chp_14__art_14.4__para_2">
                <op:procedurestatus>ontwerp</op:procedurestatus>
                <r:identificatie>nl.imow-gm1979.regeltekst.2021000172</r:identificatie>
             </r:Regeltekst>
